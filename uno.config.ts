@@ -4,15 +4,26 @@ import {
   presetIcons,
   presetTypography,
   presetUno,
-  presetWebFonts,
   transformerDirectives,
   transformerVariantGroup,
 } from 'unocss'
 
 export default defineConfig({
+  theme: {
+    colors: {
+      primary: { DEFAULT: '#4050B5', light: '#4959BF', dark: '#3B4AA9' },
+      important: { DEFAULT: '#CE5457' },
+      warning: { DEFAULT: '#FFC05B' },
+      safe: { DEFAULT: '#00C9A7' },
+      input: { DEFAULT: '#292929', light: '#333333', dark: '#232323' },
+      link: '#0086D1',
+      text: { DEFAULT: '#FFFFFF', light: '#FFFFFF', secondary: '#828387' },
+      back: { DEFAULT: '#292929', gray: '#141517', light: '#18191B', deep: '#0D0E10' },
+      wheat: { DEFAULT: '#F0D39C' },
+    },
+  },
   shortcuts: [
-    ['btn', 'px-4 py-1 rounded inline-block bg-teal-600 text-white cursor-pointer hover:bg-teal-700 disabled:cursor-default disabled:bg-gray-600 disabled:opacity-50'],
-    ['icon-btn', 'inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:opacity-100 hover:text-teal-600'],
+    ['bg-base', 'bg-back'],
   ],
   presets: [
     presetUno(),
@@ -21,13 +32,13 @@ export default defineConfig({
       scale: 1.2,
     }),
     presetTypography(),
-    presetWebFonts({
-      fonts: {
-        sans: 'DM Sans',
-        serif: 'DM Serif Display',
-        mono: 'DM Mono',
-      },
-    }),
+    // presetWebFonts({
+    //   fonts: {
+    //     sans: 'DM Sans',
+    //     serif: 'DM Serif Display',
+    //     mono: 'DM Mono',
+    //   },
+    // }),
   ],
   transformers: [
     transformerDirectives(),

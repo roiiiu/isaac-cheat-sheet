@@ -1,56 +1,66 @@
 <script setup lang="ts">
 import data from '../data.json'
+import trinkets from '../data_trinkets.json'
 
-type Collectible = typeof data[0]
-
+type Item = typeof data[0]
 const modalVisible = ref(false)
-const selectedCollectible = ref<Collectible | null>(null)
+const selected = ref<Item | null>(null)
+const query = ref('')
+
+const filteredCollectibles = computed(() => {
+  if (!query.value)
+    return data
+  return data.filter((item) => {
+    return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
+  })
+})
+
+const filteredTrinkets = computed(() => {
+  if (!query.value)
+    return trinkets
+  return trinkets.filter((item) => {
+    return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
+  })
+})
+
+function search(input: string) {
+  query.value = input
+}
+
+function toggleDetailsModal(item: any) {
+  modalVisible.value = true
+  selected.value = item
+}
 </script>
 
 <template>
-  <div
-    grid="~ gap-2 sm:gap-4 lg:cols-20 md:cols-10 cols-5"
-  >
-    <button
-      v-for="item in data"
-      :key="item.id"
-      flex="~ items-center justify-center"
-      @click="() => {
-        modalVisible = true
-        selectedCollectible = item
+  <Group :data="filteredCollectibles" title="道具" @active="toggleDetailsModal" />
+  <Group :data="filteredTrinkets" title="饰品" @active="toggleDetailsModal" />
+
+  <DetailsModal v-model="modalVisible">
+    <div
+      mb-2 scale-150
+      :class="selected?.type === '道具' ? 'collectibles' : 'trinkets'"
+      :style="{
+        backgroundPosition: selected?.offset,
       }"
-    >
-      <div
-        class="collectibles"
-        :style="{
-          backgroundPosition: item.offset,
-        }"
-      />
-    </button>
-
-    <DetailsModal v-model="modalVisible">
-      <div
-        class="collectibles"
-        :style="{
-          backgroundPosition: selectedCollectible?.offset,
-        }"
-      />
-      <p text-lg text-black font-bold>
-        {{ selectedCollectible?.title }}
+    />
+    <div flex="~ items-center gap-2">
+      <p text-lg font-bold>
+        {{ selected?.title }}
       </p>
-      <span>
-        {{ selectedCollectible?.effect }}
-      </span>
-    </DetailsModal>
-  </div>
-</template>
+      <div v-if="selected?.charge" flex="~ items-center gap-1" border="~ #02F917" rounded px-1 py-0 text-xs bg="#02F917/20">
+        <div i-carbon-battery-full text-green />
+        <span>{{ selected.charge.startsWith('0') ? '0' : selected.charge }}</span>
+      </div>
+    </div>
+    <p text-sm text="gray4/80">
+      {{ selected?.titleEn }}
+    </p>
+    <span text-sm>
+      {{ selected?.effect }}
+    </span>
+  </DetailsModal>
 
-<style scoped lang="scss">
-.collectibles {
-  image-rendering: pixelated;
-  width: 32px;
-  height: 32px;
-  transform: scale(1.5);
-  background-image: url('/Collectibles_sprite.png');
-}
-</style>
+  <InputBar @search="search" />
+</template>
