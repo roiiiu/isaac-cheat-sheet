@@ -14,8 +14,8 @@ const expanded = ref(true)
 <template>
   <button
     text="wheat xl"
-    :class="{ 'text-op60': !expanded }"
-    bg="base" flex="~ justify-between" sticky top-0 z-1 w-full py-4 font-bold transition-200 @click="expanded = !expanded"
+    :class="{ 'text-op60': !expanded, 'sticky': expanded }"
+    bg="base" flex="~ justify-between" top-0 z-1 w-full py-4 font-bold transition-200 @click="expanded = !expanded"
   >
     <span>{{ title }}</span>
     <div i-carbon-chevron-right transition-transform-200 :class="[expanded ? 'rotate-90' : 'rotate-0']" />
@@ -33,7 +33,7 @@ const expanded = ref(true)
       @click="$emit('active', item)"
     >
       <div
-        :class="title === '道具' ? 'collectibles' : 'trinkets'"
+        :class="title"
         m-3
         scale-200
         :style="{

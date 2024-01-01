@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import data from '../data.json'
 import trinkets from '../data_trinkets.json'
+import cards from '../data_card.json'
 
 type Item = typeof data[0]
 const modalVisible = ref(false)
@@ -10,18 +11,24 @@ const query = ref('')
 const filteredCollectibles = computed(() => {
   if (!query.value)
     return data
-  return data.filter((item) => {
-    return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
-  })
+  return data.filter(filterFunc)
 })
 
 const filteredTrinkets = computed(() => {
   if (!query.value)
     return trinkets
-  return trinkets.filter((item) => {
-    return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
-  })
+  return trinkets.filter(filterFunc)
 })
+
+const filteredCards = computed(() => {
+  if (!query.value)
+    return cards
+  return cards.filter(filterFunc)
+})
+
+function filterFunc(item: any) {
+  return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
+}
 
 function search(input: string) {
   query.value = input
@@ -36,11 +43,12 @@ function toggleDetailsModal(item: any) {
 <template>
   <Group :data="filteredCollectibles" title="道具" @active="toggleDetailsModal" />
   <Group :data="filteredTrinkets" title="饰品" @active="toggleDetailsModal" />
+  <Group :data="filteredCards" title="卡牌" @active="toggleDetailsModal" />
 
   <DetailsModal v-model="modalVisible">
     <div
       mb-2 scale-150
-      :class="selected?.type === '道具' ? 'collectibles' : 'trinkets'"
+      :class="selected?.type"
       :style="{
         backgroundPosition: selected?.offset,
       }"

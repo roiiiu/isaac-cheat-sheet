@@ -9,16 +9,27 @@ useFavicon('/icon.webp')
 </template>
 
 <style lang="scss">
+.道具,
 .collectibles {
   image-rendering: pixelated;
   width: 32px;
   height: 32px;
   background-image: url('/Collectibles_sprite.png');
 }
+
+.饰品,
 .trinkets {
   image-rendering: pixelated;
   width: 32px;
   height: 32px;
   background-image: url('/Trinket_sprite.png');
+}
+
+.卡牌,
+.cards {
+  image-rendering: pixelated;
+  width: 32px;
+  height: 32px;
+  background-image: url('/Cards_sprite.png');
 }
 </style>
