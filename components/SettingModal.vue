@@ -2,12 +2,20 @@
 const modelValue = defineModel<boolean>({ required: true })
 const sortMethods = ['id', 'title', 'titleEn']
 const settingStore = useSettingStore()
+const elementRef = ref<HTMLDivElement | null>(null)
+
+onClickOutside(elementRef, () => {
+  modelValue.value = false
+}, {
+  ignore: ['#settingBtn'],
+})
 </script>
 
 <template>
   <Transition>
     <div
-      v-if="modelValue" border="2 gray5/80"
+      v-if="modelValue" ref="elementRef"
+      border="2 gray5/80"
       transform-origin="bc"
       absolute left-0 top--12 w-full max-w-screen-xl rounded-md bg-back p-2
     >

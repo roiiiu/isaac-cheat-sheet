@@ -32,6 +32,7 @@ watchDebounced(input, () => {
         @keyup.enter="inputRef!.blur()"
       >
       <button
+        id="settingBtn"
         text=" gray3 op80"
         hover="text-op-100"
         @click="settingModalVisible = !settingModalVisible"
