@@ -4,30 +4,37 @@ import trinkets from '../data_trinkets.json'
 import cards from '../data_card.json'
 
 type Item = typeof data[0]
+
 const modalVisible = ref(false)
 const selected = ref<Item | null>(null)
 const query = ref('')
+const settingStore = useSettingStore()
 
 const filteredCollectibles = computed(() => {
-  if (!query.value)
-    return data
-  return data.filter(filterFunc)
+  return data.filter(filterFunc).sort(sortFunc)
 })
 
 const filteredTrinkets = computed(() => {
-  if (!query.value)
-    return trinkets
-  return trinkets.filter(filterFunc)
+  return trinkets.filter(filterFunc).sort(sortFunc)
 })
 
 const filteredCards = computed(() => {
-  if (!query.value)
-    return cards
-  return cards.filter(filterFunc)
+  return cards.filter(filterFunc).sort(sortFunc)
 })
 
-function filterFunc(item: any) {
+function filterFunc(item: Item) {
+  if (!query.value)
+    return true
   return item.title.toLowerCase().includes(query.value.toLowerCase()) || item.titleEn.toLowerCase().includes(query.value.toLowerCase()) || item.quoteEn.toLowerCase().includes(query.value.toLowerCase())
+}
+
+function sortFunc(a: Item, b: Item) {
+  if (settingStore.sortMethod === 'id')
+    return Number.parseInt(a.id) - Number.parseInt(b.id)
+  else if (settingStore.sortMethod === 'title')
+    return a.title.localeCompare(b.title)
+  else
+    return a.titleEn.localeCompare(b.titleEn)
 }
 
 function search(input: string) {

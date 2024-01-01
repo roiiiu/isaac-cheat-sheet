@@ -1,0 +1,49 @@
+<script setup lang="ts">
+const modelValue = defineModel<boolean>({ required: true })
+const sortMethods = ['id', 'title', 'titleEn']
+const settingStore = useSettingStore()
+</script>
+
+<template>
+  <Transition>
+    <div
+      v-if="modelValue" border="2 gray5/80"
+      transform-origin="bc"
+      absolute left-0 top--12 w-full max-w-screen-xl rounded-md bg-back p-2
+    >
+      <div flex="~ items-center justify-between">
+        <span text="gray sm">排序</span>
+        <div flex="~ items-center justify-end ">
+          <button
+            v-for="method in sortMethods"
+            :key="method"
+            :disabled="method === 'color'"
+            :class="settingStore.sortMethod === method ? 'text-white' : 'text-gray4/60'"
+            px-2
+            @click="() => {
+              settingStore.setSortMethod(method)
+            }"
+          >
+            <div v-if="method === 'title'" i-icon-park-outline-chinese />
+            <div v-else-if="method === 'titleEn'" i-carbon-character-upper-case />
+            <div v-else-if="method === 'color'" i-carbon-color-palette />
+            <div v-else i-carbon-character-whole-number />
+          </button>
+        </div>
+      </div>
+    </div>
+  </Transition>
+</template>
+
+<style scoped lang="scss">
+.v-enter-active,
+.v-leave-active {
+  transition: all 0.2s;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+  transform: translateY(50%);
+}
+</style>
