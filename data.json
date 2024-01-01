@@ -1,0 +1,7192 @@
+[
+  {
+    "title": "悲伤洋葱",
+    "titleEn": "The Sad Onion",
+    "id": "1",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升。",
+    "offset": "-32px 0px"
+  },
+  {
+    "title": "内眼",
+    "titleEn": "The Inner Eye",
+    "id": "2",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色每次发射3颗泪弹。",
+    "offset": "-64px 0px"
+  },
+  {
+    "title": "弯勺魔术",
+    "titleEn": "Spoon Bender",
+    "id": "3",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色的泪弹获得追踪效果。",
+    "offset": "-96px 0px"
+  },
+  {
+    "title": "柯吉猫的头",
+    "titleEn": "Cricket's Head",
+    "id": "4",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "泪弹变大，击退效果上升，伤害上升。",
+    "offset": "-128px 0px"
+  },
+  {
+    "title": "我的镜像",
+    "titleEn": "My Reflection",
+    "id": "5",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色的泪弹会飞回角色身边。",
+    "offset": "-160px 0px"
+  },
+  {
+    "title": "小号",
+    "titleEn": "Number One",
+    "id": "6",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "射程下降，射速上升。",
+    "offset": "-192px 0px"
+  },
+  {
+    "title": "殉道者之血",
+    "titleEn": "Blood of the Martyr",
+    "id": "7",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升。",
+    "offset": "-224px 0px"
+  },
+  {
+    "title": "波比兄弟",
+    "titleEn": "Brother Bobby",
+    "id": "8",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射普通泪弹的跟班。",
+    "offset": "-256px 0px"
+  },
+  {
+    "title": "粪臭素",
+    "titleEn": "Skatole",
+    "id": "9",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "苍蝇不再攻击角色。",
+    "offset": "-288px 0px"
+  },
+  {
+    "title": "苍蝇光环",
+    "titleEn": "Halo of Flies",
+    "id": "10",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "两个阻挡敌人泪弹的苍蝇环绕物。",
+    "offset": "-320px 0px"
+  },
+  {
+    "title": "1UP!",
+    "titleEn": "1up!",
+    "id": "11",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生命+1",
+    "offset": "-352px 0px"
+  },
+  {
+    "title": "魔法蘑菇",
+    "titleEn": "Magic Mushroom",
+    "id": "12",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "心之容器+1，回满红心，移速上升，伤害上升，射程上升。角色体型变大。",
+    "offset": "-384px 0px"
+  },
+  {
+    "title": "病毒",
+    "titleEn": "The Virus",
+    "id": "13",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "移速上升，碰到角色的敌人会中毒。",
+    "offset": "-416px 0px"
+  },
+  {
+    "title": "过量类固醇",
+    "titleEn": "Roid Rage",
+    "id": "14",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "移速上升，射程上升。",
+    "offset": "-448px 0px"
+  },
+  {
+    "title": "<3",
+    "titleEn": "<3",
+    "id": "15",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，回满红心。",
+    "offset": "-480px 0px"
+  },
+  {
+    "title": "生肝",
+    "titleEn": "Raw Liver",
+    "id": "16",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+2，回满红心。",
+    "offset": "-512px 0px"
+  },
+  {
+    "title": "骷髅钥匙",
+    "titleEn": "Skeleton Key",
+    "id": "17",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "钥匙+99",
+    "offset": "-544px 0px"
+  },
+  {
+    "title": "一美元",
+    "titleEn": "A Dollar",
+    "id": "18",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "硬币+100",
+    "offset": "-576px 0px"
+  },
+  {
+    "title": "轰！",
+    "titleEn": "Boom!",
+    "id": "19",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "炸弹+10",
+    "offset": "-608px 0px"
+  },
+  {
+    "title": "超凡升天",
+    "titleEn": "Transcendence",
+    "id": "20",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色获得飞行效果。",
+    "offset": "0px -32px"
+  },
+  {
+    "title": "指南针",
+    "titleEn": "The Compass",
+    "id": "21",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "显示特殊房间的位置。",
+    "offset": "-32px -32px"
+  },
+  {
+    "title": "午餐",
+    "titleEn": "Lunch",
+    "id": "22",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-64px -32px"
+  },
+  {
+    "title": "正餐",
+    "titleEn": "Dinner",
+    "id": "23",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-96px -32px"
+  },
+  {
+    "title": "甜点",
+    "titleEn": "Dessert",
+    "id": "24",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-128px -32px"
+  },
+  {
+    "title": "早餐",
+    "titleEn": "Breakfast",
+    "id": "25",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-160px -32px"
+  },
+  {
+    "title": "烂肉",
+    "titleEn": "Rotten Meat",
+    "id": "26",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-192px -32px"
+  },
+  {
+    "title": "木头勺子",
+    "titleEn": "Wooden Spoon",
+    "id": "27",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "移速上升。",
+    "offset": "-224px -32px"
+  },
+  {
+    "title": "皮带",
+    "titleEn": "The Belt",
+    "id": "28",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "移速上升。",
+    "offset": "-256px -32px"
+  },
+  {
+    "title": "妈妈的内裤",
+    "titleEn": "Mom's Underwear",
+    "id": "29",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射程上升。",
+    "offset": "-288px -32px"
+  },
+  {
+    "title": "妈妈的高跟鞋",
+    "titleEn": "Mom's Heels",
+    "id": "30",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射程上升。",
+    "offset": "-320px -32px"
+  },
+  {
+    "title": "妈妈的口红",
+    "titleEn": "Mom's Lipstick",
+    "id": "31",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射程上升。",
+    "offset": "-352px -32px"
+  },
+  {
+    "title": "铁丝衣架",
+    "titleEn": "Wire Coat Hanger",
+    "id": "32",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升。",
+    "offset": "-384px -32px"
+  },
+  {
+    "title": "圣经",
+    "titleEn": "The Bible",
+    "id": "33",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，获得飞行效果。",
+    "offset": "-416px -32px"
+  },
+  {
+    "title": "彼列之书",
+    "titleEn": "The Book of Belial",
+    "id": "34",
+    "type": "道具",
+    "quality": "2",
+    "charge": "3",
+    "effect": "使用后，在当前房间内伤害上升。",
+    "offset": "-448px -32px"
+  },
+  {
+    "title": "死灵之书",
+    "titleEn": "The Necronomicon",
+    "id": "35",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，对所有敌人造成伤害。",
+    "offset": "-480px -32px"
+  },
+  {
+    "title": "大便",
+    "titleEn": "The Poop",
+    "id": "36",
+    "type": "道具",
+    "quality": "0",
+    "charge": "1",
+    "effect": "使用后，生成一个大便。",
+    "offset": "-512px -32px"
+  },
+  {
+    "title": "炸弹先生",
+    "titleEn": "Mr. Boom",
+    "id": "37",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，放置一个大炸弹。",
+    "offset": "-544px -32px"
+  },
+  {
+    "title": "塔米猫的头",
+    "titleEn": "Tammy's Head",
+    "id": "38",
+    "type": "道具",
+    "quality": "2",
+    "charge": "1",
+    "effect": "使用后，发射十颗泪弹。",
+    "offset": "-576px -32px"
+  },
+  {
+    "title": "妈妈的胸罩",
+    "titleEn": "Mom's Bra",
+    "id": "39",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，房间中的所有敌人石化。",
+    "offset": "-608px -32px"
+  },
+  {
+    "title": "神风！",
+    "titleEn": "Kamikaze!",
+    "id": "40",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "使用后，角色会爆炸，对附近的敌人造成伤害。",
+    "offset": "0px -64px"
+  },
+  {
+    "title": "妈妈的卫生巾",
+    "titleEn": "Mom's Pad",
+    "id": "41",
+    "type": "道具",
+    "quality": "0",
+    "charge": "2",
+    "effect": "使用后，当前房间中的所有敌人恐惧。",
+    "offset": "-32px -64px"
+  },
+  {
+    "title": "鲍勃的烂头",
+    "titleEn": "Bob's Rotten Head",
+    "id": "42",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，丢出一颗炸弹。",
+    "offset": "-64px -64px"
+  },
+  {
+    "title": "传送！",
+    "titleEn": "Teleport!",
+    "id": "44",
+    "type": "道具",
+    "quality": "0",
+    "charge": "2",
+    "effect": "使用后，随机传送到一个房间。",
+    "offset": "-96px -64px"
+  },
+  {
+    "title": "美味的心",
+    "titleEn": "Yum Heart",
+    "id": "45",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，回复一颗红心。",
+    "offset": "-128px -64px"
+  },
+  {
+    "title": "幸运脚",
+    "titleEn": "Lucky Foot",
+    "id": "46",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "幸运上升。转化部分坏胶囊。",
+    "offset": "-160px -64px"
+  },
+  {
+    "title": "胎儿博士的遥控器",
+    "titleEn": "Doctor's Remote",
+    "id": "47",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，生成一枚导弹。",
+    "offset": "-192px -64px"
+  },
+  {
+    "title": "丘比特之箭",
+    "titleEn": "Cupid's Arrow",
+    "id": "48",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色的泪弹获得穿刺效果。",
+    "offset": "-224px -64px"
+  },
+  {
+    "title": "嗖-哒-呜！",
+    "titleEn": "Shoop da Whoop!",
+    "id": "49",
+    "type": "道具",
+    "quality": "2",
+    "charge": "2",
+    "effect": "使用后，发射一道激光柱。",
+    "offset": "-256px -64px"
+  },
+  {
+    "title": "史蒂文",
+    "titleEn": "Steven",
+    "id": "50",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升。",
+    "offset": "-288px -64px"
+  },
+  {
+    "title": "五芒星",
+    "titleEn": "Pentagram",
+    "id": "51",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升。",
+    "offset": "-320px -64px"
+  },
+  {
+    "title": "胎儿博士",
+    "titleEn": "Dr. Fetus",
+    "id": "52",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "攻击方式改为发射炸弹。",
+    "offset": "-352px -64px"
+  },
+  {
+    "title": "万磁王",
+    "titleEn": "Magneto",
+    "id": "53",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "角色会吸引所有可拾取的掉落物。",
+    "offset": "-384px -64px"
+  },
+  {
+    "title": "藏宝图",
+    "titleEn": "Treasure Map",
+    "id": "54",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "显示除隐藏房和超级隐藏房以外的所有房间的位置。",
+    "offset": "-416px -64px"
+  },
+  {
+    "title": "妈妈的眼睛",
+    "titleEn": "Mom's Eye",
+    "id": "55",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "有概率向后额外发射泪弹。",
+    "offset": "-448px -64px"
+  },
+  {
+    "title": "烦事柠檬",
+    "titleEn": "Lemon Mishap",
+    "id": "56",
+    "type": "道具",
+    "quality": "0",
+    "charge": "2",
+    "effect": "使用后，生成一摊水迹，对敌人造成伤害。",
+    "offset": "-480px -64px"
+  },
+  {
+    "title": "仰慕之交",
+    "titleEn": "Distant Admiration",
+    "id": "57",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "距离角色很远的苍蝇环绕物。",
+    "offset": "-512px -64px"
+  },
+  {
+    "title": "影之书",
+    "titleEn": "Book of Shadows",
+    "id": "58",
+    "type": "道具",
+    "quality": "3",
+    "charge": "3",
+    "effect": "使用后，角色获得护盾效果，持续时间内无敌。",
+    "offset": "-544px -64px"
+  },
+  {
+    "title": "梯子",
+    "titleEn": "The Ladder",
+    "id": "60",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "允许角色跨过一格宽的沟壑。",
+    "offset": "-608px -64px"
+  },
+  {
+    "title": "吸血鬼之魅",
+    "titleEn": "Charm of the Vampire",
+    "id": "62",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "伤害上升。消灭敌人会回复红心。",
+    "offset": "0px -96px"
+  },
+  {
+    "title": "蓄电池",
+    "titleEn": "The Battery",
+    "id": "63",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "主动道具获得额外的充能条。",
+    "offset": "-32px -96px"
+  },
+  {
+    "title": "Steam大促",
+    "titleEn": "Steam Sale",
+    "id": "64",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "所有物品半价。",
+    "offset": "-64px -96px"
+  },
+  {
+    "title": "无政府主义者食谱",
+    "titleEn": "Anarchist Cookbook",
+    "id": "65",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，生成6个即爆炸弹。",
+    "offset": "-96px -96px"
+  },
+  {
+    "title": "沙漏",
+    "titleEn": "The Hourglass",
+    "id": "66",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，使房间中所有敌人减速。",
+    "offset": "-128px -96px"
+  },
+  {
+    "title": "玛姬姐妹",
+    "titleEn": "Sister Maggy",
+    "id": "67",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射普通泪弹的跟班。",
+    "offset": "-160px -96px"
+  },
+  {
+    "title": "科技",
+    "titleEn": "Technology",
+    "id": "68",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "攻击方式改为发射激光。",
+    "offset": "-192px -96px"
+  },
+  {
+    "title": "巧克力牛奶",
+    "titleEn": "Chocolate Milk",
+    "id": "69",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "蓄力发射泪弹，蓄力越久伤害越高。",
+    "offset": "-224px -96px"
+  },
+  {
+    "title": "生长激素",
+    "titleEn": "Growth Hormones",
+    "id": "70",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，移速上升。",
+    "offset": "-256px -96px"
+  },
+  {
+    "title": "小蘑菇",
+    "titleEn": "Mini Mush",
+    "id": "71",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色体型变小，移速上升，射程上升。",
+    "offset": "-288px -96px"
+  },
+  {
+    "title": "念珠",
+    "titleEn": "Rosary",
+    "id": "72",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+3，射速上升。获得 圣经的概率提高。",
+    "offset": "-320px -96px"
+  },
+  {
+    "title": "肉块",
+    "titleEn": "Cube of Meat",
+    "id": "73",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "肉块环绕物，拾取多个会变强。",
+    "offset": "-352px -96px"
+  },
+  {
+    "title": "25美分",
+    "titleEn": "A Quarter",
+    "id": "74",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "硬币+25",
+    "offset": "-384px -96px"
+  },
+  {
+    "title": "药学博士证",
+    "titleEn": "PHD",
+    "id": "75",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "能够分辨胶囊，坏胶囊变为好胶囊。",
+    "offset": "-416px -96px"
+  },
+  {
+    "title": "X光透视",
+    "titleEn": "X-Ray Vision",
+    "id": "76",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "打开隐藏房和超级隐藏房的门。",
+    "offset": "-448px -96px"
+  },
+  {
+    "title": "彩虹独角兽",
+    "titleEn": "My Little Unicorn",
+    "id": "77",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，角色短暂性无敌，能造成接触伤害。",
+    "offset": "-480px -96px"
+  },
+  {
+    "title": "启示录",
+    "titleEn": "Book of Revelations",
+    "id": "78",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，获得一颗魂心，角色更容易遇到天启骑士。",
+    "offset": "-512px -96px"
+  },
+  {
+    "title": "咒印",
+    "titleEn": "The Mark",
+    "id": "79",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "黑心+1，伤害上升，移速上升。",
+    "offset": "-544px -96px"
+  },
+  {
+    "title": "契约",
+    "titleEn": "The Pact",
+    "id": "80",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "黑心+2，伤害上升，射速上升。",
+    "offset": "-576px -96px"
+  },
+  {
+    "title": "嗝屁猫",
+    "titleEn": "Dead Cat",
+    "id": "81",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生命+9，心之容器变为1。",
+    "offset": "-608px -96px"
+  },
+  {
+    "title": "深渊领主",
+    "titleEn": "Lord of the Pit",
+    "id": "82",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得飞行效果，移速上升。",
+    "offset": "0px -128px"
+  },
+  {
+    "title": "钉子",
+    "titleEn": "The Nail",
+    "id": "83",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，黑心+0.5，当前房间中伤害上升，移速下降。",
+    "offset": "-32px -128px"
+  },
+  {
+    "title": "我们需要深入挖掘！",
+    "titleEn": "We Need To Go Deeper!",
+    "id": "84",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，生成1个活板门。",
+    "offset": "-64px -128px"
+  },
+  {
+    "title": "卡牌盒",
+    "titleEn": "Deck of Cards",
+    "id": "85",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，获得1个卡牌。",
+    "offset": "-96px -128px"
+  },
+  {
+    "title": "萌死戳的牙",
+    "titleEn": "Monstro's Tooth",
+    "id": "86",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，生成萌死戳从天而降，对敌人造成伤害。没有敌人则对角色造成伤害。",
+    "offset": "-128px -128px"
+  },
+  {
+    "title": "洛基的角",
+    "titleEn": "Loki's Horns",
+    "id": "87",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射4向泪弹。",
+    "offset": "-160px -128px"
+  },
+  {
+    "title": "小胖蛆",
+    "titleEn": "Little Chubby",
+    "id": "88",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "向敌人冲撞的跟班。",
+    "offset": "-192px -128px"
+  },
+  {
+    "title": "蜘蛛之咬",
+    "titleEn": "Spider Bite",
+    "id": "89",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率发射减速泪弹。",
+    "offset": "-224px -128px"
+  },
+  {
+    "title": "小石头",
+    "titleEn": "The Small Rock",
+    "id": "90",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，射速上升，移速下降。",
+    "offset": "-256px -128px"
+  },
+  {
+    "title": "探窟帽",
+    "titleEn": "Spelunker Hat",
+    "id": "91",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "显示周围房间。",
+    "offset": "-288px -128px"
+  },
+  {
+    "title": "超级绷带",
+    "titleEn": "Super Bandage",
+    "id": "92",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，魂心+2。",
+    "offset": "-320px -128px"
+  },
+  {
+    "title": "游戏掌机",
+    "titleEn": "The Gamekid",
+    "id": "93",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，变身吃豆人，吃掉敌人会回复红心。",
+    "offset": "-352px -128px"
+  },
+  {
+    "title": "硬币袋",
+    "titleEn": "Sack of Pennies",
+    "id": "94",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "生成硬币的跟班。",
+    "offset": "-384px -128px"
+  },
+  {
+    "title": "机器宝宝",
+    "titleEn": "Robo-Baby",
+    "id": "95",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射激光的跟班。",
+    "offset": "-416px -128px"
+  },
+  {
+    "title": "查德宝宝",
+    "titleEn": "Little C.H.A.D.",
+    "id": "96",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成红心的跟班。",
+    "offset": "-448px -128px"
+  },
+  {
+    "title": "七原罪之书",
+    "titleEn": "The Book of Sin",
+    "id": "97",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，随机生成7种掉落物之一。",
+    "offset": "-480px -128px"
+  },
+  {
+    "title": "圣遗物",
+    "titleEn": "The Relic",
+    "id": "98",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成魂心的跟班。",
+    "offset": "-512px -128px"
+  },
+  {
+    "title": "吉什宝宝",
+    "titleEn": "Little Gish",
+    "id": "99",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射减速泪弹的跟班。",
+    "offset": "-544px -128px"
+  },
+  {
+    "title": "史蒂文宝宝",
+    "titleEn": "Little Steven",
+    "id": "100",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射追踪泪弹的跟班。",
+    "offset": "-576px -128px"
+  },
+  {
+    "title": "光环",
+    "titleEn": "The Halo",
+    "id": "101",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，伤害上升，射速上升，射程上升，移速上升。",
+    "offset": "-608px -128px"
+  },
+  {
+    "title": "妈妈的药瓶",
+    "titleEn": "Mom's Bottle of Pills",
+    "id": "102",
+    "type": "道具",
+    "quality": "1",
+    "charge": "6",
+    "effect": "使用后，获得一个胶囊。",
+    "offset": "0px -160px"
+  },
+  {
+    "title": "普通感冒",
+    "titleEn": "The Common Cold",
+    "id": "103",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射毒性泪弹。",
+    "offset": "-32px -160px"
+  },
+  {
+    "title": "寄生虫",
+    "titleEn": "The Parasite",
+    "id": "104",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹会分裂为两颗。",
+    "offset": "-64px -160px"
+  },
+  {
+    "title": "六面骰",
+    "titleEn": "The D6",
+    "id": "105",
+    "type": "道具",
+    "quality": "4",
+    "charge": "6",
+    "effect": "使用后，重置房间中的道具。",
+    "offset": "-96px -160px"
+  },
+  {
+    "title": "大爆弹先生",
+    "titleEn": "Mr. Mega",
+    "id": "106",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹的爆炸范围变大，爆炸伤害上升。",
+    "offset": "-128px -160px"
+  },
+  {
+    "title": "锯齿剪",
+    "titleEn": "The Pinking Shears",
+    "id": "107",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，角色的身体变为跟班，头获得飞行效果。",
+    "offset": "-160px -160px"
+  },
+  {
+    "title": "圣饼",
+    "titleEn": "The Wafer",
+    "id": "108",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "所有伤害变为半颗心。",
+    "offset": "-192px -160px"
+  },
+  {
+    "title": "金钱=力量",
+    "titleEn": "Money = Power",
+    "id": "109",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "硬币越多，伤害越高。",
+    "offset": "-224px -160px"
+  },
+  {
+    "title": "妈妈的美瞳",
+    "titleEn": "Mom's Contacts",
+    "id": "110",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射石化泪弹。",
+    "offset": "-256px -160px"
+  },
+  {
+    "title": "豆子",
+    "titleEn": "The Bean",
+    "id": "111",
+    "type": "道具",
+    "quality": "0",
+    "charge": "1",
+    "effect": "使用后，角色放屁，让附近的敌人中毒。",
+    "offset": "-288px -160px"
+  },
+  {
+    "title": "守护天使",
+    "titleEn": "Guardian Angel",
+    "id": "112",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "阻挡泪弹的环绕物，能让环绕物的速度变快。",
+    "offset": "-320px -160px"
+  },
+  {
+    "title": "恶魔宝宝",
+    "titleEn": "Demon Baby",
+    "id": "113",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "自动发射泪弹的跟班。",
+    "offset": "-352px -160px"
+  },
+  {
+    "title": "妈妈的菜刀",
+    "titleEn": "Mom's Knife",
+    "id": "114",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "攻击方式改为发射菜刀。",
+    "offset": "-384px -160px"
+  },
+  {
+    "title": "通灵板",
+    "titleEn": "Ouija Board",
+    "id": "115",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射灵体泪弹，射速上升。",
+    "offset": "-416px -160px"
+  },
+  {
+    "title": "9伏特",
+    "titleEn": "9 Volt",
+    "id": "116",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "使用主动道具后自动获得1格充能。",
+    "offset": "-448px -160px"
+  },
+  {
+    "title": "死鸟",
+    "titleEn": "Dead Bird",
+    "id": "117",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受伤出现自动追击敌人的跟班。",
+    "offset": "-480px -160px"
+  },
+  {
+    "title": "硫磺火",
+    "titleEn": "Brimstone",
+    "id": "118",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "攻击方式改为蓄力发射血激光柱。",
+    "offset": "-512px -160px"
+  },
+  {
+    "title": "血袋",
+    "titleEn": "Blood Bag",
+    "id": "119",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，红心+5，移速上升。",
+    "offset": "-544px -160px"
+  },
+  {
+    "title": "怪异蘑菇",
+    "titleEn": "Odd Mushroom",
+    "id": "120",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "伤害下降，射速上升，移速上升。",
+    "offset": "-576px -160px"
+  },
+  {
+    "title": "怪异蘑菇",
+    "titleEn": "Odd Mushroom",
+    "id": "121",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心，伤害上升，射程上升，移速下降。",
+    "offset": "-608px -160px"
+  },
+  {
+    "title": "巴比伦大淫妇",
+    "titleEn": "Whore of Babylon",
+    "id": "122",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "红心不大于半颗时，伤害上升，移速上升。",
+    "offset": "0px -192px"
+  },
+  {
+    "title": "怪物手册",
+    "titleEn": "Monster Manual",
+    "id": "123",
+    "type": "道具",
+    "quality": "1",
+    "charge": "6",
+    "effect": "使用后，当前楼层中获得一个随机跟班。",
+    "offset": "-32px -192px"
+  },
+  {
+    "title": "死海古卷",
+    "titleEn": "Dead Sea Scrolls",
+    "id": "124",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，触发随机主动道具效果。",
+    "offset": "-64px -192px"
+  },
+  {
+    "title": "波比炸弹",
+    "titleEn": "Bobby-Bomb",
+    "id": "125",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5，炸弹获得追踪效果。",
+    "offset": "-96px -192px"
+  },
+  {
+    "title": "剃刀片",
+    "titleEn": "Razor Blade",
+    "id": "126",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "使用后，受到一颗心的伤害，当前房间中伤害上升。",
+    "offset": "-128px -192px"
+  },
+  {
+    "title": "遗忘药",
+    "titleEn": "Forget Me Now",
+    "id": "127",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0,一次性使用",
+    "effect": "使用后，重置当前层。",
+    "offset": "-160px -192px"
+  },
+  {
+    "title": "孤独一生",
+    "titleEn": "Forever alone",
+    "id": "128",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "半径较大的苍蝇环绕物。",
+    "offset": "-192px -192px"
+  },
+  {
+    "title": "桶装猪油",
+    "titleEn": "Bucket of Lard",
+    "id": "129",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+2，移速下降。",
+    "offset": "-224px -192px"
+  },
+  {
+    "title": "小黑马",
+    "titleEn": "A Pony",
+    "id": "130",
+    "type": "道具",
+    "quality": "2",
+    "charge": "2",
+    "effect": "获得飞行效果，移速上升。使用后，向前冲撞。",
+    "offset": "-256px -192px"
+  },
+  {
+    "title": "炸弹袋",
+    "titleEn": "Bomb Bag",
+    "id": "131",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成炸弹的跟班。",
+    "offset": "-288px -192px"
+  },
+  {
+    "title": "煤块",
+    "titleEn": "A Lump of Coal",
+    "id": "132",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹飞行越远，伤害越高。",
+    "offset": "-320px -192px"
+  },
+  {
+    "title": "嗝屁猫的爪子",
+    "titleEn": "Guppy's Paw",
+    "id": "133",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0",
+    "effect": "使用后，心之容器-1，魂心+3。",
+    "offset": "-352px -192px"
+  },
+  {
+    "title": "嗝屁猫的尾巴",
+    "titleEn": "Guppy's Tail",
+    "id": "134",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成箱子的概率上升。",
+    "offset": "-384px -192px"
+  },
+  {
+    "title": "献血袋",
+    "titleEn": "IV Bag",
+    "id": "135",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "使用后，受到半颗红心的伤害，生成一些硬币。",
+    "offset": "-416px -192px"
+  },
+  {
+    "title": "最好的朋友",
+    "titleEn": "Best Friend",
+    "id": "136",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，放置一个吸引敌人的人偶，几秒后爆炸。",
+    "offset": "-448px -192px"
+  },
+  {
+    "title": "起爆器",
+    "titleEn": "Remote Detonator",
+    "id": "137",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "炸弹+5。使用后，引爆放置的炸弹。",
+    "offset": "-480px -192px"
+  },
+  {
+    "title": "圣痕",
+    "titleEn": "Stigmata",
+    "id": "138",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，伤害上升。",
+    "offset": "-512px -192px"
+  },
+  {
+    "title": "妈妈的钱包",
+    "titleEn": "Mom's Purse",
+    "id": "139",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "可以携带两个饰品。",
+    "offset": "-544px -192px"
+  },
+  {
+    "title": "鲍勃的诅咒",
+    "titleEn": "Bob's Curse",
+    "id": "140",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "炸弹+5，炸弹会让敌人中毒。",
+    "offset": "-576px -192px"
+  },
+  {
+    "title": "盛装男孩",
+    "titleEn": "Pageant Boy",
+    "id": "141",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "生成7个硬币。",
+    "offset": "-608px -192px"
+  },
+  {
+    "title": "肩衣",
+    "titleEn": "Scapular",
+    "id": "142",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤后如果只有半颗心，则魂心+1。",
+    "offset": "0px -224px"
+  },
+  {
+    "title": "混合麻药",
+    "titleEn": "Speed Ball",
+    "id": "143",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "移速上升，弹速上升。",
+    "offset": "-32px -224px"
+  },
+  {
+    "title": "乞丐朋友",
+    "titleEn": "Bum Friend",
+    "id": "144",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "将硬币转换为其他掉落物的跟班。",
+    "offset": "-64px -224px"
+  },
+  {
+    "title": "嗝屁猫的头",
+    "titleEn": "Guppy's Head",
+    "id": "145",
+    "type": "道具",
+    "quality": "2",
+    "charge": "1",
+    "effect": "使用后，生成蓝苍蝇。",
+    "offset": "-96px -224px"
+  },
+  {
+    "title": "祈祷卡",
+    "titleEn": "Prayer Card",
+    "id": "146",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，永恒之心+1。",
+    "offset": "-128px -224px"
+  },
+  {
+    "title": "残损铁镐",
+    "titleEn": "Notched Axe",
+    "id": "147",
+    "type": "道具",
+    "quality": "1",
+    "charge": "1",
+    "effect": "使用后，角色使用铁镐进行攻击。",
+    "offset": "-160px -224px"
+  },
+  {
+    "title": "害虫横行",
+    "titleEn": "Infestation",
+    "id": "148",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受到伤害时，生成蓝苍蝇。",
+    "offset": "-192px -224px"
+  },
+  {
+    "title": "吐根酊",
+    "titleEn": "Ipecac",
+    "id": "149",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "抛射爆炸泪弹。",
+    "offset": "-224px -224px"
+  },
+  {
+    "title": "严厉的爱",
+    "titleEn": "Tough Love",
+    "id": "150",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射牙齿，造成大量伤害。",
+    "offset": "-256px -224px"
+  },
+  {
+    "title": "虫群复击",
+    "titleEn": "The Mulligan",
+    "id": "151",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "击中敌人时，有概率生成蓝苍蝇。",
+    "offset": "-288px -224px"
+  },
+  {
+    "title": "科技II",
+    "titleEn": "Technology 2",
+    "id": "152",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "持续发射激光。",
+    "offset": "-320px -224px"
+  },
+  {
+    "title": "变异蜘蛛",
+    "titleEn": "Mutant Spider",
+    "id": "153",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "同时发射4颗泪弹。",
+    "offset": "-352px -224px"
+  },
+  {
+    "title": "化学剥皮法",
+    "titleEn": "Chemical Peel",
+    "id": "154",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "左眼的泪弹伤害上升。",
+    "offset": "-384px -224px"
+  },
+  {
+    "title": "窥眼",
+    "titleEn": "The Peeper",
+    "id": "155",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "对角线移动的跟班。",
+    "offset": "-416px -224px"
+  },
+  {
+    "title": "修女服",
+    "titleEn": "Habit",
+    "id": "156",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤时获得1格充能。",
+    "offset": "-448px -224px"
+  },
+  {
+    "title": "嗜血",
+    "titleEn": "Bloody Lust",
+    "id": "157",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受到伤害时，当前层伤害上升。",
+    "offset": "-480px -224px"
+  },
+  {
+    "title": "水晶球",
+    "titleEn": "Crystal Ball",
+    "id": "158",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，显示本层除隐藏房和超级隐藏房的地图，随机生成卡牌或魂心。",
+    "offset": "-512px -224px"
+  },
+  {
+    "title": "夜之幽魂",
+    "titleEn": "Spirit of the Night",
+    "id": "159",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得飞行效果和灵体泪弹。",
+    "offset": "-544px -224px"
+  },
+  {
+    "title": "撕裂苍穹",
+    "titleEn": "Crack the Sky",
+    "id": "160",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，生成圣光攻击敌人。",
+    "offset": "-576px -224px"
+  },
+  {
+    "title": "安卡十字",
+    "titleEn": "Ankh",
+    "id": "161",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "死亡后复活变为创建缩略图出错：无法将缩略图保存到目标位置???。",
+    "offset": "-608px -224px"
+  },
+  {
+    "title": "凯尔特十字",
+    "titleEn": "Celtic Cross",
+    "id": "162",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后概率获得护盾。",
+    "offset": "0px -256px"
+  },
+  {
+    "title": "幽灵宝宝",
+    "titleEn": "Ghost Baby",
+    "id": "163",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射灵体泪弹的跟班。",
+    "offset": "-32px -256px"
+  },
+  {
+    "title": "蓝蜡烛",
+    "titleEn": "The Candle",
+    "id": "164",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4秒",
+    "effect": "使用后，发射一个火堆，一段时间后消失。",
+    "offset": "-64px -256px"
+  },
+  {
+    "title": "九尾鞭",
+    "titleEn": "Cat-o-nine-tails",
+    "id": "165",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，弹速上升。",
+    "offset": "-96px -256px"
+  },
+  {
+    "title": "二十面骰",
+    "titleEn": "D20",
+    "id": "166",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，重置当前房间中的掉落物。",
+    "offset": "-128px -256px"
+  },
+  {
+    "title": "小丑宝宝",
+    "titleEn": "Harlequin Baby",
+    "id": "167",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射分叉泪弹的跟班。",
+    "offset": "-160px -256px"
+  },
+  {
+    "title": "史诗胎儿博士",
+    "titleEn": "Epic Fetus",
+    "id": "168",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "角色控制光标，生成导弹轰击指定地点。",
+    "offset": "-192px -256px"
+  },
+  {
+    "title": "巨人独眼",
+    "titleEn": "Polyphemus",
+    "id": "169",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "发射巨大的泪弹。",
+    "offset": "-224px -256px"
+  },
+  {
+    "title": "长腿蛛父",
+    "titleEn": "Daddy Longlegs",
+    "id": "170",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "自动踩踏敌人的跟班。",
+    "offset": "-256px -256px"
+  },
+  {
+    "title": "蜘蛛屁股",
+    "titleEn": "Spider Butt",
+    "id": "171",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，对房间中的所有敌人造成少量伤害，并使它们减速。",
+    "offset": "-288px -256px"
+  },
+  {
+    "title": "献祭匕首",
+    "titleEn": "Sacrificial Dagger",
+    "id": "172",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "高伤害的环绕物。",
+    "offset": "-320px -256px"
+  },
+  {
+    "title": "主教冠",
+    "titleEn": "Mitre",
+    "id": "173",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "红心变为魂心概率上升。",
+    "offset": "-352px -256px"
+  },
+  {
+    "title": "彩虹宝宝",
+    "titleEn": "Rainbow Baby",
+    "id": "174",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射随机特效泪弹的跟班。",
+    "offset": "-384px -256px"
+  },
+  {
+    "title": "爸爸的钥匙",
+    "titleEn": "Dad's Key",
+    "id": "175",
+    "type": "道具",
+    "quality": "2",
+    "charge": "2",
+    "effect": "使用后，打开所有的门。",
+    "offset": "-416px -256px"
+  },
+  {
+    "title": "干细胞",
+    "titleEn": "Stem Cells",
+    "id": "176",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，弹速上升。",
+    "offset": "-448px -256px"
+  },
+  {
+    "title": "便携式老虎机",
+    "titleEn": "Portable Slot",
+    "id": "177",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "使用后，花费1枚硬币进行赌博。",
+    "offset": "-480px -256px"
+  },
+  {
+    "title": "圣水",
+    "titleEn": "Holy Water",
+    "id": "178",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射击键发射命中后留下石化水迹的跟班。",
+    "offset": "-512px -256px"
+  },
+  {
+    "title": "宿命",
+    "titleEn": "Fate",
+    "id": "179",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "永恒之心+1，获得飞行效果。",
+    "offset": "-544px -256px"
+  },
+  {
+    "title": "黑豆",
+    "titleEn": "The Black Bean",
+    "id": "180",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受伤时会放毒屁。",
+    "offset": "-576px -256px"
+  },
+  {
+    "title": "小白马",
+    "titleEn": "White Pony",
+    "id": "181",
+    "type": "道具",
+    "quality": "2",
+    "charge": "2",
+    "effect": "获得飞行效果，移速上升。使用后，向前冲锋，生成圣光。",
+    "offset": "-608px -256px"
+  },
+  {
+    "title": "圣心",
+    "titleEn": "Sacred Heart",
+    "id": "182",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "发射追踪泪弹，心之容器+1，回满红心，伤害上升，射程上升，射速下降，弹速下降。",
+    "offset": "0px -288px"
+  },
+  {
+    "title": "牙签",
+    "titleEn": "Tooth Picks",
+    "id": "183",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升，弹速上升。",
+    "offset": "-32px -288px"
+  },
+  {
+    "title": "圣杯",
+    "titleEn": "Holy Grail",
+    "id": "184",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心之容器+1，获得飞行效果。",
+    "offset": "-64px -288px"
+  },
+  {
+    "title": "死鸽",
+    "titleEn": "Dead Dove",
+    "id": "185",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得飞行效果和灵体泪弹。",
+    "offset": "-96px -288px"
+  },
+  {
+    "title": "血之权利",
+    "titleEn": "Blood Rights",
+    "id": "186",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "使用后，受到1颗心的伤害，对房间中的所有敌人造成大量伤害。",
+    "offset": "-128px -288px"
+  },
+  {
+    "title": "嗝屁猫的毛球",
+    "titleEn": "Guppy's Hairball",
+    "id": "187",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "用惯性甩动的跟班。",
+    "offset": "-160px -288px"
+  },
+  {
+    "title": "亚伯",
+    "titleEn": "Abel",
+    "id": "188",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "位置相反的跟班。",
+    "offset": "-192px -288px"
+  },
+  {
+    "title": "超级食肉男孩死忠粉",
+    "titleEn": "SMB Super Fan",
+    "id": "189",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心之容器+1，回复所有红心，伤害上升，射速上升，移速上升，射程上升。",
+    "offset": "-224px -288px"
+  },
+  {
+    "title": "烟火盛宴",
+    "titleEn": "Pyro",
+    "id": "190",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "炸弹+99",
+    "offset": "-256px -288px"
+  },
+  {
+    "title": "3美元纸币",
+    "titleEn": "3 Dollar Bill",
+    "id": "191",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射随机特效泪弹。",
+    "offset": "-288px -288px"
+  },
+  {
+    "title": "心灵感应傻瓜式教程",
+    "titleEn": "Telepathy For Dummies",
+    "id": "192",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，当前房间中发射追踪泪弹。",
+    "offset": "-320px -288px"
+  },
+  {
+    "title": "生肉！",
+    "titleEn": "MEAT!",
+    "id": "193",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，伤害上升。",
+    "offset": "-352px -288px"
+  },
+  {
+    "title": "魔力八号球",
+    "titleEn": "Magic 8 Ball",
+    "id": "194",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "卡牌+1，弹速上升。",
+    "offset": "-384px -288px"
+  },
+  {
+    "title": "妈妈的零钱包",
+    "titleEn": "Mom's Coin Purse",
+    "id": "195",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "胶囊+4。",
+    "offset": "-416px -288px"
+  },
+  {
+    "title": "挤压玩具",
+    "titleEn": "Squeezy",
+    "id": "196",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "魂心+2，射速上升。",
+    "offset": "-448px -288px"
+  },
+  {
+    "title": "耶稣果汁",
+    "titleEn": "Jesus Juice",
+    "id": "197",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "伤害上升，射程上升。",
+    "offset": "-480px -288px"
+  },
+  {
+    "title": "盒子",
+    "titleEn": "Box",
+    "id": "198",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "心+1，硬币+1，炸弹+1，钥匙+1，卡牌+1，胶囊+1，饰品+1。",
+    "offset": "-512px -288px"
+  },
+  {
+    "title": "妈妈的钥匙",
+    "titleEn": "Mom's Key",
+    "id": "199",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "钥匙+2，箱子开出的东西增多。",
+    "offset": "-544px -288px"
+  },
+  {
+    "title": "妈妈的眼影",
+    "titleEn": "Mom's Eyeshadow",
+    "id": "200",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射魅惑泪弹。",
+    "offset": "-576px -288px"
+  },
+  {
+    "title": "铁块",
+    "titleEn": "Iron Bar",
+    "id": "201",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率发射眩晕泪弹，伤害上升。",
+    "offset": "-608px -288px"
+  },
+  {
+    "title": "弥达斯之触",
+    "titleEn": "Midas' Touch",
+    "id": "202",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "碰到角色的敌人被金化。",
+    "offset": "0px -320px"
+  },
+  {
+    "title": "慈善捆绑包",
+    "titleEn": "Humbleing Bundle",
+    "id": "203",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成的掉落物会变为双倍。",
+    "offset": "-32px -320px"
+  },
+  {
+    "title": "挎包",
+    "titleEn": "Fanny Pack",
+    "id": "204",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时概率生成掉落物。",
+    "offset": "-64px -320px"
+  },
+  {
+    "title": "锋利插头",
+    "titleEn": "Sharp Plug",
+    "id": "205",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每半颗心为主动道具充能一格。",
+    "offset": "-96px -320px"
+  },
+  {
+    "title": "断头台",
+    "titleEn": "Guillotine",
+    "id": "206",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "头变为环绕物，伤害上升，射速上升。",
+    "offset": "-128px -320px"
+  },
+  {
+    "title": "绷带球",
+    "titleEn": "Ball of Bandages",
+    "id": "207",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "阻挡泪弹的环绕物，拾取多个会变强。",
+    "offset": "-160px -320px"
+  },
+  {
+    "title": "冠军腰带",
+    "titleEn": "Champion Belt",
+    "id": "208",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "精英敌人增加，伤害上升。",
+    "offset": "-192px -320px"
+  },
+  {
+    "title": "屁股炸弹",
+    "titleEn": "Butt Bombs",
+    "id": "209",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹爆炸后会使所有敌人混乱。",
+    "offset": "-224px -320px"
+  },
+  {
+    "title": "狸猫树叶",
+    "titleEn": "Gnawed Leaf",
+    "id": "210",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "连续1秒不操作则会无敌。",
+    "offset": "-256px -320px"
+  },
+  {
+    "title": "蜘蛛宝宝",
+    "titleEn": "Spiderbaby",
+    "id": "211",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受伤时生成蓝蜘蛛。",
+    "offset": "-288px -320px"
+  },
+  {
+    "title": "嗝屁猫的项圈",
+    "titleEn": "Guppy's Collar",
+    "id": "212",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "死亡后50%概率复活。",
+    "offset": "-320px -320px"
+  },
+  {
+    "title": "丢失的隐形眼镜",
+    "titleEn": "Lost Contact",
+    "id": "213",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹可以阻挡敌人的泪弹，弹速下降。",
+    "offset": "-352px -320px"
+  },
+  {
+    "title": "贫血",
+    "titleEn": "Anemic",
+    "id": "214",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受到伤害时会留下血迹，射程上升。",
+    "offset": "-384px -320px"
+  },
+  {
+    "title": "山羊头",
+    "titleEn": "Goat Head",
+    "id": "215",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "必定开启恶魔房。",
+    "offset": "-416px -320px"
+  },
+  {
+    "title": "仪式法袍",
+    "titleEn": "Ceremonial Robes",
+    "id": "216",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "黑心+3，伤害上升。",
+    "offset": "-448px -320px"
+  },
+  {
+    "title": "妈妈的假发",
+    "titleEn": "Mom's Wig",
+    "id": "217",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "红心+1，发射泪弹时会生成蓝蜘蛛。",
+    "offset": "-480px -320px"
+  },
+  {
+    "title": "胎盘",
+    "titleEn": "Placenta",
+    "id": "218",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，红心会随时间缓慢增加。",
+    "offset": "-512px -320px"
+  },
+  {
+    "title": "旧绷带",
+    "titleEn": "Old Bandage",
+    "id": "219",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1（空），受伤时有概率生成红心。",
+    "offset": "-544px -320px"
+  },
+  {
+    "title": "悲伤炸弹",
+    "titleEn": "Sad Bombs",
+    "id": "220",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5，炸弹爆炸后，向外发射10颗泪弹。",
+    "offset": "-576px -320px"
+  },
+  {
+    "title": "橡胶胶水",
+    "titleEn": "Rubber Cement",
+    "id": "221",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射橡胶泪弹。",
+    "offset": "-608px -320px"
+  },
+  {
+    "title": "反重力",
+    "titleEn": "Anti-Gravity",
+    "id": "222",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹会悬停一会儿再发射，射速上升。",
+    "offset": "0px -352px"
+  },
+  {
+    "title": "纵火狂",
+    "titleEn": "Pyromaniac",
+    "id": "223",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "炸弹+5，受到爆炸伤害改为回复红心。",
+    "offset": "-32px -352px"
+  },
+  {
+    "title": "柯吉猫的身体",
+    "titleEn": "Cricket's Body",
+    "id": "224",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹击中物体时会分裂成4颗，射程下降，射速上升。",
+    "offset": "-64px -352px"
+  },
+  {
+    "title": "兽性面具",
+    "titleEn": "Gimpy",
+    "id": "225",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤时有概率生成魂心，敌人死亡时有概率生成红心。",
+    "offset": "-96px -352px"
+  },
+  {
+    "title": "黑莲花",
+    "titleEn": "Black Lotus",
+    "id": "226",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，魂心+1，黑心+1。",
+    "offset": "-128px -352px"
+  },
+  {
+    "title": "小猪存钱罐",
+    "titleEn": "Piggy Bank",
+    "id": "227",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "硬币+3，受伤时会生成硬币。",
+    "offset": "-160px -352px"
+  },
+  {
+    "title": "妈妈的香水",
+    "titleEn": "Mom's Perfume",
+    "id": "228",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率发射恐惧泪弹。",
+    "offset": "-192px -352px"
+  },
+  {
+    "title": "萌死戳的肺",
+    "titleEn": "Monstro's Lung",
+    "id": "229",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓄力抛射大量泪弹。",
+    "offset": "-224px -352px"
+  },
+  {
+    "title": "亚巴顿",
+    "titleEn": "Abaddon",
+    "id": "230",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "移除所有心之容器并给予对应数量+2颗黑心，概率发射恐惧泪弹，伤害上升，移速上升。",
+    "offset": "-256px -352px"
+  },
+  {
+    "title": "焦油球",
+    "titleEn": "Ball of Tar",
+    "id": "231",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率发射减速泪弹，角色会留下减速的沥青。",
+    "offset": "-288px -352px"
+  },
+  {
+    "title": "怀表",
+    "titleEn": "Stop Watch",
+    "id": "232",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "移速上升，小幅减速所有敌人。",
+    "offset": "-320px -352px"
+  },
+  {
+    "title": "小小星球",
+    "titleEn": "Tiny Planet",
+    "id": "233",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "泪弹会环绕角色，射程上升。",
+    "offset": "-352px -352px"
+  },
+  {
+    "title": "害虫横行II",
+    "titleEn": "Infestation 2",
+    "id": "234",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色消灭敌人时会生成蓝蜘蛛。",
+    "offset": "-384px -352px"
+  },
+  {
+    "title": "大肠杆菌",
+    "titleEn": "E. Coli",
+    "id": "236",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "碰到角色的怪物会变为大便。",
+    "offset": "-416px -352px"
+  },
+  {
+    "title": "死神之触",
+    "titleEn": "Death's Touch",
+    "id": "237",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射穿刺泪弹，伤害上升，射速下降。",
+    "offset": "-448px -352px"
+  },
+  {
+    "title": "钥匙碎片1",
+    "titleEn": "Key Piece 1",
+    "id": "238",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "收集两个钥匙碎片可以挑战超级撒但，天使房转换率上升。",
+    "offset": "-480px -352px"
+  },
+  {
+    "title": "钥匙碎片2",
+    "titleEn": "Key Piece 2",
+    "id": "239",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "收集两个钥匙碎片可以挑战超级撒但，天使房转换率上升。",
+    "offset": "-512px -352px"
+  },
+  {
+    "title": "实验性疗法",
+    "titleEn": "Experimental Treatment",
+    "id": "240",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "属性随机上升下降。",
+    "offset": "-544px -352px"
+  },
+  {
+    "title": "地狱契约",
+    "titleEn": "Contract from Below",
+    "id": "241",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "清理房间会生成双倍的掉落物。",
+    "offset": "-576px -352px"
+  },
+  {
+    "title": "耻辱假面",
+    "titleEn": "Infamy",
+    "id": "242",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色有概率抵挡敌人的泪弹。",
+    "offset": "-608px -352px"
+  },
+  {
+    "title": "三位一体盾",
+    "titleEn": "Trinity Shield",
+    "id": "243",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "抵挡泪弹的盾牌。",
+    "offset": "0px -384px"
+  },
+  {
+    "title": "科技0.5",
+    "titleEn": "Tech.5",
+    "id": "244",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "额外发射随机特效激光。",
+    "offset": "-32px -384px"
+  },
+  {
+    "title": "完美视力",
+    "titleEn": "20/20",
+    "id": "245",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "同时发射2颗泪弹。",
+    "offset": "-64px -384px"
+  },
+  {
+    "title": "蓝地图",
+    "titleEn": "Blue Map",
+    "id": "246",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "显示隐藏房和超级隐藏房。",
+    "offset": "-96px -384px"
+  },
+  {
+    "title": "好朋友一辈子！",
+    "titleEn": "BFFS!",
+    "id": "247",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "跟班变得更强。",
+    "offset": "-128px -384px"
+  },
+  {
+    "title": "虫群之心",
+    "titleEn": "Hive Mind",
+    "id": "248",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓝苍蝇和蓝蜘蛛变得更强。",
+    "offset": "-160px -384px"
+  },
+  {
+    "title": "额外选择",
+    "titleEn": "There's Options",
+    "id": "249",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "头目房道具二选一。",
+    "offset": "-192px -384px"
+  },
+  {
+    "title": "炸弹买一送一",
+    "titleEn": "BOGO Bombs",
+    "id": "250",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "生成的炸弹变为双倍。",
+    "offset": "-224px -384px"
+  },
+  {
+    "title": "新手牌组",
+    "titleEn": "Starter Deck",
+    "id": "251",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "卡牌+1，可以携带两个卡牌，胶囊变为卡牌。",
+    "offset": "-256px -384px"
+  },
+  {
+    "title": "小药袋",
+    "titleEn": "Little Baggy",
+    "id": "252",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "卡牌转换为胶囊，能够携带两个胶囊。",
+    "offset": "-288px -384px"
+  },
+  {
+    "title": "魔法血痂",
+    "titleEn": "Magic Scab",
+    "id": "253",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，幸运上升。",
+    "offset": "-320px -384px"
+  },
+  {
+    "title": "血块",
+    "titleEn": "Blood Clot",
+    "id": "254",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "左眼发射的泪弹伤害上升，射程上升。",
+    "offset": "-352px -384px"
+  },
+  {
+    "title": "螺丝",
+    "titleEn": "Screw",
+    "id": "255",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升，弹速上升。",
+    "offset": "-384px -384px"
+  },
+  {
+    "title": "炙热炸弹",
+    "titleEn": "Hot Bombs",
+    "id": "256",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "炸弹+5，炸弹爆炸后会留下火焰。",
+    "offset": "-416px -384px"
+  },
+  {
+    "title": "火焰意志",
+    "titleEn": "Fire Mind",
+    "id": "257",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射燃烧泪弹，点燃敌人并概率爆炸。",
+    "offset": "-448px -384px"
+  },
+  {
+    "title": "编号丢失",
+    "titleEn": "Missing No.",
+    "id": "258",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "每层会重置角色的道具。",
+    "offset": "-480px -384px"
+  },
+  {
+    "title": "暗物质",
+    "titleEn": "Dark Matter",
+    "id": "259",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射恐惧泪弹，伤害上升。",
+    "offset": "-512px -384px"
+  },
+  {
+    "title": "黑蜡烛",
+    "titleEn": "Black Candle",
+    "id": "260",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "黑心+1，解除所有诅咒。",
+    "offset": "-544px -384px"
+  },
+  {
+    "title": "眼球突出",
+    "titleEn": "Proptosis",
+    "id": "261",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹的伤害会慢慢变小，伤害上升。",
+    "offset": "-576px -384px"
+  },
+  {
+    "title": "遗失的书页2",
+    "titleEn": "Missing Page 2",
+    "id": "262",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "黑心+1，受伤时如果只有一颗心，则对所有敌人造成伤害。黑心伤害翻倍。",
+    "offset": "-608px -384px"
+  },
+  {
+    "title": "透明符文",
+    "titleEn": "Clear Rune",
+    "id": "263",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，触发当前符文/灵魂石的效果。",
+    "offset": "0px -416px"
+  },
+  {
+    "title": "智能苍蝇",
+    "titleEn": "Smart Fly",
+    "id": "264",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "阻挡泪弹的环绕物，受伤后会自动追踪敌人。",
+    "offset": "-32px -416px"
+  },
+  {
+    "title": "枯骨宝宝",
+    "titleEn": "Dry Baby",
+    "id": "265",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "阻挡泪弹的跟班，阻挡泪弹时概率对所有敌人造成伤害。",
+    "offset": "-64px -416px"
+  },
+  {
+    "title": "粘液卵囊",
+    "titleEn": "Juicy Sack",
+    "id": "266",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "分泌黏液并生成蓝蜘蛛的跟班。",
+    "offset": "-96px -416px"
+  },
+  {
+    "title": "机器宝宝2.0",
+    "titleEn": "Robo-Baby 2.0",
+    "id": "267",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "用射击键控制的自动发射激光的跟班。",
+    "offset": "-128px -416px"
+  },
+  {
+    "title": "腐烂宝宝",
+    "titleEn": "Rotten Baby",
+    "id": "268",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成蓝苍蝇的跟班。",
+    "offset": "-160px -416px"
+  },
+  {
+    "title": "无头宝宝",
+    "titleEn": "Headless Baby",
+    "id": "269",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "流血的跟班。",
+    "offset": "-192px -416px"
+  },
+  {
+    "title": "水蛭",
+    "titleEn": "Leech",
+    "id": "270",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "自动追踪敌人的跟班，消灭敌人会回复红心。",
+    "offset": "-224px -416px"
+  },
+  {
+    "title": "神秘的袋子",
+    "titleEn": "Mystery Sack",
+    "id": "271",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成随机掉落物的跟班。",
+    "offset": "-256px -416px"
+  },
+  {
+    "title": "大美蝇",
+    "titleEn": "BBF",
+    "id": "272",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "在房间中弹跳的会爆炸的跟班。",
+    "offset": "-288px -416px"
+  },
+  {
+    "title": "鲍勃的脑浆子",
+    "titleEn": "Bob's Brain",
+    "id": "273",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射击键发射的会爆炸的跟班。",
+    "offset": "-320px -416px"
+  },
+  {
+    "title": "生死之交",
+    "titleEn": "Best Bud",
+    "id": "274",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受伤时生成环绕角色的苍蝇。",
+    "offset": "-352px -416px"
+  },
+  {
+    "title": "硫磺火宝宝",
+    "titleEn": "Lil Brimstone",
+    "id": "275",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓄力发射血激光柱的跟班。",
+    "offset": "-384px -416px"
+  },
+  {
+    "title": "以撒的心脏",
+    "titleEn": "Isaac's Heart",
+    "id": "276",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "代替角色受伤的跟班。",
+    "offset": "-416px -416px"
+  },
+  {
+    "title": "恶灵宝宝",
+    "titleEn": "Lil Haunt",
+    "id": "277",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "使敌人恐惧的跟班。",
+    "offset": "-448px -416px"
+  },
+  {
+    "title": "黑暗乞丐",
+    "titleEn": "Dark Bum",
+    "id": "278",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "将红心转换为魂心的跟班。",
+    "offset": "-480px -416px"
+  },
+  {
+    "title": "大粉丝",
+    "titleEn": "Big Fan",
+    "id": "279",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "阻挡泪弹的跟班。",
+    "offset": "-512px -416px"
+  },
+  {
+    "title": "长腿蛛妹妹",
+    "titleEn": "Sissy Longlegs",
+    "id": "280",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "生成蓝蜘蛛的跟班。敌人碰到跟班会被魅惑。",
+    "offset": "-544px -416px"
+  },
+  {
+    "title": "受气包",
+    "titleEn": "Punching Bag",
+    "id": "281",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "吸引敌人仇恨的跟班。",
+    "offset": "-576px -416px"
+  },
+  {
+    "title": "跳跃教程",
+    "titleEn": "How to Jump",
+    "id": "282",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "使用后，向前跳跃。",
+    "offset": "-608px -416px"
+  },
+  {
+    "title": "一百面骰",
+    "titleEn": "D100",
+    "id": "283",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，重置角色的所有道具，重置房间中的所有道具和掉落物。",
+    "offset": "0px -448px"
+  },
+  {
+    "title": "四面骰",
+    "titleEn": "D4",
+    "id": "284",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，重置角色的所有道具。",
+    "offset": "-32px -448px"
+  },
+  {
+    "title": "十面骰",
+    "titleEn": "D10",
+    "id": "285",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，重置所有敌人。",
+    "offset": "-64px -448px"
+  },
+  {
+    "title": "空白卡牌",
+    "titleEn": "Blank Card",
+    "id": "286",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，触发当前卡牌的效果。",
+    "offset": "-96px -448px"
+  },
+  {
+    "title": "秘密之书",
+    "titleEn": "Book of Secrets",
+    "id": "287",
+    "type": "道具",
+    "quality": "1",
+    "charge": "6",
+    "effect": "使用后，显示1/3的地图。",
+    "offset": "-128px -448px"
+  },
+  {
+    "title": "蜘蛛盒",
+    "titleEn": "Box of Spiders",
+    "id": "288",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，生成蓝蜘蛛。",
+    "offset": "-160px -448px"
+  },
+  {
+    "title": "红蜡烛",
+    "titleEn": "Red Candle",
+    "id": "289",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4秒",
+    "effect": "使用后，发射一个火堆。",
+    "offset": "-192px -448px"
+  },
+  {
+    "title": "罐子",
+    "titleEn": "The Jar",
+    "id": "290",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "可以储存红心。使用后，将储存的红心倒出。",
+    "offset": "-224px -448px"
+  },
+  {
+    "title": "冲水！",
+    "titleEn": "Flush!",
+    "id": "291",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，将所有敌人变成大便。",
+    "offset": "-256px -448px"
+  },
+  {
+    "title": "撒但圣经",
+    "titleEn": "Satanic Bible",
+    "id": "292",
+    "type": "道具",
+    "quality": "4",
+    "charge": "6",
+    "effect": "使用后，黑心+1。将头目房的奖励道具替换为恶魔交易。",
+    "offset": "-288px -448px"
+  },
+  {
+    "title": "坎卜斯的头",
+    "titleEn": "Head of Krampus",
+    "id": "293",
+    "type": "道具",
+    "quality": "2",
+    "charge": "3",
+    "effect": "使用后，发射十字血激光柱。",
+    "offset": "-320px -448px"
+  },
+  {
+    "title": "棉豆",
+    "titleEn": "Butter Bean",
+    "id": "294",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3秒",
+    "effect": "使用后，角色会放屁。",
+    "offset": "-352px -448px"
+  },
+  {
+    "title": "魔术手指",
+    "titleEn": "Magic Fingers",
+    "id": "295",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "使用后，硬币-1，对所有敌人造成伤害。",
+    "offset": "-384px -448px"
+  },
+  {
+    "title": "转换器",
+    "titleEn": "Converter",
+    "id": "296",
+    "type": "道具",
+    "quality": "2",
+    "charge": "3",
+    "effect": "使用后，魂心-1，心之容器+1。",
+    "offset": "-416px -448px"
+  },
+  {
+    "title": "潘多拉魔盒",
+    "titleEn": "Pandora's Box",
+    "id": "297",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0,一次性使用",
+    "effect": "使用后，根据当前层数获得不同的效果。",
+    "offset": "-448px -448px"
+  },
+  {
+    "title": "独角兽的残角",
+    "titleEn": "Unicorn Stump",
+    "id": "298",
+    "type": "道具",
+    "quality": "1",
+    "charge": "1",
+    "effect": "使用后，短时间无敌。",
+    "offset": "-480px -448px"
+  },
+  {
+    "title": "金牛座",
+    "titleEn": "Taurus",
+    "id": "299",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "进入房间时移速会慢慢上升，到最大值时会无敌，移速下降。",
+    "offset": "-512px -448px"
+  },
+  {
+    "title": "白羊座",
+    "titleEn": "Aries",
+    "id": "300",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色具有冲撞伤害，移速上升。",
+    "offset": "-544px -448px"
+  },
+  {
+    "title": "巨蟹座",
+    "titleEn": "Cancer",
+    "id": "301",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "魂心+3，受伤后当前房间中的伤害变为半颗心。",
+    "offset": "-576px -448px"
+  },
+  {
+    "title": "狮子座",
+    "titleEn": "Leo",
+    "id": "302",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "能够摧毁障碍物。",
+    "offset": "-608px -448px"
+  },
+  {
+    "title": "室女座",
+    "titleEn": "Virgo",
+    "id": "303",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤后概率获得护盾，坏胶囊变为好胶囊。",
+    "offset": "0px -480px"
+  },
+  {
+    "title": "天秤座",
+    "titleEn": "Libra",
+    "id": "304",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "硬币+6，炸弹+6，钥匙+6，平衡所有属性。",
+    "offset": "-32px -480px"
+  },
+  {
+    "title": "天蝎座",
+    "titleEn": "Scorpio",
+    "id": "305",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射毒性泪弹。",
+    "offset": "-64px -480px"
+  },
+  {
+    "title": "人马座",
+    "titleEn": "Sagittarius",
+    "id": "306",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得穿刺效果，移速上升。",
+    "offset": "-96px -480px"
+  },
+  {
+    "title": "摩羯座",
+    "titleEn": "Capricorn",
+    "id": "307",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心之容器+1，硬币+1，炸弹+1，钥匙+1，伤害上升，移速上升，射程上升，射速上升。",
+    "offset": "-128px -480px"
+  },
+  {
+    "title": "宝瓶座",
+    "titleEn": "Aquarius",
+    "id": "308",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色移动会留下水迹。",
+    "offset": "-160px -480px"
+  },
+  {
+    "title": "双鱼座",
+    "titleEn": "Pisces",
+    "id": "309",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹击退效果上升，射速上升。",
+    "offset": "-192px -480px"
+  },
+  {
+    "title": "夏娃的睫毛膏",
+    "titleEn": "Eve's Mascara",
+    "id": "310",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，射速下降，弹速下降。",
+    "offset": "-224px -480px"
+  },
+  {
+    "title": "犹大的影子",
+    "titleEn": "Judas' Shadow",
+    "id": "311",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "死亡后变为黑犹大。",
+    "offset": "-256px -480px"
+  },
+  {
+    "title": "抹大拉的蝴蝶结",
+    "titleEn": "Maggy's Bow",
+    "id": "312",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，红心治疗量翻倍。",
+    "offset": "-288px -480px"
+  },
+  {
+    "title": "神圣屏障",
+    "titleEn": "Holy Mantle",
+    "id": "313",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "每个房间抵挡一次伤害。",
+    "offset": "-320px -480px"
+  },
+  {
+    "title": "霹雳大腿",
+    "titleEn": "Thunder Thighs",
+    "id": "314",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，可以摧毁障碍物，移速下降。",
+    "offset": "-352px -480px"
+  },
+  {
+    "title": "怪异磁铁",
+    "titleEn": "Strange Attractor",
+    "id": "315",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "泪弹会吸引敌人和掉落物。",
+    "offset": "-384px -480px"
+  },
+  {
+    "title": "诅咒之眼",
+    "titleEn": "Cursed Eye",
+    "id": "316",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "蓄力发射最多4颗泪弹。",
+    "offset": "-416px -480px"
+  },
+  {
+    "title": "神秘液体",
+    "titleEn": "Mysterious Liquid",
+    "id": "317",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹落地或击中时生成水迹。",
+    "offset": "-448px -480px"
+  },
+  {
+    "title": "双子座",
+    "titleEn": "Gemini",
+    "id": "318",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "自动追踪敌人的连体婴儿跟班。",
+    "offset": "-480px -480px"
+  },
+  {
+    "title": "该隐的另一只眼",
+    "titleEn": "Cain's Other Eye",
+    "id": "319",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "漂浮着的发射泪弹的跟班。",
+    "offset": "-512px -480px"
+  },
+  {
+    "title": "???唯一的朋友",
+    "titleEn": "???'s Only Friend",
+    "id": "320",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射击键控制的跟班。",
+    "offset": "-544px -480px"
+  },
+  {
+    "title": "参孙的脚镣",
+    "titleEn": "Samson's Chains",
+    "id": "321",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "可以摧毁障碍物并阻挡泪弹的跟班。",
+    "offset": "-576px -480px"
+  },
+  {
+    "title": "蒙戈宝宝",
+    "titleEn": "Mongo Baby",
+    "id": "322",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射其他跟班泪弹的跟班。",
+    "offset": "-608px -480px"
+  },
+  {
+    "title": "以撒的泪盆",
+    "titleEn": "Isaac's Tears",
+    "id": "323",
+    "type": "道具",
+    "quality": "1",
+    "charge": "6",
+    "effect": "使用后，发射8向泪弹。",
+    "offset": "0px -512px"
+  },
+  {
+    "title": "未定义",
+    "titleEn": "Undefined",
+    "id": "324",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，传送到宝箱房、隐藏房、超级隐藏房或错误房。",
+    "offset": "-32px -512px"
+  },
+  {
+    "title": "剪刀",
+    "titleEn": "Scissors",
+    "id": "325",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，将头留在原地变为跟班。",
+    "offset": "-64px -512px"
+  },
+  {
+    "title": "生命之息",
+    "titleEn": "Breath of Life",
+    "id": "326",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4秒",
+    "effect": "使用后，当充能为0时获得无敌，但每过一会儿会受到伤害。",
+    "offset": "-96px -512px"
+  },
+  {
+    "title": "全家福",
+    "titleEn": "The Polaroid",
+    "id": "327",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤后如果只有半颗红心，则获得护盾。",
+    "offset": "-128px -512px"
+  },
+  {
+    "title": "底片",
+    "titleEn": "The Negative",
+    "id": "328",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "伤害上升。受伤后如果只有半颗红心，则对所有敌人造成伤害。",
+    "offset": "-160px -512px"
+  },
+  {
+    "title": "鲁多维科科技",
+    "titleEn": "The Ludovico Technique",
+    "id": "329",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "用射击键控制的悬浮泪弹。",
+    "offset": "-192px -512px"
+  },
+  {
+    "title": "豆奶",
+    "titleEn": "Soy Milk",
+    "id": "330",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "伤害下降，射速上升。",
+    "offset": "-224px -512px"
+  },
+  {
+    "title": "神性",
+    "titleEn": "Godhead",
+    "id": "331",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "泪弹具有伤害光环。",
+    "offset": "-256px -512px"
+  },
+  {
+    "title": "拉撒路的绷带",
+    "titleEn": "Lazarus' Rags",
+    "id": "332",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "死亡后变为复活的拉撒路。",
+    "offset": "-288px -512px"
+  },
+  {
+    "title": "思想",
+    "titleEn": "The Mind",
+    "id": "333",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "显示所有地图。",
+    "offset": "-320px -512px"
+  },
+  {
+    "title": "肉体",
+    "titleEn": "The Body",
+    "id": "334",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心之容器+3",
+    "offset": "-352px -512px"
+  },
+  {
+    "title": "灵魂",
+    "titleEn": "The Soul",
+    "id": "335",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "魂心+2，泪弹和敌人会被角色弹开。",
+    "offset": "-384px -512px"
+  },
+  {
+    "title": "烂洋葱",
+    "titleEn": "Dead Onion",
+    "id": "336",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得穿刺和灵体效果，射程下降，弹速下降。",
+    "offset": "-416px -512px"
+  },
+  {
+    "title": "损坏的怀表",
+    "titleEn": "Broken Watch",
+    "id": "337",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "进入房间时，所有敌人概率减速或加速。",
+    "offset": "-448px -512px"
+  },
+  {
+    "title": "回旋镖",
+    "titleEn": "The Boomerang",
+    "id": "338",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2秒",
+    "effect": "使用后，丢出回旋镖，石化敌人，并拾取掉落物。",
+    "offset": "-480px -512px"
+  },
+  {
+    "title": "安全别针",
+    "titleEn": "Safety Pin",
+    "id": "339",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "黑心+1，射程上升，弹速上升。",
+    "offset": "-512px -512px"
+  },
+  {
+    "title": "咖啡因片",
+    "titleEn": "Caffeine Pill",
+    "id": "340",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "胶囊+1，体型减小，移速上升。",
+    "offset": "-544px -512px"
+  },
+  {
+    "title": "撕碎的照片",
+    "titleEn": "Torn Photo",
+    "id": "341",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升，弹速上升。",
+    "offset": "-576px -512px"
+  },
+  {
+    "title": "蓝盖蘑菇",
+    "titleEn": "Blue Cap",
+    "id": "342",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心之容器+1，射速上升，弹速下降。",
+    "offset": "-608px -512px"
+  },
+  {
+    "title": "弹簧锁钥匙",
+    "titleEn": "Latch Key",
+    "id": "343",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "魂心+1，钥匙+2，幸运上升。",
+    "offset": "0px -544px"
+  },
+  {
+    "title": "火柴盒",
+    "titleEn": "Match Book",
+    "id": "344",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "黑心+1，炸弹+3。",
+    "offset": "-32px -544px"
+  },
+  {
+    "title": "合成油脂",
+    "titleEn": "Synthoil",
+    "id": "345",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，射程上升。",
+    "offset": "-64px -544px"
+  },
+  {
+    "title": "零食",
+    "titleEn": "A Snack",
+    "id": "346",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-96px -544px"
+  },
+  {
+    "title": "复视",
+    "titleEn": "Diplopia",
+    "id": "347",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0,一次性使用",
+    "effect": "使用后，复制房间中的所有物品。",
+    "offset": "-128px -544px"
+  },
+  {
+    "title": "安慰剂",
+    "titleEn": "Placebo",
+    "id": "348",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，触发当前胶囊的效果。",
+    "offset": "-160px -544px"
+  },
+  {
+    "title": "木制镍币",
+    "titleEn": "Wooden Nickel",
+    "id": "349",
+    "type": "道具",
+    "quality": "1",
+    "charge": "1",
+    "effect": "使用后，概率生成1枚硬币。",
+    "offset": "-192px -544px"
+  },
+  {
+    "title": "毒性休克",
+    "titleEn": "Toxic Shock",
+    "id": "350",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "每当角色进入一个有敌人的房间时，会释放毒雾，对房间中的所有敌人造成大量伤害。",
+    "offset": "-224px -544px"
+  },
+  {
+    "title": "超级豆子",
+    "titleEn": "Mega Bean",
+    "id": "351",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，石化所有敌人，对附近的敌人造成伤害。",
+    "offset": "-256px -544px"
+  },
+  {
+    "title": "玻璃大炮",
+    "titleEn": "Glass Cannon",
+    "id": "352",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4秒",
+    "effect": "受伤额外受到两颗心伤害，且该道具损坏。使用后，发射巨大泪弹。",
+    "offset": "-288px -544px"
+  },
+  {
+    "title": "炸弹人",
+    "titleEn": "Bomber Boy",
+    "id": "353",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5，十字炸弹。",
+    "offset": "-320px -544px"
+  },
+  {
+    "title": "琥珀爆米花",
+    "titleEn": "Crack Jacks",
+    "id": "354",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，饰品+1。",
+    "offset": "-352px -544px"
+  },
+  {
+    "title": "妈妈的珍珠项链",
+    "titleEn": "Mom's Pearls",
+    "id": "355",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "射程上升，幸运上升。",
+    "offset": "-384px -544px"
+  },
+  {
+    "title": "车载电池",
+    "titleEn": "Car Battery",
+    "id": "356",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "主动道具会触发双倍效果。",
+    "offset": "-416px -544px"
+  },
+  {
+    "title": "朋友盒",
+    "titleEn": "Box of Friends",
+    "id": "357",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，在当前房间中复制所有跟班。",
+    "offset": "-448px -544px"
+  },
+  {
+    "title": "蠢巫帽",
+    "titleEn": "The Wiz",
+    "id": "358",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "角色的两个眼睛同时发射泪弹， 角色的泪弹向斜45º方向飞出，泪弹可以飞跃障碍物。",
+    "offset": "-480px -544px"
+  },
+  {
+    "title": "八寸钉",
+    "titleEn": "8 Inch Nails",
+    "id": "359",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "泪弹击退效果上升，伤害上升。",
+    "offset": "-512px -544px"
+  },
+  {
+    "title": "淫魔",
+    "titleEn": "Incubus",
+    "id": "360",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "发射与角色相同泪弹的跟班。",
+    "offset": "-544px -544px"
+  },
+  {
+    "title": "宿命的报答",
+    "titleEn": "Fate's Reward",
+    "id": "361",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射与角色相同泪弹特效和伤害的泪弹的跟班。",
+    "offset": "-576px -544px"
+  },
+  {
+    "title": "小箱子",
+    "titleEn": "Lil Chest",
+    "id": "362",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成掉落物的跟班。",
+    "offset": "-608px -544px"
+  },
+  {
+    "title": "宣誓守护者",
+    "titleEn": "Sworn Protector",
+    "id": "363",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成永恒之心的环绕物。",
+    "offset": "0px -576px"
+  },
+  {
+    "title": "浅交朋友",
+    "titleEn": "Friend Zone",
+    "id": "364",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "缓慢旋转的环绕物。",
+    "offset": "-32px -576px"
+  },
+  {
+    "title": "迷路苍蝇",
+    "titleEn": "Lost Fly",
+    "id": "365",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "沿墙前进的跟班。",
+    "offset": "-64px -576px"
+  },
+  {
+    "title": "分裂炸弹",
+    "titleEn": "Scatter Bombs",
+    "id": "366",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "炸弹+5，炸弹爆炸后会分裂出小炸弹。",
+    "offset": "-96px -576px"
+  },
+  {
+    "title": "粘性炸弹",
+    "titleEn": "Sticky Bombs",
+    "id": "367",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5，炸弹消灭敌人会生成蓝蜘蛛。",
+    "offset": "-128px -576px"
+  },
+  {
+    "title": "溢泪症",
+    "titleEn": "Epiphora",
+    "id": "368",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "保持同一个方向发射泪弹会增加射速。",
+    "offset": "-160px -576px"
+  },
+  {
+    "title": "连续统",
+    "titleEn": "Continuum",
+    "id": "369",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹可以穿过墙壁从另一边射出。",
+    "offset": "-192px -576px"
+  },
+  {
+    "title": "玩偶先生",
+    "titleEn": "Mr. Dolly",
+    "id": "370",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "心+3，射速上升，射程上升。",
+    "offset": "-224px -576px"
+  },
+  {
+    "title": "塔之诅咒",
+    "titleEn": "Curse of the Tower",
+    "id": "371",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "受伤时生成6个即爆炸弹。",
+    "offset": "-256px -576px"
+  },
+  {
+    "title": "充电宝宝",
+    "titleEn": "Charged Baby",
+    "id": "372",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "给予充能的跟班。",
+    "offset": "-288px -576px"
+  },
+  {
+    "title": "死亡之眼",
+    "titleEn": "Dead Eye",
+    "id": "373",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "连续命中敌人会增加伤害。",
+    "offset": "-320px -576px"
+  },
+  {
+    "title": "圣光",
+    "titleEn": "Holy Light",
+    "id": "374",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射圣光泪弹。",
+    "offset": "-352px -576px"
+  },
+  {
+    "title": "寄居骷髅帽",
+    "titleEn": "Host Hat",
+    "id": "375",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "免疫爆炸，概率阻挡敌人的泪弹。",
+    "offset": "-384px -576px"
+  },
+  {
+    "title": "补货",
+    "titleEn": "Restock",
+    "id": "376",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每当角色购买了一个物品后，刷新出一个新的物品。",
+    "offset": "-416px -576px"
+  },
+  {
+    "title": "爆裂虫卵",
+    "titleEn": "Bursting Sack",
+    "id": "377",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "蜘蛛不再攻击角色。",
+    "offset": "-448px -576px"
+  },
+  {
+    "title": "大号",
+    "titleEn": "No. 2",
+    "id": "378",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "按住射击键3秒会生成大便炸弹。",
+    "offset": "-480px -576px"
+  },
+  {
+    "title": "双瞳",
+    "titleEn": "Pupula Duplex",
+    "id": "379",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹变宽，更容易命中敌人。",
+    "offset": "-512px -576px"
+  },
+  {
+    "title": "充钱游戏",
+    "titleEn": "Pay To Play",
+    "id": "380",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "硬币+5，用硬币代替钥匙开门。",
+    "offset": "-544px -576px"
+  },
+  {
+    "title": "伊甸的祝福",
+    "titleEn": "Eden's Blessing",
+    "id": "381",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "在你的下一局游戏开始时，随机获得一个道具。射速上升。",
+    "offset": "-576px -576px"
+  },
+  {
+    "title": "友好球",
+    "titleEn": "Friendly Ball",
+    "id": "382",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，丢出友好球捕捉怪物或将捕捉的怪物放出。",
+    "offset": "-608px -576px"
+  },
+  {
+    "title": "眼泪引爆器",
+    "titleEn": "Tear Detonator",
+    "id": "383",
+    "type": "道具",
+    "quality": "1",
+    "charge": "15秒",
+    "effect": "使用后，角色在空中的所有泪弹分裂成6颗。",
+    "offset": "0px -608px"
+  },
+  {
+    "title": "肉山宝宝",
+    "titleEn": "Lil Gurdy",
+    "id": "384",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓄力冲撞的跟班。",
+    "offset": "-32px -608px"
+  },
+  {
+    "title": "乞丐宝",
+    "titleEn": "Bumbo",
+    "id": "385",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "拾取硬币变强的跟班。",
+    "offset": "-64px -608px"
+  },
+  {
+    "title": "十二面骰",
+    "titleEn": "D12",
+    "id": "386",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，重置房间中的所有岩石。",
+    "offset": "-96px -608px"
+  },
+  {
+    "title": "香炉",
+    "titleEn": "Censer",
+    "id": "387",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "给予角色一个圆形光环，使光环内的所有敌人与敌人的泪弹减速。",
+    "offset": "-128px -608px"
+  },
+  {
+    "title": "钥匙乞丐",
+    "titleEn": "Key Bum",
+    "id": "388",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "将钥匙变为箱子的跟班。",
+    "offset": "-160px -608px"
+  },
+  {
+    "title": "符文袋",
+    "titleEn": "Rune Bag",
+    "id": "389",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成符文的跟班。",
+    "offset": "-192px -608px"
+  },
+  {
+    "title": "撒拉弗",
+    "titleEn": "Seraphim",
+    "id": "390",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射圣心泪弹的跟班。",
+    "offset": "-224px -608px"
+  },
+  {
+    "title": "背叛",
+    "titleEn": "Betrayal",
+    "id": "391",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后魅惑所有敌人。",
+    "offset": "-256px -608px"
+  },
+  {
+    "title": "黄道十二宫",
+    "titleEn": "Zodiac",
+    "id": "392",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "每层获得一个十二星座的效果。",
+    "offset": "-288px -608px"
+  },
+  {
+    "title": "蛇蝎之吻",
+    "titleEn": "Serpent's Kiss",
+    "id": "393",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射毒性泪弹，碰到角色的敌人中毒。",
+    "offset": "-320px -608px"
+  },
+  {
+    "title": "十字准星",
+    "titleEn": "Marked",
+    "id": "394",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "角色控制一个光标，自动向光标处发射泪弹。",
+    "offset": "-352px -608px"
+  },
+  {
+    "title": "科技X",
+    "titleEn": "Tech X",
+    "id": "395",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "蓄力发射激光环。",
+    "offset": "-384px -608px"
+  },
+  {
+    "title": "心室手术刀",
+    "titleEn": "Ventricle Razor",
+    "id": "396",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "使用后，生成一个黄色或蓝色的传送门，角色可以在传送门间传送。",
+    "offset": "-416px -608px"
+  },
+  {
+    "title": "牵引光束",
+    "titleEn": "Tractor Beam",
+    "id": "397",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色控制一道光束，角色发射的所有泪弹都会被控制在光束之中。",
+    "offset": "-448px -608px"
+  },
+  {
+    "title": "神体蘑菇",
+    "titleEn": "God's Flesh",
+    "id": "398",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射缩小泪弹，缩小的怪物可以被角色踩死。",
+    "offset": "-480px -608px"
+  },
+  {
+    "title": "虚空之喉",
+    "titleEn": "Maw Of The Void",
+    "id": "399",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "蓄力生成血激光环围绕着角色。",
+    "offset": "-512px -608px"
+  },
+  {
+    "title": "命运之矛",
+    "titleEn": "Spear Of Destiny",
+    "id": "400",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色控制一把长枪。",
+    "offset": "-544px -608px"
+  },
+  {
+    "title": "爆炸物",
+    "titleEn": "Explosivo",
+    "id": "401",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射黏性爆炸泪弹",
+    "offset": "-576px -608px"
+  },
+  {
+    "title": "混沌",
+    "titleEn": "Chaos",
+    "id": "402",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "打乱道具池。",
+    "offset": "-608px -608px"
+  },
+  {
+    "title": "蜘蛛模组",
+    "titleEn": "Spider Mod",
+    "id": "403",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "显示敌人血量的跟班。",
+    "offset": "0px -640px"
+  },
+  {
+    "title": "放屁宝宝",
+    "titleEn": "Farting Baby",
+    "id": "404",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "阻挡泪弹会放屁的跟班。",
+    "offset": "-32px -640px"
+  },
+  {
+    "title": "恶性漏洞",
+    "titleEn": "GB Bug",
+    "id": "405",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射击键发射重置掉落物或敌人的跟班。",
+    "offset": "-64px -640px"
+  },
+  {
+    "title": "八面骰",
+    "titleEn": "D8",
+    "id": "406",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，重置属性。",
+    "offset": "-96px -640px"
+  },
+  {
+    "title": "纯洁",
+    "titleEn": "Purity",
+    "id": "407",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得属性加成光环，一种属性对应一种颜色。",
+    "offset": "-128px -640px"
+  },
+  {
+    "title": "祭祀之刃",
+    "titleEn": "Athame",
+    "id": "408",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "消灭敌人时生成鲜血激光环。",
+    "offset": "-160px -640px"
+  },
+  {
+    "title": "空容器",
+    "titleEn": "Empty Vessel",
+    "id": "409",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "没有红心时获得飞行效果和随机护盾。",
+    "offset": "-192px -640px"
+  },
+  {
+    "title": "邪恶之眼",
+    "titleEn": "Evil Eye",
+    "id": "410",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率发射眼睛，眼睛会和角色一起发射泪弹。",
+    "offset": "-224px -640px"
+  },
+  {
+    "title": "血嗜",
+    "titleEn": "Lusty Blood",
+    "id": "411",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "消灭敌人会在当前房间中增加伤害。",
+    "offset": "-256px -640px"
+  },
+  {
+    "title": "恶魔受胎",
+    "titleEn": "Cambion Conception",
+    "id": "412",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤一定次数会获得恶魔跟班。",
+    "offset": "-288px -640px"
+  },
+  {
+    "title": "圣灵受胎",
+    "titleEn": "Immaculate Conception",
+    "id": "413",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "拾取一定次数的心会获得天使跟班。",
+    "offset": "-320px -640px"
+  },
+  {
+    "title": "更多选择",
+    "titleEn": "More Options",
+    "id": "414",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "宝箱房的道具二选一。",
+    "offset": "-352px -640px"
+  },
+  {
+    "title": "光明之冠",
+    "titleEn": "Crown Of Light",
+    "id": "415",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "魂心+2，满红心时发射钻石泪弹。",
+    "offset": "-384px -640px"
+  },
+  {
+    "title": "深口袋",
+    "titleEn": "Deep Pockets",
+    "id": "416",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "金币上限变为999。清理房间后没有生成则生成金币。",
+    "offset": "-416px -640px"
+  },
+  {
+    "title": "魅魔",
+    "titleEn": "Succubus",
+    "id": "417",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "具有伤害加成光环的跟班。",
+    "offset": "-448px -640px"
+  },
+  {
+    "title": "水果蛋糕",
+    "titleEn": "Fruit Cake",
+    "id": "418",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每颗泪弹都具有随机特效。",
+    "offset": "-480px -640px"
+  },
+  {
+    "title": "传送2.0",
+    "titleEn": "Teleport 2.0",
+    "id": "419",
+    "type": "道具",
+    "quality": "3",
+    "charge": "4",
+    "effect": "使用后，随机传送到一个未进入过的房间。",
+    "offset": "-512px -640px"
+  },
+  {
+    "title": "黑色粉末",
+    "titleEn": "Black Powder",
+    "id": "420",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "角色会留下黑色粉末，粉末围成圈会形成魔法阵，对敌人造成伤害。",
+    "offset": "-544px -640px"
+  },
+  {
+    "title": "腰豆",
+    "titleEn": "Kidney Bean",
+    "id": "421",
+    "type": "道具",
+    "quality": "1",
+    "charge": "1",
+    "effect": "使用后，魅惑附近的敌人。",
+    "offset": "-576px -640px"
+  },
+  {
+    "title": "发光沙漏",
+    "titleEn": "Glowing Hourglass",
+    "id": "422",
+    "type": "道具",
+    "quality": "3",
+    "charge": "3",
+    "effect": "使用后，将时间倒转到上一个房间。",
+    "offset": "-608px -640px"
+  },
+  {
+    "title": "保护之环",
+    "titleEn": "Circle of Protection",
+    "id": "423",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "概率弹回追踪泪弹的光环。",
+    "offset": "0px -672px"
+  },
+  {
+    "title": "福袋头",
+    "titleEn": "Sack Head",
+    "id": "424",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "掉落物有概率变为福袋。",
+    "offset": "-32px -672px"
+  },
+  {
+    "title": "小夜灯",
+    "titleEn": "Night Light",
+    "id": "425",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "控制一个手电筒，被手电筒照射到的敌人和敌人的泪弹会减速。",
+    "offset": "-64px -672px"
+  },
+  {
+    "title": "狂热粉丝",
+    "titleEn": "Obsessed Fan",
+    "id": "426",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "模仿角色轨迹的跟班。",
+    "offset": "-96px -672px"
+  },
+  {
+    "title": "工矿炸药包",
+    "titleEn": "Mine Crafter",
+    "id": "427",
+    "type": "道具",
+    "quality": "1",
+    "charge": "1",
+    "effect": "使用后，放置一个可移动的TNT。",
+    "offset": "-128px -672px"
+  },
+  {
+    "title": "睡衣",
+    "titleEn": "PJs",
+    "id": "428",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+4，回满红心。",
+    "offset": "-160px -672px"
+  },
+  {
+    "title": "店主的头",
+    "titleEn": "Head of the Keeper",
+    "id": "429",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射硬币泪弹，击中敌人概率生成硬币。",
+    "offset": "-192px -672px"
+  },
+  {
+    "title": "狙击蝇老爹",
+    "titleEn": "Papa Fly",
+    "id": "430",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "模仿角色轨迹的发射泪弹的跟班。",
+    "offset": "-224px -672px"
+  },
+  {
+    "title": "多维宝宝",
+    "titleEn": "Multidimensional Baby",
+    "id": "431",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "模仿角色轨迹的复制泪弹的跟班。",
+    "offset": "-256px -672px"
+  },
+  {
+    "title": "闪光炸弹",
+    "titleEn": "Glitter Bombs",
+    "id": "432",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5，炸弹爆炸后生成掉落物。",
+    "offset": "-288px -672px"
+  },
+  {
+    "title": "我的影子",
+    "titleEn": "My Shadow",
+    "id": "433",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成影子，敌人接触到影子后生成2个友好的黑色的蛆。",
+    "offset": "-320px -672px"
+  },
+  {
+    "title": "苍蝇罐",
+    "titleEn": "Jar of Flies",
+    "id": "434",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0",
+    "effect": "消灭敌人会变为蓝苍蝇储存在罐子中。使用后，将蓝苍蝇释放出来。",
+    "offset": "-352px -672px"
+  },
+  {
+    "title": "洛基宝宝",
+    "titleEn": "Lil Loki",
+    "id": "435",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射4向泪弹的跟班。",
+    "offset": "-384px -672px"
+  },
+  {
+    "title": "牛奶！",
+    "titleEn": "Milk!",
+    "id": "436",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后，在当前房间中射速上升。",
+    "offset": "-416px -672px"
+  },
+  {
+    "title": "七面骰",
+    "titleEn": "D7",
+    "id": "437",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，重置房间，角色可以再次清理该房间。",
+    "offset": "-448px -672px"
+  },
+  {
+    "title": "奶嘴",
+    "titleEn": "Binky",
+    "id": "438",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "魂心+1，射速上升。",
+    "offset": "-480px -672px"
+  },
+  {
+    "title": "妈妈的盒子",
+    "titleEn": "Mom's Box",
+    "id": "439",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "饰品效果翻倍，幸运上升。使用后，随机生成1个饰品。",
+    "offset": "-512px -672px"
+  },
+  {
+    "title": "肾结石",
+    "titleEn": "Kidney Stone",
+    "id": "440",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每隔一段时间会蓄力发射肾结石。",
+    "offset": "-544px -672px"
+  },
+  {
+    "title": "超级喷射",
+    "titleEn": "Mega Blast",
+    "id": "441",
+    "type": "道具",
+    "quality": "4",
+    "charge": "12",
+    "effect": "使用后，喷射巨大的血激光柱，持续15秒。",
+    "offset": "-576px -672px"
+  },
+  {
+    "title": "黑王子之冠",
+    "titleEn": "Dark Prince's Crown",
+    "id": "442",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "角色有1颗红心时，射程上升，射速上升，弹速上升。",
+    "offset": "-608px -672px"
+  },
+  {
+    "title": "苹果！",
+    "titleEn": "Apple!",
+    "id": "443",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射刀片，射速上升。",
+    "offset": "0px -704px"
+  },
+  {
+    "title": "铅笔",
+    "titleEn": "Lead Pencil",
+    "id": "444",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "每发射15颗泪弹，则抛射大量泪弹。",
+    "offset": "-32px -704px"
+  },
+  {
+    "title": "狗牙",
+    "titleEn": "Dog Tooth",
+    "id": "445",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "探测隐藏房、超级隐藏房和暗门，伤害上升，移速上升。",
+    "offset": "-64px -704px"
+  },
+  {
+    "title": "烂牙",
+    "titleEn": "Dead Tooth",
+    "id": "446",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射泪弹时会生成毒雾。",
+    "offset": "-96px -704px"
+  },
+  {
+    "title": "流连豆",
+    "titleEn": "Linger Bean",
+    "id": "447",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "发射泪弹有概率发射毒雾。",
+    "offset": "-128px -704px"
+  },
+  {
+    "title": "玻璃碎片",
+    "titleEn": "Shard of Glass",
+    "id": "448",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时概率生成红心，且持续流血并伤害角色直到获得红心。",
+    "offset": "-160px -704px"
+  },
+  {
+    "title": "金属板",
+    "titleEn": "Metal Plate",
+    "id": "449",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "魂心+1，泪弹击中角色时概率弹回一个眩晕泪弹。",
+    "offset": "-192px -704px"
+  },
+  {
+    "title": "贪婪的眼睛",
+    "titleEn": "Eye of Greed",
+    "id": "450",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每发射20颗泪弹，便会消耗硬币发射硬币泪弹。",
+    "offset": "-224px -704px"
+  },
+  {
+    "title": "塔罗牌桌布",
+    "titleEn": "Tarot Cloth",
+    "id": "451",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "卡牌+1，卡牌的效果翻倍。",
+    "offset": "-256px -704px"
+  },
+  {
+    "title": "静脉曲张",
+    "titleEn": "Varicose Veins",
+    "id": "452",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时发射10颗泪弹。",
+    "offset": "-288px -704px"
+  },
+  {
+    "title": "复杂性骨折",
+    "titleEn": "Compound Fracture",
+    "id": "453",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射会分裂的骨头，射程上升。",
+    "offset": "-320px -704px"
+  },
+  {
+    "title": "多指畸形",
+    "titleEn": "Polydactyly",
+    "id": "454",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "卡牌/胶囊+1，可以携带2个卡牌/胶囊。",
+    "offset": "-352px -704px"
+  },
+  {
+    "title": "爸爸丢失的硬币",
+    "titleEn": "Dad's Lost Coin",
+    "id": "455",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "幸运币+1，射程上升。",
+    "offset": "-384px -704px"
+  },
+  {
+    "title": "夜宵",
+    "titleEn": "Midnight Snack",
+    "id": "456",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-416px -704px"
+  },
+  {
+    "title": "蛋头",
+    "titleEn": "Cone Head",
+    "id": "457",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+1，概率阻挡伤害。",
+    "offset": "-448px -704px"
+  },
+  {
+    "title": "肚脐",
+    "titleEn": "Belly Button",
+    "id": "458",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "饰品+1，可以携带2个饰品。",
+    "offset": "-480px -704px"
+  },
+  {
+    "title": "鼻窦炎",
+    "titleEn": "Sinus Infection",
+    "id": "459",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射黏在敌人身上的鼻屎。",
+    "offset": "-512px -704px"
+  },
+  {
+    "title": "青光眼",
+    "titleEn": "Glaucoma",
+    "id": "460",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射致盲泪弹。",
+    "offset": "-544px -704px"
+  },
+  {
+    "title": "拟寄生物",
+    "titleEn": "Parasitoid",
+    "id": "461",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射会生成蓝蜘蛛或蓝苍蝇的虫卵。",
+    "offset": "-576px -704px"
+  },
+  {
+    "title": "彼列之眼",
+    "titleEn": "Eye of Belial",
+    "id": "462",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得穿刺效果，泪弹穿刺一个敌人后会获得追踪效果且伤害翻倍。",
+    "offset": "-608px -704px"
+  },
+  {
+    "title": "硫酸",
+    "titleEn": "Sulfuric Acid",
+    "id": "463",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射硫酸泪弹，摧毁障碍物。",
+    "offset": "0px -736px"
+  },
+  {
+    "title": "平衡符号",
+    "titleEn": "Glyph of Balance",
+    "id": "464",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+2，清理房间与精英敌人会生成角色缺少的掉落物。",
+    "offset": "-32px -736px"
+  },
+  {
+    "title": "模拟摇杆",
+    "titleEn": "Analog Stick",
+    "id": "465",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色可以沿对角线发射泪弹，射速上升。",
+    "offset": "-64px -736px"
+  },
+  {
+    "title": "传染病",
+    "titleEn": "Contagion",
+    "id": "466",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每个房间中第一个死亡的敌人会释放毒雾，让其他敌人中毒，中毒的敌人死亡后也会释放毒雾。",
+    "offset": "-96px -736px"
+  },
+  {
+    "title": "手指！",
+    "titleEn": "Finger!",
+    "id": "467",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "发射隐形激光的跟班。",
+    "offset": "-128px -736px"
+  },
+  {
+    "title": "阴影",
+    "titleEn": "Shade",
+    "id": "468",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "跟随角色的跟班。",
+    "offset": "-160px -736px"
+  },
+  {
+    "title": "抑郁症",
+    "titleEn": "Depression",
+    "id": "469",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "留下水迹的跟班。",
+    "offset": "-192px -736px"
+  },
+  {
+    "title": "死寂宝宝",
+    "titleEn": "Hushy",
+    "id": "470",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "漂浮的跟班，按射击键停止移动。",
+    "offset": "-224px -736px"
+  },
+  {
+    "title": "萌死戳宝宝",
+    "titleEn": "Lil Monstro",
+    "id": "471",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓄力抛射泪弹的跟班。",
+    "offset": "-256px -736px"
+  },
+  {
+    "title": "国王宝宝",
+    "titleEn": "King Baby",
+    "id": "472",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "聚集跟班的跟班。",
+    "offset": "-288px -736px"
+  },
+  {
+    "title": "大胖蛆",
+    "titleEn": "Big Chubby",
+    "id": "473",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "缓慢冲撞的跟班。",
+    "offset": "-320px -736px"
+  },
+  {
+    "title": "损坏的玻璃大炮",
+    "titleEn": "Broken Glass Cannon",
+    "id": "474",
+    "type": "道具",
+    "quality": "0",
+    "charge": "4",
+    "effect": "充满后，修好玻璃大炮。",
+    "offset": "-352px -736px"
+  },
+  {
+    "title": "计划C",
+    "titleEn": "Plan C",
+    "id": "475",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0,一次性使用",
+    "effect": "使用后，消灭所有敌人，3秒后消灭角色。",
+    "offset": "-384px -736px"
+  },
+  {
+    "title": "一面骰",
+    "titleEn": "D1",
+    "id": "476",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，随机复制1个掉落物。",
+    "offset": "-416px -736px"
+  },
+  {
+    "title": "虚空",
+    "titleEn": "Void",
+    "id": "477",
+    "type": "道具",
+    "quality": "4",
+    "charge": "6",
+    "effect": "使用后，吞噬房间中的所有道具，被动道具变为属性加成，主动道具的效果被加入虚空。",
+    "offset": "-448px -736px"
+  },
+  {
+    "title": "暂停",
+    "titleEn": "Pause",
+    "id": "478",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，冻结所有敌人，直到玩家按下射击键。",
+    "offset": "-480px -736px"
+  },
+  {
+    "title": "熔炉",
+    "titleEn": "Smelter",
+    "id": "479",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，将饰品变为被动道具。",
+    "offset": "-512px -736px"
+  },
+  {
+    "title": "堆肥",
+    "titleEn": "Compost",
+    "id": "480",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，将房间中的掉落物变为蓝苍蝇或蓝蜘蛛。",
+    "offset": "-544px -736px"
+  },
+  {
+    "title": "数据破解",
+    "titleEn": "Dataminer",
+    "id": "481",
+    "type": "道具",
+    "quality": "0",
+    "charge": "4",
+    "effect": "使用后，贴图旋转，随机泪弹特效，随机属性增减。",
+    "offset": "-576px -736px"
+  },
+  {
+    "title": "遥控器",
+    "titleEn": "Clicker",
+    "id": "482",
+    "type": "道具",
+    "quality": "0",
+    "charge": "6",
+    "effect": "使用后，变换人物，失去1个道具。",
+    "offset": "-608px -736px"
+  },
+  {
+    "title": "妈咪炸弹！",
+    "titleEn": "Mama Mega!",
+    "id": "483",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0,一次性使用",
+    "effect": "使用后，打开本层所有的门，摧毁本层所有障碍物，对本层所有敌人造成大量伤害。",
+    "offset": "0px -768px"
+  },
+  {
+    "title": "等等，啥？",
+    "titleEn": "Wait What?",
+    "id": "484",
+    "type": "道具",
+    "quality": "1",
+    "charge": "10秒",
+    "effect": "使用后，角色放屁，并发射石刃波。",
+    "offset": "-32px -768px"
+  },
+  {
+    "title": "被掰弯的硬币",
+    "titleEn": "Crooked Penny",
+    "id": "485",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，硬币+1，概率复制房间中的所有物品，否则使它们消失。",
+    "offset": "-64px -768px"
+  },
+  {
+    "title": "钝剃刀片",
+    "titleEn": "Dull Razor",
+    "id": "486",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，触发一次受伤的效果。",
+    "offset": "-96px -768px"
+  },
+  {
+    "title": "土豆削皮刀",
+    "titleEn": "Potato Peeler",
+    "id": "487",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0",
+    "effect": "使用后，心之容器-1，获得一个肉块，伤害上升，射程上升。",
+    "offset": "-128px -768px"
+  },
+  {
+    "title": "节拍器",
+    "titleEn": "Metronome",
+    "id": "488",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，当前房间中获得随机道具效果。",
+    "offset": "-160px -768px"
+  },
+  {
+    "title": "无限面骰",
+    "titleEn": "D infinity",
+    "id": "489",
+    "type": "道具",
+    "quality": "4",
+    "charge": "2",
+    "effect": "可以作为任意骰子使用。",
+    "offset": "-192px -768px"
+  },
+  {
+    "title": "伊甸的灵魂",
+    "titleEn": "Eden's Soul",
+    "id": "490",
+    "type": "道具",
+    "quality": "3",
+    "charge": "12,一次性使用",
+    "effect": "使用后，道具+2。",
+    "offset": "-224px -768px"
+  },
+  {
+    "title": "毒瘾宝宝",
+    "titleEn": "Acid Baby",
+    "id": "491",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成胶囊的跟班。",
+    "offset": "-256px -768px"
+  },
+  {
+    "title": "嘿，听好！",
+    "titleEn": "YO LISTEN!",
+    "id": "492",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "探测隐藏的东西，幸运上升。",
+    "offset": "-288px -768px"
+  },
+  {
+    "title": "肾上腺素",
+    "titleEn": "Adrenaline",
+    "id": "493",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "空的心之容器越多，伤害越高。",
+    "offset": "-320px -768px"
+  },
+  {
+    "title": "雅各布天梯",
+    "titleEn": "Jacob's Ladder",
+    "id": "494",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射会生成电弧的泪弹。",
+    "offset": "-352px -768px"
+  },
+  {
+    "title": "断魂椒",
+    "titleEn": "Ghost Pepper",
+    "id": "495",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射火焰。",
+    "offset": "-384px -768px"
+  },
+  {
+    "title": "安乐死",
+    "titleEn": "Euthanasia",
+    "id": "496",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射针筒，消灭敌人时会发射10颗泪弹。",
+    "offset": "-416px -768px"
+  },
+  {
+    "title": "迷彩内裤",
+    "titleEn": "Camo Undies",
+    "id": "497",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "进入房间时，除非按下射击键，否则敌人不会攻击角色。",
+    "offset": "-448px -768px"
+  },
+  {
+    "title": "二元性",
+    "titleEn": "Duality",
+    "id": "498",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "同时开启恶魔房和天使房。",
+    "offset": "-480px -768px"
+  },
+  {
+    "title": "圣餐",
+    "titleEn": "Eucharist",
+    "id": "499",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "必定开启天使房。",
+    "offset": "-512px -768px"
+  },
+  {
+    "title": "袋中袋",
+    "titleEn": "Sack of Sacks",
+    "id": "500",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成福袋的跟班。",
+    "offset": "-544px -768px"
+  },
+  {
+    "title": "贪婪的胃袋",
+    "titleEn": "Greed's Gullet",
+    "id": "501",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "硬币越多，心之容器越多。",
+    "offset": "-576px -768px"
+  },
+  {
+    "title": "大青春痘",
+    "titleEn": "Large Zit",
+    "id": "502",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "概率发射能减速敌人的青春痘。",
+    "offset": "-608px -768px"
+  },
+  {
+    "title": "小魔角",
+    "titleEn": "Little Horn",
+    "id": "503",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射刺骨泪弹，秒杀怪物。",
+    "offset": "0px -800px"
+  },
+  {
+    "title": "棕色粪块",
+    "titleEn": "Brown Nugget",
+    "id": "504",
+    "type": "道具",
+    "quality": "0",
+    "charge": "7秒",
+    "effect": "使用后，生成会对附近的敌人发射泪弹的自机苍蝇跟班。",
+    "offset": "-32px -800px"
+  },
+  {
+    "title": "宝可GO",
+    "titleEn": "Poke Go",
+    "id": "505",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "进入房间时，概率生成被友好的敌人。",
+    "offset": "-64px -800px"
+  },
+  {
+    "title": "背刺",
+    "titleEn": "Backstabber",
+    "id": "506",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "攻击敌人的背部可以造成更高的伤害。",
+    "offset": "-96px -800px"
+  },
+  {
+    "title": "尖头吸管",
+    "titleEn": "Sharp Straw",
+    "id": "507",
+    "type": "道具",
+    "quality": "2",
+    "charge": "10秒",
+    "effect": "使用后，对房间中的所有敌人造成伤害，概率生成半魂心。",
+    "offset": "-128px -800px"
+  },
+  {
+    "title": "妈妈的剃刀",
+    "titleEn": "Mom's Razor",
+    "id": "508",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "造成接触伤害的环绕物。",
+    "offset": "-160px -800px"
+  },
+  {
+    "title": "血丝眼",
+    "titleEn": "Bloodshot Eye",
+    "id": "509",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "向外发射泪弹的环绕物。",
+    "offset": "-192px -800px"
+  },
+  {
+    "title": "精神错乱",
+    "titleEn": "Delirious",
+    "id": "510",
+    "type": "道具",
+    "quality": "1",
+    "charge": "12",
+    "effect": "使用后，生成一个被友好的头目。",
+    "offset": "-224px -800px"
+  },
+  {
+    "title": "愤怒苍蝇",
+    "titleEn": "Angry Fly",
+    "id": "511",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "环绕敌人的跟班。",
+    "offset": "-256px -800px"
+  },
+  {
+    "title": "黑洞",
+    "titleEn": "Black Hole",
+    "id": "512",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，抛出一个吸引所有东西的黑洞。",
+    "offset": "-288px -800px"
+  },
+  {
+    "title": "派对帽",
+    "titleEn": "Bozo",
+    "id": "513",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+1.伤害上升。受伤有概率生成彩虹大便。",
+    "offset": "-320px -800px"
+  },
+  {
+    "title": "损坏的调制解调器",
+    "titleEn": "Broken Modem",
+    "id": "514",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "随机冻结敌人，让敌人掉线。",
+    "offset": "-352px -800px"
+  },
+  {
+    "title": "神秘礼物",
+    "titleEn": "Mystery Gift",
+    "id": "515",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0,一次性使用",
+    "effect": "使用后，生成1个随机道具。",
+    "offset": "-384px -800px"
+  },
+  {
+    "title": "洒水器",
+    "titleEn": "Sprinkler",
+    "id": "516",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，生成1个洒水器，自动向外发射泪弹，离开房间后消失。",
+    "offset": "-416px -800px"
+  },
+  {
+    "title": "快速炸弹",
+    "titleEn": "Fast Bombs",
+    "id": "517",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "炸弹+7。角色放置炸弹的冷却时间缩短。",
+    "offset": "-448px -800px"
+  },
+  {
+    "title": "伙伴盲盒",
+    "titleEn": "Buddy in a Box",
+    "id": "518",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射随机泪弹的随机跟班。",
+    "offset": "-480px -800px"
+  },
+  {
+    "title": "精神错乱宝宝",
+    "titleEn": "Lil Delirium",
+    "id": "519",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "随机变形的跟班。",
+    "offset": "-512px -800px"
+  },
+  {
+    "title": "跨接电缆",
+    "titleEn": "Jumper Cables",
+    "id": "520",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "每消灭15个敌人便获得1格充能。",
+    "offset": "-544px -800px"
+  },
+  {
+    "title": "代金券",
+    "titleEn": "Coupon",
+    "id": "521",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，使房间中的随机1个物品免费。",
+    "offset": "-576px -800px"
+  },
+  {
+    "title": "念力",
+    "titleEn": "Telekinesis",
+    "id": "522",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3秒",
+    "effect": "使用后，角色周围的敌人的泪弹停止移动，持续2秒。2秒后这些泪弹被弹回。",
+    "offset": "-608px -800px"
+  },
+  {
+    "title": "搬家盒",
+    "titleEn": "Moving Box",
+    "id": "523",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，将物品打包到盒子中；或者将盒子中的物品放出来。",
+    "offset": "0px -832px"
+  },
+  {
+    "title": "科技零",
+    "titleEn": "Technology Zero",
+    "id": "524",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色的泪弹之间会以电弧连接，电弧会对敌人造成伤害。",
+    "offset": "-32px -832px"
+  },
+  {
+    "title": "麻风病",
+    "titleEn": "Leprosy",
+    "id": "525",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后生成1个环绕物，阻挡泪弹并造成接触伤害。",
+    "offset": "-64px -832px"
+  },
+  {
+    "title": "七印",
+    "titleEn": "7 Seals",
+    "id": "526",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成会追踪敌人并生成蝗虫的小天启跟班。",
+    "offset": "-96px -832px"
+  },
+  {
+    "title": "自我先生！",
+    "titleEn": "Mr. ME!",
+    "id": "527",
+    "type": "道具",
+    "quality": "3",
+    "charge": "4",
+    "effect": "使用后，生成1个分身，能够拾取掉落物或炸开隐藏房。",
+    "offset": "-128px -832px"
+  },
+  {
+    "title": "天使棱镜",
+    "titleEn": "Angelic Prism",
+    "id": "528",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "将泪弹变为4颗的环绕物。",
+    "offset": "-160px -832px"
+  },
+  {
+    "title": "噗！",
+    "titleEn": "Pop!",
+    "id": "529",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "角色会发射互相碰撞的眼球。",
+    "offset": "-192px -832px"
+  },
+  {
+    "title": "死神名册",
+    "titleEn": "Death's List",
+    "id": "530",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "按顺序消灭怪物会获得奖励。",
+    "offset": "-224px -832px"
+  },
+  {
+    "title": "泪血症",
+    "titleEn": "Haemolacria",
+    "id": "531",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "抛射泪血，泪血碰到地板、敌人或障碍物时会分裂。",
+    "offset": "-256px -832px"
+  },
+  {
+    "title": "食泪症",
+    "titleEn": "Lachryphagy",
+    "id": "532",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "角色的泪弹会慢慢减速，将泪弹打入另一颗泪弹可以增加泪弹的伤害。当泪弹停下、碰到障碍物或被打入累计5颗泪弹时会分裂成8颗小泪弹。",
+    "offset": "-288px -832px"
+  },
+  {
+    "title": "三圣颂",
+    "titleEn": "Trisagion",
+    "id": "533",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射白色光束弹。",
+    "offset": "-320px -832px"
+  },
+  {
+    "title": "书包",
+    "titleEn": "Schoolbag",
+    "id": "534",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "角色可以同时持有2个主动道具。",
+    "offset": "-352px -832px"
+  },
+  {
+    "title": "毛毯",
+    "titleEn": "Blanket",
+    "id": "535",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+1。进入头目房时可以免疫一次伤害。",
+    "offset": "-384px -832px"
+  },
+  {
+    "title": "祭坛",
+    "titleEn": "Sacrificial Altar",
+    "id": "536",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0,一次性使用",
+    "effect": "使用后，至多2个跟班消失，生成2个恶魔房道具。",
+    "offset": "-416px -832px"
+  },
+  {
+    "title": "呕吐虫宝宝",
+    "titleEn": "Lil Spewer",
+    "id": "537",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "胶囊+1。呕吐出各种各样水迹的跟班。",
+    "offset": "-448px -832px"
+  },
+  {
+    "title": "弹珠袋",
+    "titleEn": "Marbles",
+    "id": "538",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "饰品+3。受伤有概率吞下饰品。",
+    "offset": "-480px -832px"
+  },
+  {
+    "title": "神秘的卵",
+    "titleEn": "Mystery Egg",
+    "id": "539",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后会生成一只友好的怪物的跟班。",
+    "offset": "-512px -832px"
+  },
+  {
+    "title": "扁石",
+    "titleEn": "Flat Stone",
+    "id": "540",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "泪弹弹跳前进，落地时对周围敌人造成少量伤害。",
+    "offset": "-544px -832px"
+  },
+  {
+    "title": "骨髓",
+    "titleEn": "Marrow",
+    "id": "541",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "骨心+1，红心+3。",
+    "offset": "-576px -832px"
+  },
+  {
+    "title": "滑肋骨",
+    "titleEn": "Slipped Rib",
+    "id": "542",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "可以反弹敌人泪弹的跟班。",
+    "offset": "-608px -832px"
+  },
+  {
+    "title": "圣地大便",
+    "titleEn": "Hallowed Ground",
+    "id": "543",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤后会生成白大便的跟班。",
+    "offset": "0px -864px"
+  },
+  {
+    "title": "尖肋骨",
+    "titleEn": "Pointy Rib",
+    "id": "544",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "戳人的跟班。",
+    "offset": "-32px -864px"
+  },
+  {
+    "title": "亡者之书",
+    "titleEn": "Book of the Dead",
+    "id": "545",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，将房间中的死过的怪物变为环绕物或友好的骨骨。",
+    "offset": "-64px -864px"
+  },
+  {
+    "title": "爸爸的戒指",
+    "titleEn": "Dad's Ring",
+    "id": "546",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "靠近角色的敌人会被石化。",
+    "offset": "-96px -864px"
+  },
+  {
+    "title": "离婚协议书",
+    "titleEn": "Divorce Papers",
+    "id": "547",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "骨心+1。射速上升。生成 神秘纸片。",
+    "offset": "-128px -864px"
+  },
+  {
+    "title": "颌骨",
+    "titleEn": "Jaw Bone",
+    "id": "548",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "可以对敌人造成伤害或钩回掉落物的跟班。",
+    "offset": "-160px -864px"
+  },
+  {
+    "title": "脆骨症",
+    "titleEn": "Brittle Bones",
+    "id": "549",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "失去所有心之容器，骨心+6。失去骨心时会对周围发射骨头，并且射速上升。",
+    "offset": "-192px -864px"
+  },
+  {
+    "title": "铲子碎片",
+    "titleEn": "Broken Shovel",
+    "id": "550",
+    "type": "道具",
+    "quality": "4",
+    "charge": "4",
+    "effect": "不断被妈妈踩。使用后，当前房间中不会被踩。",
+    "offset": "-224px -864px"
+  },
+  {
+    "title": "铲子碎片",
+    "titleEn": "Broken Shovel",
+    "id": "551",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "将损坏的铲子 (手柄)变为妈妈的铲子。",
+    "offset": "-256px -864px"
+  },
+  {
+    "title": "妈妈的铲子",
+    "titleEn": "Mom's Shovel",
+    "id": "552",
+    "type": "道具",
+    "quality": "4",
+    "charge": "4",
+    "effect": "使用后，生成一个通往下一层的活板门或暗门，或者挖坟。",
+    "offset": "-288px -864px"
+  },
+  {
+    "title": "毛霉菌病",
+    "titleEn": "Mucormycosis",
+    "id": "553",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "概率发射孢子泪弹。",
+    "offset": "-320px -864px"
+  },
+  {
+    "title": "恐怖如斯",
+    "titleEn": "2Spooky",
+    "id": "554",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "恐惧周边敌人。",
+    "offset": "-352px -864px"
+  },
+  {
+    "title": "金剃刀片",
+    "titleEn": "Golden Razor",
+    "id": "555",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "硬币+5。使用后，消耗5硬币，当前房间伤害上升。",
+    "offset": "-384px -864px"
+  },
+  {
+    "title": "炼金硫磺",
+    "titleEn": "Sulfur",
+    "id": "556",
+    "type": "道具",
+    "quality": "3",
+    "charge": "3",
+    "effect": "使用后，在当前房间内获得 硫磺火的效果。",
+    "offset": "-416px -864px"
+  },
+  {
+    "title": "幸运饼干",
+    "titleEn": "Fortune Cookie",
+    "id": "557",
+    "type": "道具",
+    "quality": "2",
+    "charge": "2",
+    "effect": "使用后，触发预言机的效果。",
+    "offset": "-448px -864px"
+  },
+  {
+    "title": "眼瘤",
+    "titleEn": "Eye Sore",
+    "id": "558",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "额外向其他方向发射泪弹。",
+    "offset": "-480px -864px"
+  },
+  {
+    "title": "220伏",
+    "titleEn": "120 Volt",
+    "id": "559",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "电击靠近的敌人。",
+    "offset": "-512px -864px"
+  },
+  {
+    "title": "好疼",
+    "titleEn": "It Hurts",
+    "id": "560",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时发射泪弹，当前房间射速上升。",
+    "offset": "-544px -864px"
+  },
+  {
+    "title": "杏仁奶",
+    "titleEn": "Almond Milk",
+    "id": "561",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射速上升，伤害下降。泪弹附带随机蠕虫效果。",
+    "offset": "-576px -864px"
+  },
+  {
+    "title": "谷底石",
+    "titleEn": "Rock Bottom",
+    "id": "562",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "属性保持在历史最高值。",
+    "offset": "-608px -864px"
+  },
+  {
+    "title": "魅彩炸弹",
+    "titleEn": "Nancy Bombs",
+    "id": "563",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5。炸弹获得随机效果。",
+    "offset": "0px -896px"
+  },
+  {
+    "title": "肥皂",
+    "titleEn": "A Bar of Soap",
+    "id": "564",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升，弹速上升。",
+    "offset": "-32px -896px"
+  },
+  {
+    "title": "嗜血小宠",
+    "titleEn": "Blood Puppy",
+    "id": "565",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "追逐敌人的跟班，消灭太多敌人会试图攻击角色。",
+    "offset": "-64px -896px"
+  },
+  {
+    "title": "捕梦网",
+    "titleEn": "Dream Catcher",
+    "id": "566",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+1。揭示新楼层的道具和头目。",
+    "offset": "-96px -896px"
+  },
+  {
+    "title": "逾越节蜡烛",
+    "titleEn": "Paschal Candle",
+    "id": "567",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "清理房间会增加射速的跟班，受伤重置。",
+    "offset": "-128px -896px"
+  },
+  {
+    "title": "神圣干预",
+    "titleEn": "Divine Intervention",
+    "id": "568",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "双击生成弹回敌人攻击的圣盾。",
+    "offset": "-160px -896px"
+  },
+  {
+    "title": "血誓",
+    "titleEn": "Blood Oath",
+    "id": "569",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "每层开始时吸干红心，根据数量增加伤害与移速。",
+    "offset": "-192px -896px"
+  },
+  {
+    "title": "黏土饼干",
+    "titleEn": "Playdough Cookie",
+    "id": "570",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射随机负面特效的泪弹。",
+    "offset": "-224px -896px"
+  },
+  {
+    "title": "孤儿的袜子",
+    "titleEn": "Orphan Socks",
+    "id": "571",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "魂心+2。移速上升。不会受到水迹和尖刺的伤害。",
+    "offset": "-256px -896px"
+  },
+  {
+    "title": "玄秘魔眼",
+    "titleEn": "Eye of the Occult",
+    "id": "572",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，射程上升，弹速下降。可以控制泪弹移动。",
+    "offset": "-288px -896px"
+  },
+  {
+    "title": "无瑕圣心",
+    "titleEn": "Immaculate Heart",
+    "id": "573",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "红心+1，回满红心。伤害上升。额外发射灵体泪弹环绕自己。",
+    "offset": "-320px -896px"
+  },
+  {
+    "title": "圣体匣",
+    "titleEn": "Monstrance",
+    "id": "574",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "对靠近的敌人造成伤害。",
+    "offset": "-352px -896px"
+  },
+  {
+    "title": "侵体蜘蛛",
+    "titleEn": "The Intruder",
+    "id": "575",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射减速泪弹的跟班，受伤后会自由活动。",
+    "offset": "-384px -896px"
+  },
+  {
+    "title": "龌龊之心",
+    "titleEn": "Dirty Mind",
+    "id": "576",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "攻击大便会生成蘸酱跟班。",
+    "offset": "-416px -896px"
+  },
+  {
+    "title": "达摩克里斯之剑",
+    "titleEn": "Damocles",
+    "id": "577",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0,一次性使用",
+    "effect": "使用后，以后的所有道具变为两倍，受伤后剑随时可能落下杀死角色。",
+    "offset": "-448px -896px"
+  },
+  {
+    "title": "免费柠檬水",
+    "titleEn": "Free Lemonade",
+    "id": "578",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，触发 柠檬派对的效果。",
+    "offset": "-480px -896px"
+  },
+  {
+    "title": "英灵剑",
+    "titleEn": "Spirit Sword",
+    "id": "579",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "挥舞剑进行攻击。",
+    "offset": "-512px -896px"
+  },
+  {
+    "title": "红钥匙",
+    "titleEn": "Red Key",
+    "id": "580",
+    "type": "道具",
+    "quality": "3",
+    "charge": "4",
+    "effect": "使用后，创造红色房间并开启这个房间的门。",
+    "offset": "-544px -896px"
+  },
+  {
+    "title": "灵能苍蝇",
+    "titleEn": "Psy Fly",
+    "id": "581",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "自动阻挡泪弹的跟班。",
+    "offset": "-576px -896px"
+  },
+  {
+    "title": "迷幻蘑菇",
+    "titleEn": "Wavy Cap",
+    "id": "582",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0.5秒",
+    "effect": "使用后，射速上升，移速下降，摇晃背景。",
+    "offset": "-608px -896px"
+  },
+  {
+    "title": "罐中火箭",
+    "titleEn": "Rocket in a Jar",
+    "id": "583",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5。移动时放置的炸弹变为火箭。",
+    "offset": "0px -928px"
+  },
+  {
+    "title": "美德之书",
+    "titleEn": "Book of Virtues",
+    "id": "584",
+    "type": "道具",
+    "quality": "3",
+    "charge": "4",
+    "effect": "能与其他主动道具组合。使用后，生成会发射泪弹的灵火跟班。",
+    "offset": "-32px -928px"
+  },
+  {
+    "title": "白玉香膏盒",
+    "titleEn": "Alabaster Box",
+    "id": "585",
+    "type": "道具",
+    "quality": "2",
+    "charge": "12,一次性使用",
+    "effect": "使用后，生成3个魂心和2个天使房道具。只能用魂心充能。",
+    "offset": "-64px -928px"
+  },
+  {
+    "title": "天堂阶梯",
+    "titleEn": "The Stairway",
+    "id": "586",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "在初始房间生成通往天使商店的天梯。",
+    "offset": "-96px -928px"
+  },
+  {
+    "title": "太阳",
+    "titleEn": "Sol",
+    "id": "588",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "显示头目房的位置。消灭头目会移除诅咒。",
+    "offset": "-128px -928px"
+  },
+  {
+    "title": "月亮",
+    "titleEn": "Luna",
+    "id": "589",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成额外的隐藏房。进入隐藏房可以获得射速上升与魂心。",
+    "offset": "-160px -928px"
+  },
+  {
+    "title": "水星",
+    "titleEn": "Mercurius",
+    "id": "590",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "移速上升。门不再关闭。",
+    "offset": "-192px -928px"
+  },
+  {
+    "title": "金星",
+    "titleEn": "Venus",
+    "id": "591",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "血量上升。魅惑靠近的敌人。",
+    "offset": "-224px -928px"
+  },
+  {
+    "title": "地球",
+    "titleEn": "Terra",
+    "id": "592",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升。发射岩石泪弹。",
+    "offset": "-256px -928px"
+  },
+  {
+    "title": "火星",
+    "titleEn": "Mars",
+    "id": "593",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "双击移动键进行冲刺。",
+    "offset": "-288px -928px"
+  },
+  {
+    "title": "木星",
+    "titleEn": "Jupiter",
+    "id": "594",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "行走会留下使怪物中毒的屁。",
+    "offset": "-320px -928px"
+  },
+  {
+    "title": "土星",
+    "titleEn": "Saturnus",
+    "id": "595",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "用轨道捕获敌人的泪弹。",
+    "offset": "-352px -928px"
+  },
+  {
+    "title": "天王星",
+    "titleEn": "Uranus",
+    "id": "596",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射冰锥泪弹。",
+    "offset": "-384px -928px"
+  },
+  {
+    "title": "海王星",
+    "titleEn": "Neptunus",
+    "id": "597",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "不发射泪弹时可以积蓄泪弹。",
+    "offset": "-416px -928px"
+  },
+  {
+    "title": "冥王星",
+    "titleEn": "Pluto",
+    "id": "598",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升。角色体型变小。",
+    "offset": "-448px -928px"
+  },
+  {
+    "title": "巫毒娃娃头",
+    "titleEn": "Voodoo Head",
+    "id": "599",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每层额外生成1个诅咒房。",
+    "offset": "-480px -928px"
+  },
+  {
+    "title": "眼药水",
+    "titleEn": "Eye Drops",
+    "id": "600",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升。",
+    "offset": "-512px -928px"
+  },
+  {
+    "title": "痛悔短祷",
+    "titleEn": "Act of Contrition",
+    "id": "601",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "射速上升。即使进行过恶魔交易也可以进入天使房。",
+    "offset": "-544px -928px"
+  },
+  {
+    "title": "会员卡",
+    "titleEn": "Member Card",
+    "id": "602",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成地下商店。",
+    "offset": "-576px -928px"
+  },
+  {
+    "title": "电池组",
+    "titleEn": "Battery Pack",
+    "id": "603",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "充满主动道具。生成电池。",
+    "offset": "-608px -928px"
+  },
+  {
+    "title": "妈妈的手镯",
+    "titleEn": "Mom's Bracelet",
+    "id": "604",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "使用后，举起并投掷障碍物。",
+    "offset": "0px -960px"
+  },
+  {
+    "title": "挖眼勺",
+    "titleEn": "The Scooper",
+    "id": "605",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3",
+    "effect": "使用后，在当前房间内获得 窥眼的效果。",
+    "offset": "-32px -960px"
+  },
+  {
+    "title": "邪眼裂口",
+    "titleEn": "Ocular Rift",
+    "id": "606",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射裂隙泪弹，击中时吸引敌人与掉落物。",
+    "offset": "-64px -960px"
+  },
+  {
+    "title": "脓液囊宝宝",
+    "titleEn": "Boiled Baby",
+    "id": "607",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "乱抛泪弹的跟班。",
+    "offset": "-96px -960px"
+  },
+  {
+    "title": "冰冻宝宝",
+    "titleEn": "Freezer Baby",
+    "id": "608",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射冰锥泪弹的跟班。",
+    "offset": "-128px -960px"
+  },
+  {
+    "title": "永恒六面骰",
+    "titleEn": "Eternal D6",
+    "id": "609",
+    "type": "道具",
+    "quality": "3",
+    "charge": "2",
+    "effect": "使用后，重置房间中的道具，有概率使道具消失。",
+    "offset": "-160px -960px"
+  },
+  {
+    "title": "鸟肥笼",
+    "titleEn": "Bird Cage",
+    "id": "610",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时对敌人大跳、追逐敌人的跟班。",
+    "offset": "-192px -960px"
+  },
+  {
+    "title": "声带",
+    "titleEn": "Larynx",
+    "id": "611",
+    "type": "道具",
+    "quality": "2",
+    "charge": "12",
+    "effect": "充能不满也可使用。使用后，击退附近的敌人并造成伤害，充能越多效果越强。",
+    "offset": "-224px -960px"
+  },
+  {
+    "title": "迷失游魂",
+    "titleEn": "Lost Soul",
+    "id": "612",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "存活会给予奖励的跟班。",
+    "offset": "-256px -960px"
+  },
+  {
+    "title": "鲜血炸弹",
+    "titleEn": "Blood Bombs",
+    "id": "614",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "心之容器+1，回复红心。炸弹爆炸会留下血迹。可以消耗血量代替炸弹。",
+    "offset": "-288px -960px"
+  },
+  {
+    "title": "屁球宝宝",
+    "titleEn": "Lil Dumpy",
+    "id": "615",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "到处放屁的跟班。",
+    "offset": "-320px -960px"
+  },
+  {
+    "title": "鸟眼椒",
+    "titleEn": "Bird's Eye",
+    "id": "616",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射泪弹时有概率发射 红蜡烛火焰。",
+    "offset": "-352px -960px"
+  },
+  {
+    "title": "磁石",
+    "titleEn": "Lodestone",
+    "id": "617",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射磁化泪弹。",
+    "offset": "-384px -960px"
+  },
+  {
+    "title": "烂番茄",
+    "titleEn": "Rotten Tomato",
+    "id": "618",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "发射腐烂泪弹。",
+    "offset": "-416px -960px"
+  },
+  {
+    "title": "长子名分",
+    "titleEn": "Birthright",
+    "id": "619",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "对不同人物有不同效果。",
+    "offset": "-448px -960px"
+  },
+  {
+    "title": "红豆汤",
+    "titleEn": "Red Stew",
+    "id": "621",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "回满红心。临时的伤害上升。",
+    "offset": "-480px -960px"
+  },
+  {
+    "title": "创世记",
+    "titleEn": "Genesis",
+    "id": "622",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0,一次性使用",
+    "effect": "使用后，变回初始状态并重新选择道具。",
+    "offset": "-512px -960px"
+  },
+  {
+    "title": "尖头钥匙",
+    "titleEn": "Sharp Key",
+    "id": "623",
+    "type": "道具",
+    "quality": "1",
+    "charge": "0",
+    "effect": "钥匙+5。使用后，消耗钥匙发射钥匙泪弹。",
+    "offset": "-544px -960px"
+  },
+  {
+    "title": "扩展包",
+    "titleEn": "Booster Pack",
+    "id": "624",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "生成5张卡牌。",
+    "offset": "-576px -960px"
+  },
+  {
+    "title": "超级蘑菇",
+    "titleEn": "Mega Mush",
+    "id": "625",
+    "type": "道具",
+    "quality": "4",
+    "charge": "12",
+    "effect": "使用后，临时变大，无敌且各属性上升。",
+    "offset": "-608px -960px"
+  },
+  {
+    "title": "菜刀碎片1",
+    "titleEn": "Knife Piece 1",
+    "id": "626",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "与 菜刀碎片2组合成戳刺敌人的跟班。",
+    "offset": "0px -992px"
+  },
+  {
+    "title": "菜刀碎片2",
+    "titleEn": "Knife Piece 2",
+    "id": "627",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "与 菜刀碎片1组合成戳刺敌人的跟班。",
+    "offset": "-32px -992px"
+  },
+  {
+    "title": "死亡证明",
+    "titleEn": "Death Certificate",
+    "id": "628",
+    "type": "道具",
+    "quality": "4",
+    "charge": "0,一次性使用",
+    "effect": "使用后，选择一个道具并获得。",
+    "offset": "-64px -992px"
+  },
+  {
+    "title": "机器苍蝇",
+    "titleEn": "Bot Fly",
+    "id": "629",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "自动发射护盾泪弹阻挡敌人泪弹的跟班。",
+    "offset": "-96px -992px"
+  },
+  {
+    "title": "切肉刀",
+    "titleEn": "Meat Cleaver",
+    "id": "631",
+    "type": "道具",
+    "quality": "1",
+    "charge": "2",
+    "effect": "使用后，将敌人劈为两半。",
+    "offset": "-128px -992px"
+  },
+  {
+    "title": "邪眼护符",
+    "titleEn": "Evil Charm",
+    "id": "632",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "幸运上升。不会受到负面效果。",
+    "offset": "-160px -992px"
+  },
+  {
+    "title": "教条",
+    "titleEn": "Dogma",
+    "id": "633",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "移速上升，伤害上升。回复血量。获得1次 神圣屏障。获得飞行能力。",
+    "offset": "-224px -1152px"
+  },
+  {
+    "title": "炼狱恶鬼",
+    "titleEn": "Purgatory",
+    "id": "634",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "地面渗出鬼魂对敌人进行攻击。",
+    "offset": "-224px -992px"
+  },
+  {
+    "title": "织布魔偶",
+    "titleEn": "Stitches",
+    "id": "635",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3秒",
+    "effect": "射击键控制的跟班。使用后，与缝线娃娃互换位置。",
+    "offset": "-256px -992px"
+  },
+  {
+    "title": "R键",
+    "titleEn": "R Key",
+    "id": "636",
+    "type": "道具",
+    "quality": "4",
+    "charge": "0,一次性使用",
+    "effect": "使用后，从初始楼层开始游戏，保留角色的状态。",
+    "offset": "-288px -992px"
+  },
+  {
+    "title": "强力安眠药",
+    "titleEn": "Knockout Drops",
+    "id": "637",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "发射拳头泪弹击退敌人。",
+    "offset": "-320px -992px"
+  },
+  {
+    "title": "橡皮擦",
+    "titleEn": "Eraser",
+    "id": "638",
+    "type": "道具",
+    "quality": "2",
+    "charge": "1",
+    "effect": "使用后，擦除1种敌人。",
+    "offset": "-352px -992px"
+  },
+  {
+    "title": "难吃的心",
+    "titleEn": "Yuck Heart",
+    "id": "639",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，获得1个腐心。",
+    "offset": "-384px -992px"
+  },
+  {
+    "title": "灵魂之瓮",
+    "titleEn": "Urn of Souls",
+    "id": "640",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0",
+    "effect": "使用后，发射火焰对敌人进行攻击。",
+    "offset": "-416px -992px"
+  },
+  {
+    "title": "血田",
+    "titleEn": "Akeldama",
+    "id": "641",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成跟随角色的泪弹。",
+    "offset": "-448px -992px"
+  },
+  {
+    "title": "玄奇驴皮",
+    "titleEn": "Magic Skin",
+    "id": "642",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6",
+    "effect": "使用后，血量下降，生成一个道具。",
+    "offset": "-480px -992px"
+  },
+  {
+    "title": "终末天启",
+    "titleEn": "Revelation",
+    "id": "643",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "魂心+2。获得飞行能力。能够蓄力发射光柱。",
+    "offset": "-512px -992px"
+  },
+  {
+    "title": "安慰奖",
+    "titleEn": "Consolation Prize",
+    "id": "644",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "增加角色最小的属性。",
+    "offset": "-544px -992px"
+  },
+  {
+    "title": "小畸胎瘤",
+    "titleEn": "Tinytoma",
+    "id": "645",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "阻挡泪弹并生成蓝蜘蛛的环绕物。",
+    "offset": "-576px -992px"
+  },
+  {
+    "title": "硫磺火炸弹",
+    "titleEn": "Brimstone Bombs",
+    "id": "646",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5。炸弹爆炸时发射十字血激光柱。",
+    "offset": "-608px -992px"
+  },
+  {
+    "title": "4.5伏特",
+    "titleEn": "4.5 Volt",
+    "id": "647",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "造成伤害来获得充能。",
+    "offset": "0px -1024px"
+  },
+  {
+    "title": "甜甜糖梅宝",
+    "titleEn": "Fruity Plum",
+    "id": "649",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "斜向发射泪弹与弹跳的跟班。",
+    "offset": "-32px -1024px"
+  },
+  {
+    "title": "糖梅溜溜笛",
+    "titleEn": "Plum Flute",
+    "id": "650",
+    "type": "道具",
+    "quality": "1",
+    "charge": "4",
+    "effect": "使用后，生成梅子宝宝跟班。",
+    "offset": "-64px -1024px"
+  },
+  {
+    "title": "伯列恒之星",
+    "titleEn": "Star of Bethlehem",
+    "id": "651",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "向头目房移动的跟班。",
+    "offset": "-96px -1024px"
+  },
+  {
+    "title": "冰块宝宝",
+    "titleEn": "Cube Baby",
+    "id": "652",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "可以踢的跟班。",
+    "offset": "-128px -1024px"
+  },
+  {
+    "title": "驱魔护符",
+    "titleEn": "Vade Retro",
+    "id": "653",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0",
+    "effect": "使用后，引爆幽灵。",
+    "offset": "-160px -1024px"
+  },
+  {
+    "title": "伪造药学博士证",
+    "titleEn": "False PHD",
+    "id": "654",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "黑心+1。正面胶囊变为负面胶囊。使用负面胶囊时伤害上升或生成黑心。",
+    "offset": "-192px -1024px"
+  },
+  {
+    "title": "幸运转盘",
+    "titleEn": "Spin to Win",
+    "id": "655",
+    "type": "道具",
+    "quality": "1",
+    "charge": "3秒",
+    "effect": "持续使用时，增加环绕物的速度。",
+    "offset": "-224px -1024px"
+  },
+  {
+    "title": "血管炎",
+    "titleEn": "Vasculitis",
+    "id": "657",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "消灭敌人时从敌人身上发出泪弹。",
+    "offset": "-288px -1024px"
+  },
+  {
+    "title": "巨细胞",
+    "titleEn": "Giant Cell",
+    "id": "658",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时生成小以撒跟班。",
+    "offset": "-320px -1024px"
+  },
+  {
+    "title": "托吡卡胺",
+    "titleEn": "Tropicamide",
+    "id": "659",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "射程上升，泪弹尺寸上升。",
+    "offset": "-352px -1024px"
+  },
+  {
+    "title": "牌意解读",
+    "titleEn": "Card Reading",
+    "id": "660",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "在初始房间生成通往特殊房间的传送门。",
+    "offset": "-384px -1024px"
+  },
+  {
+    "title": "五胞胎",
+    "titleEn": "Quints",
+    "id": "661",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "消灭敌人时生成最多5个临时的随机跟班。",
+    "offset": "-416px -1024px"
+  },
+  {
+    "title": "肉中刺",
+    "titleEn": "Tooth and Nail",
+    "id": "663",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "每隔一段时间无敌。",
+    "offset": "-448px -1024px"
+  },
+  {
+    "title": "大胃王",
+    "titleEn": "Binge Eater",
+    "id": "664",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "生成的道具会在原选项与食物道具之间循环。拾取食物道具获得属性上升与临时的伤害上升。",
+    "offset": "-480px -1024px"
+  },
+  {
+    "title": "嗝屁猫的眼睛",
+    "titleEn": "Guppy's Eye",
+    "id": "665",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "能够透视宝箱内容物。",
+    "offset": "-512px -1024px"
+  },
+  {
+    "title": "稻草人",
+    "titleEn": "Strawman",
+    "id": "667",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "生成店主作为临时副人物。",
+    "offset": "-544px -1024px"
+  },
+  {
+    "title": "爸爸的便条",
+    "titleEn": "Dad's Note",
+    "id": "668",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "回忆过往。",
+    "offset": "-576px -1024px"
+  },
+  {
+    "title": "腊肠",
+    "titleEn": "Sausage",
+    "id": "669",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "移速、伤害、弹速、射程、幸运上升。",
+    "offset": "-608px -1024px"
+  },
+  {
+    "title": "选择？",
+    "titleEn": "Options?",
+    "id": "670",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "清理房间的奖励二选一。",
+    "offset": "0px -1056px"
+  },
+  {
+    "title": "糖心",
+    "titleEn": "Candy Heart",
+    "id": "671",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "拾取红心时获得属性加成。",
+    "offset": "-32px -1056px"
+  },
+  {
+    "title": "一磅肉",
+    "titleEn": "A Pound of Flesh",
+    "id": "672",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "硬币交易与恶魔交易互换。",
+    "offset": "-64px -1056px"
+  },
+  {
+    "title": "赎罪",
+    "titleEn": "Redemption",
+    "id": "673",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "进入恶魔房但不拾取物品会获得魂心与伤害上升。",
+    "offset": "-96px -1056px"
+  },
+  {
+    "title": "灵魂枷锁",
+    "titleEn": "Spirit Shackles",
+    "id": "674",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "死亡时变为幽灵，拾取魂心后可重新激活效果。",
+    "offset": "-128px -1056px"
+  },
+  {
+    "title": "碎裂的宝珠",
+    "titleEn": "Cracked Orb",
+    "id": "675",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时显示随机房间位置并开门。",
+    "offset": "-160px -1056px"
+  },
+  {
+    "title": "空虚之心",
+    "titleEn": "Empty Heart",
+    "id": "676",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "进入新楼层时，如果红心小于等于一颗，则获得一个空的心之容器。",
+    "offset": "-192px -1056px"
+  },
+  {
+    "title": "灵魂出窍",
+    "titleEn": "Astral Projection",
+    "id": "677",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤时变为幽灵，暂停时间。",
+    "offset": "-224px -1056px"
+  },
+  {
+    "title": "剖腹产",
+    "titleEn": "C Section",
+    "id": "678",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "发射婴儿进行攻击。",
+    "offset": "-256px -1056px"
+  },
+  {
+    "title": "亚巴顿宝宝",
+    "titleEn": "Lil Abaddon",
+    "id": "679",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "释放黑色血激光环的跟班。",
+    "offset": "-288px -1056px"
+  },
+  {
+    "title": "水土不服症",
+    "titleEn": "Montezuma's Revenge",
+    "id": "680",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "蓄力向后发射短程大便激光柱。",
+    "offset": "-320px -1056px"
+  },
+  {
+    "title": "黑洞宝宝",
+    "titleEn": "Lil Portal",
+    "id": "681",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "将掉落物变为蓝苍蝇的跟班。",
+    "offset": "-352px -1056px"
+  },
+  {
+    "title": "触手朋友",
+    "titleEn": "Worm Friend",
+    "id": "682",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "捆绑敌人的跟班。",
+    "offset": "-384px -1056px"
+  },
+  {
+    "title": "骨刺",
+    "titleEn": "Bone Spurs",
+    "id": "683",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "敌人死亡时生成漂浮的骨头。",
+    "offset": "-416px -1056px"
+  },
+  {
+    "title": "饥饿幽魂",
+    "titleEn": "Hungry Soul",
+    "id": "684",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "敌人死亡时概率生成鬼魂。",
+    "offset": "-448px -1056px"
+  },
+  {
+    "title": "魂火罐",
+    "titleEn": "Jar of Wisps",
+    "id": "685",
+    "type": "道具",
+    "quality": "2",
+    "charge": "12",
+    "effect": "使用后，生成灵火跟班。使用次数越多生成数量越多。",
+    "offset": "-480px -1056px"
+  },
+  {
+    "title": "灵魂吊坠",
+    "titleEn": "Soul Locket",
+    "id": "686",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "魂心+1。拾取魂心时获得属性加成。",
+    "offset": "-512px -1056px"
+  },
+  {
+    "title": "寻友护符",
+    "titleEn": "Friend Finder",
+    "id": "687",
+    "type": "道具",
+    "quality": "3",
+    "charge": "4",
+    "effect": "使用后，生成一个友方怪物，模仿角色行为。",
+    "offset": "-544px -1056px"
+  },
+  {
+    "title": "内在孩童",
+    "titleEn": "Inner Child",
+    "id": "688",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "死亡后在当前房间复活，角色体型变小，移速上升。",
+    "offset": "-576px -1056px"
+  },
+  {
+    "title": "错误王冠",
+    "titleEn": "Glitched Crown",
+    "id": "689",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "道具会在5个选项间快速循环。",
+    "offset": "-608px -1056px"
+  },
+  {
+    "title": "肚肚软糖",
+    "titleEn": "Belly Jelly",
+    "id": "690",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "接触敌人时将其击退，若其撞墙则会造成额外伤害。",
+    "offset": "0px -1088px"
+  },
+  {
+    "title": "十字圣球",
+    "titleEn": "Sacred Orb",
+    "id": "691",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "降低低品质道具的出现概率。",
+    "offset": "-32px -1088px"
+  },
+  {
+    "title": "血色羁绊",
+    "titleEn": "Sanguine Bond",
+    "id": "692",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "在恶魔房生成献祭尖刺。",
+    "offset": "-64px -1088px"
+  },
+  {
+    "title": "虫群",
+    "titleEn": "The Swarm",
+    "id": "693",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "清理房间会生成1个苍蝇环绕物。苍蝇环绕物阻挡泪弹后会变为蓝苍蝇。",
+    "offset": "-96px -1088px"
+  },
+  {
+    "title": "心碎",
+    "titleEn": "Heartbreak",
+    "id": "694",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "获得3个碎心。碎心会增加伤害。受到致命伤时改为增加碎心。",
+    "offset": "-128px -1088px"
+  },
+  {
+    "title": "嗜血腥风",
+    "titleEn": "Bloody Gust",
+    "id": "695",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤时在本层内获得移速与射速。",
+    "offset": "-160px -1088px"
+  },
+  {
+    "title": "救恩",
+    "titleEn": "Salvation",
+    "id": "696",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成荆棘光环，对持续接触光环的敌人进行圣光攻击。受伤时增大光环。",
+    "offset": "-192px -1088px"
+  },
+  {
+    "title": "消失的胞胎",
+    "titleEn": "Vanishing Twin",
+    "id": "697",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "会变为头目的跟班。",
+    "offset": "-224px -1088px"
+  },
+  {
+    "title": "作孽双子",
+    "titleEn": "Twisted Pair",
+    "id": "698",
+    "type": "道具",
+    "quality": "4",
+    "charge": null,
+    "effect": "两个发射泪弹的跟班。",
+    "offset": "-256px -1088px"
+  },
+  {
+    "title": "阿撒泻勒之怒",
+    "titleEn": "Azazel's Rage",
+    "id": "699",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "清理房间会使角色愤怒并发射大型血激光柱。",
+    "offset": "-288px -1088px"
+  },
+  {
+    "title": "回声室",
+    "titleEn": "Echo Chamber",
+    "id": "700",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "使用卡牌/胶囊时复制已使用过的效果。",
+    "offset": "-320px -1088px"
+  },
+  {
+    "title": "以撒的坟墓",
+    "titleEn": "Isaac's Tomb",
+    "id": "701",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "每层生成1个旧宝箱。",
+    "offset": "-352px -1088px"
+  },
+  {
+    "title": "复仇之魂",
+    "titleEn": "Vengeful Spirit",
+    "id": "702",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "受伤时在本层内生成灵火跟班。",
+    "offset": "-384px -1088px"
+  },
+  {
+    "title": "小以扫",
+    "titleEn": "Esau Jr.",
+    "id": "703",
+    "type": "道具",
+    "quality": "2",
+    "charge": "1",
+    "effect": "使用后，变为小以扫。",
+    "offset": "-416px -1088px"
+  },
+  {
+    "title": "狂怒！",
+    "titleEn": "Berserk!",
+    "id": "704",
+    "type": "道具",
+    "quality": "2",
+    "charge": "0",
+    "effect": "使用后，暂时狂暴化，改为近战攻击。",
+    "offset": "-448px -1088px"
+  },
+  {
+    "title": "暗仪刺刀",
+    "titleEn": "Dark Arts",
+    "id": "705",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6秒",
+    "effect": "使用后，短时间内无敌，效果结束后对接触过的敌人造成伤害。",
+    "offset": "-480px -1088px"
+  },
+  {
+    "title": "无底坑",
+    "titleEn": "Abyss",
+    "id": "706",
+    "type": "道具",
+    "quality": "4",
+    "charge": "4",
+    "effect": "使用后，吞噬房间中的所有道具并转化成蝗虫跟班。",
+    "offset": "-512px -1088px"
+  },
+  {
+    "title": "晚餐",
+    "titleEn": "Supper",
+    "id": "707",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "心之容器+1，回复一颗红心。",
+    "offset": "-544px -1088px"
+  },
+  {
+    "title": "订书机",
+    "titleEn": "Stapler",
+    "id": "708",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升。只能从右眼发射泪弹。",
+    "offset": "-576px -1088px"
+  },
+  {
+    "title": "背摔！",
+    "titleEn": "Suplex!",
+    "id": "709",
+    "type": "道具",
+    "quality": "2",
+    "charge": "6秒",
+    "effect": "使用后，冲撞敌人并背摔。",
+    "offset": "-608px -1088px"
+  },
+  {
+    "title": "合成宝袋",
+    "titleEn": "Bag of Crafting",
+    "id": "710",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0",
+    "effect": "挥舞袋子进行攻击或收集掉落物。使用后，将收集的掉落物合成为道具。",
+    "offset": "0px -1120px"
+  },
+  {
+    "title": "生死逆转",
+    "titleEn": "Flip",
+    "id": "711",
+    "type": "道具",
+    "quality": "4",
+    "charge": "6",
+    "effect": "使用后，反转当前房间中的道具，如果人物是创建缩略图出错：无法将缩略图保存到目标位置堕化拉撒路，还会反转生死。",
+    "offset": "-32px -1120px"
+  },
+  {
+    "title": "所罗门魔典",
+    "titleEn": "Lemegeton",
+    "id": "712",
+    "type": "道具",
+    "quality": "3",
+    "charge": "6",
+    "effect": "使用后，生成一个具有随机道具效果的跟班。",
+    "offset": "-64px -1120px"
+  },
+  {
+    "title": "圣血吸管",
+    "titleEn": "Sumptorium",
+    "id": "713",
+    "type": "道具",
+    "quality": "3",
+    "charge": "0",
+    "effect": "使用后，消耗半颗心，并生成一个血团宝宝。",
+    "offset": "-96px -1120px"
+  },
+  {
+    "title": "召回",
+    "titleEn": "Recall",
+    "id": "714",
+    "type": "道具",
+    "quality": "0",
+    "charge": "3秒",
+    "effect": "使用后，召回创建缩略图出错：无法将缩略图保存到目标位置堕化遗骸的身体。",
+    "offset": "-128px -1120px"
+  },
+  {
+    "title": "保留",
+    "titleEn": "Hold",
+    "id": "715",
+    "type": "道具",
+    "quality": "0",
+    "charge": "0",
+    "effect": "使用后，保存一个大便或将保存的大便拿出使用。",
+    "offset": "-160px -1120px"
+  },
+  {
+    "title": "店主的胯袋",
+    "titleEn": "Keeper's Sack",
+    "id": "716",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "购买物品时获得属性加成。",
+    "offset": "-192px -1120px"
+  },
+  {
+    "title": "店主的亲友",
+    "titleEn": "Keeper's Kin",
+    "id": "717",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "清理房间或破坏障碍物会生成蓝蜘蛛。",
+    "offset": "-224px -1120px"
+  },
+  {
+    "title": "店主的盒子",
+    "titleEn": "Keeper's Box",
+    "id": "719",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4",
+    "effect": "使用后，生成一个可购买的物品。",
+    "offset": "-256px -1120px"
+  },
+  {
+    "title": "百宝罐",
+    "titleEn": "Everything Jar",
+    "id": "720",
+    "type": "道具",
+    "quality": "3",
+    "charge": "12",
+    "effect": "使用后，根据充能生成不同的物品。",
+    "offset": "-288px -1120px"
+  },
+  {
+    "title": "错误技",
+    "titleEn": "TMTRAINER",
+    "id": "721",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "道具变为乱码。",
+    "offset": "-320px -1120px"
+  },
+  {
+    "title": "孤魂铁索",
+    "titleEn": "Anima Sola",
+    "id": "722",
+    "type": "道具",
+    "quality": "3",
+    "charge": "15秒",
+    "effect": "使用后，束缚最近的敌人。",
+    "offset": "-352px -1120px"
+  },
+  {
+    "title": "计数二十面骰",
+    "titleEn": "Spindown Dice",
+    "id": "723",
+    "type": "道具",
+    "quality": "4",
+    "charge": "6",
+    "effect": "使用后，将道具重置为ID-1的道具。",
+    "offset": "-384px -1120px"
+  },
+  {
+    "title": "高凝血",
+    "titleEn": "Hypercoagulation",
+    "id": "724",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "受伤时生成临时红心。",
+    "offset": "-416px -1120px"
+  },
+  {
+    "title": "大肠激躁症",
+    "titleEn": "IBS",
+    "id": "725",
+    "type": "道具",
+    "quality": "0",
+    "charge": null,
+    "effect": "攻击时有概率扔出一种随机大便。",
+    "offset": "-448px -1120px"
+  },
+  {
+    "title": "咯血症",
+    "titleEn": "Hemoptysis",
+    "id": "726",
+    "type": "道具",
+    "quality": "1",
+    "charge": null,
+    "effect": "双击咳血，击退敌人并造成伤害。",
+    "offset": "-480px -1120px"
+  },
+  {
+    "title": "幽灵炸弹",
+    "titleEn": "Ghost Bombs",
+    "id": "727",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "炸弹+5。爆炸会生成幽灵攻击敌人。",
+    "offset": "-512px -1120px"
+  },
+  {
+    "title": "格罗",
+    "titleEn": "Gello",
+    "id": "728",
+    "type": "道具",
+    "quality": "3",
+    "charge": "2",
+    "effect": "使用后，生成连在身上可以操控发射泪弹的跟班。",
+    "offset": "-544px -1120px"
+  },
+  {
+    "title": "飞头攻击",
+    "titleEn": "Decap Attack",
+    "id": "729",
+    "type": "道具",
+    "quality": "2",
+    "charge": "4秒",
+    "effect": "使用后，扔出头进行攻击。",
+    "offset": "-576px -1120px"
+  },
+  {
+    "title": "玻璃眼",
+    "titleEn": "Glass Eye",
+    "id": "730",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "伤害上升，幸运上升。",
+    "offset": "-608px -1120px"
+  },
+  {
+    "title": "麦粒肿",
+    "titleEn": "Stye",
+    "id": "731",
+    "type": "道具",
+    "quality": "2",
+    "charge": null,
+    "effect": "右眼发射的泪弹伤害上升，射程上升，弹速下降。",
+    "offset": "0px -1152px"
+  },
+  {
+    "title": "妈妈的戒指",
+    "titleEn": "Mom's Ring",
+    "id": "732",
+    "type": "道具",
+    "quality": "3",
+    "charge": null,
+    "effect": "生成一个符文。伤害上升。",
+    "offset": "-32px -1152px"
+  }
+]
