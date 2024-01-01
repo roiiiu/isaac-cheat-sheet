@@ -65,7 +65,7 @@ function toggleDetailsModal(item: any) {
         {{ selected?.title }}
       </p>
       <div v-if="selected?.charge" flex="~ items-center gap-1" border="~ #02F917" rounded px-1 py-0 text-xs bg="#02F917/20">
-        <div i-carbon-battery-full text-green />
+        <div i-ph-battery-high-fill text-green />
         <span>{{ selected.charge.startsWith('0') ? '0' : selected.charge }}</span>
       </div>
     </div>

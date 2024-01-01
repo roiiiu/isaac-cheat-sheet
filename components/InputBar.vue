@@ -8,6 +8,8 @@ const settingModalVisible = ref(false)
 
 watchDebounced(input, () => {
   emit('search', input.value)
+}, {
+  debounce: 300,
 })
 </script>
 
@@ -18,22 +20,23 @@ watchDebounced(input, () => {
       left="1/2"
       flex="~ items-center" bg="base" outline="~ 2 gray5/80" fixed bottom-0 z-2 mb-2 of-visible rounded-full px-2 py-1 shadow="~ inner black"
     >
-      <div i-carbon-search text="gray3/60" mr-2 />
+      <div i-ph-magnifying-glass-duotone text="gray3/60" mr-2 />
       <input
         ref="inputRef"
         v-model="input"
         placeholder="中，英文名，描述"
-        type="search"
+        appearance-none
         bg-transparent
         text-white
         outline-none
         @keyup.enter="inputRef!.blur()"
       >
       <button
-        text=" gray3/80"
+        text=" gray3 op80"
+        hover="text-op-100"
         @click="settingModalVisible = !settingModalVisible"
       >
-        <div i-carbon-settings />
+        <div i-ph-gear-duotone />
       </button>
 
       <SettingModal v-model="settingModalVisible" />
