@@ -1,4 +1,5 @@
 <script setup lang="ts">
+import { sort } from 'color-sorter'
 import data from '../data.json'
 import trinkets from '../data_trinkets.json'
 import cards from '../data_card.json'
@@ -11,18 +12,19 @@ const query = ref('')
 const input = ref('')
 const settingStore = useSettingStore()
 const settingModalVisible = ref(false)
+const { y } = useWindowScroll({ behavior: 'smooth' })
 
-const filteredCollectibles = computed(() => {
-  return data.filter(filterFunc).sort(sortFunc)
-})
+const filteredCollectibles = computed(
+  () => data.filter(filterFunc).sort(sortFunc),
+)
 
-const filteredTrinkets = computed(() => {
-  return trinkets.filter(filterFunc).sort(sortFunc)
-})
+const filteredTrinkets = computed(
+  () => trinkets.filter(filterFunc).sort(sortFunc),
+)
 
-const filteredCards = computed(() => {
-  return cards.filter(filterFunc).sort(sortFunc)
-})
+const filteredCards = computed(
+  () => cards.filter(filterFunc).sort(sortFunc),
+)
 
 function filterFunc(item: Item) {
   if (!query.value)
@@ -31,19 +33,33 @@ function filterFunc(item: Item) {
 }
 
 function sortFunc(a: Item, b: Item) {
-  if (settingStore.sortMethod === 'id')
+  if (settingStore.sortMethod === 'id') {
     return Number.parseInt(a.id) - Number.parseInt(b.id)
-  else if (settingStore.sortMethod === 'title')
+  }
+  else if (settingStore.sortMethod === 'title') {
     return a.title.localeCompare(b.title)
-  else
+  }
+  else if (settingStore.sortMethod === 'titleEn') {
     return a.titleEn.localeCompare(b.titleEn)
+  }
+  else {
+    const sortedColor = sort([a.color, b.color])
+    if (sortedColor[0] === a.color)
+      return -1
+    else
+      return 1
+  }
 }
 
-function search(input: string) {
+async function search(input: string) {
   query.value = input
+  await nextTick()
+  window.scrollTo({
+    top: 0,
+  })
 }
 
-function toggleDetailsModal(item: any) {
+function toggleDetailsModal(item: Item) {
   modalVisible.value = true
   selected.value = item
 }
@@ -56,11 +72,19 @@ watchDebounced(input, () => {
 </script>
 
 <template>
+  <Transition name="backToTop">
+    <button
+      v-if="y > 0 && settingStore.showBackToTop"
+      class="back-to-top"
+      drop-shadow="~ color-lightblue/50"
+      fixed bottom-16 right-6 z-2 scale-200 @click="y = 0"
+    />
+  </Transition>
+
   <div
     v-if="settingStore.inputBarPos === 'top'"
     flex="~ items-center gap-2"
-    relative of-visible px-4
-    border="b wheat/8"
+    border="b wheat/8" fixed top-0 z-3 w-full of-visible bg-base px-4
   >
     <div i-ph-magnifying-glass-duotone text="gray3/60" mr-2 />
     <input
@@ -109,3 +133,23 @@ watchDebounced(input, () => {
 
   <InputBar v-if="settingStore.inputBarPos === 'bottom'" @search="search" />
 </template>
+
+<style scoped lang="scss">
+.back-to-top {
+  background-image: url('/fool.png');
+  width: 32px;
+  height: 32px;
+  image-rendering: pixelated;
+  background-repeat: no-repeat;
+}
+
+.backToTop-enter-active,
+.backToTop-leave-active {
+  transition: all 0.2s ease-in-out;
+}
+
+.backToTop-enter-from,
+.backToTop-leave-to {
+  scale: 0;
+}
+</style>

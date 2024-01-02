@@ -8,7 +8,8 @@
     "charge": null,
     "effect": "使用后，传送到初始房间。",
     "offset": "0px 0px",
-    "quoteEn": "Where journey begins"
+    "quoteEn": "Where journey begins",
+    "color": "#66675f"
   },
   {
     "title": "I-魔术师",
@@ -19,7 +20,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，射程上升，泪弹获得追踪效果。",
     "offset": "-32px 0px",
-    "quoteEn": "May you never miss your goal"
+    "quoteEn": "May you never miss your goal",
+    "color": "#938b7d"
   },
   {
     "title": "II-女祭司",
@@ -30,7 +32,8 @@
     "charge": null,
     "effect": "使用后，对房间中血量最高的敌人造成大量伤害。",
     "offset": "-64px 0px",
-    "quoteEn": "Mother is watching you"
+    "quoteEn": "Mother is watching you",
+    "color": "#81727b"
   },
   {
     "title": "III-皇后",
@@ -41,7 +44,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，获得伤害上升和移速上升。",
     "offset": "-96px 0px",
-    "quoteEn": "May your rage bring power"
+    "quoteEn": "May your rage bring power",
+    "color": "#746261"
   },
   {
     "title": "IV-皇帝",
@@ -52,7 +56,8 @@
     "charge": null,
     "effect": "使用后，传送到头目房。",
     "offset": "-128px 0px",
-    "quoteEn": "Challenge me!"
+    "quoteEn": "Challenge me!",
+    "color": "#8a7b5e"
   },
   {
     "title": "V-教皇",
@@ -63,7 +68,8 @@
     "charge": null,
     "effect": "使用后，生成2个魂心。",
     "offset": "-160px 0px",
-    "quoteEn": "Two prayers for the lost"
+    "quoteEn": "Two prayers for the lost",
+    "color": "#817e74"
   },
   {
     "title": "VI-恋人",
@@ -74,7 +80,8 @@
     "charge": null,
     "effect": "使用后，生成2个红心。",
     "offset": "-192px 0px",
-    "quoteEn": "May you prosper and be in good health"
+    "quoteEn": "May you prosper and be in good health",
+    "color": "#946567"
   },
   {
     "title": "VII-战车",
@@ -85,7 +92,8 @@
     "charge": null,
     "effect": "使用后，短暂无敌且能对敌人造成接触伤害。",
     "offset": "-224px 0px",
-    "quoteEn": "May nothing stand before you"
+    "quoteEn": "May nothing stand before you",
+    "color": "#857d5d"
   },
   {
     "title": "VIII-正义",
@@ -96,7 +104,8 @@
     "charge": null,
     "effect": "使用后，生成心、硬币、炸弹、钥匙各1个。",
     "offset": "-256px 0px",
-    "quoteEn": "May your future become balanced"
+    "quoteEn": "May your future become balanced",
+    "color": "#8c7164"
   },
   {
     "title": "IX-隐者",
@@ -107,7 +116,8 @@
     "charge": null,
     "effect": "使用后，传送到商店。",
     "offset": "-288px 0px",
-    "quoteEn": "May you see what life has to offer"
+    "quoteEn": "May you see what life has to offer",
+    "color": "#7f7d8f"
   },
   {
     "title": "X-命运之轮",
@@ -118,7 +128,8 @@
     "charge": null,
     "effect": "使用后，生成1个赌博机或预言机。",
     "offset": "-320px 0px",
-    "quoteEn": "Spin the wheel of destiny"
+    "quoteEn": "Spin the wheel of destiny",
+    "color": "#95716f"
   },
   {
     "title": "XI-力量",
@@ -129,7 +140,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，角色体型变大，心之容器+1，伤害上升，移速上升，射程上升。",
     "offset": "-352px 0px",
-    "quoteEn": "May your power bring rage"
+    "quoteEn": "May your power bring rage",
+    "color": "#998089"
   },
   {
     "title": "XII-倒吊人",
@@ -140,7 +152,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，角色获得飞行效果。",
     "offset": "-384px 0px",
-    "quoteEn": "May you find enlightenment"
+    "quoteEn": "May you find enlightenment",
+    "color": "#716e70"
   },
   {
     "title": "XIII-死亡",
@@ -151,7 +164,8 @@
     "charge": null,
     "effect": "使用后，对所有敌人各造成40点伤害。",
     "offset": "-416px 0px",
-    "quoteEn": "Lay waste to all that oppose you"
+    "quoteEn": "Lay waste to all that oppose you",
+    "color": "#7e7785"
   },
   {
     "title": "XIV-节制",
@@ -162,7 +176,8 @@
     "charge": null,
     "effect": "使用后，生成1个献血机。",
     "offset": "-448px 0px",
-    "quoteEn": "May you be pure in heart"
+    "quoteEn": "May you be pure in heart",
+    "color": "#6c636c"
   },
   {
     "title": "XV-恶魔",
@@ -173,7 +188,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，伤害上升。",
     "offset": "-480px 0px",
-    "quoteEn": "Revel in the power of darkness"
+    "quoteEn": "Revel in the power of darkness",
+    "color": "#623b3f"
   },
   {
     "title": "XVI-塔",
@@ -184,7 +200,8 @@
     "charge": null,
     "effect": "使用后，生成6个即爆炸弹。",
     "offset": "-512px 0px",
-    "quoteEn": "Destruction brings creation"
+    "quoteEn": "Destruction brings creation",
+    "color": "#5e4f55"
   },
   {
     "title": "XVII-星星",
@@ -195,7 +212,8 @@
     "charge": null,
     "effect": "使用后，传送到宝箱房。",
     "offset": "-544px 0px",
-    "quoteEn": "May you find what you desire"
+    "quoteEn": "May you find what you desire",
+    "color": "#7b756f"
   },
   {
     "title": "XVIII-月亮",
@@ -206,7 +224,8 @@
     "charge": null,
     "effect": "使用后，传送到隐藏房。",
     "offset": "-576px 0px",
-    "quoteEn": "May you find all you have lost"
+    "quoteEn": "May you find all you have lost",
+    "color": "#5e6188"
   },
   {
     "title": "XIX-太阳",
@@ -217,7 +236,8 @@
     "charge": null,
     "effect": "使用后，对所有敌人造成100伤害，显示除超级隐藏房以外所有房间的位置和图标，回复所有红心。",
     "offset": "-608px 0px",
-    "quoteEn": "May the light heal and enlighten you"
+    "quoteEn": "May the light heal and enlighten you",
+    "color": "#a69876"
   },
   {
     "title": "XX-审判",
@@ -228,7 +248,8 @@
     "charge": null,
     "effect": "使用后，生成1个乞丐。",
     "offset": "0px -32px",
-    "quoteEn": "Judge lest ye be judged"
+    "quoteEn": "Judge lest ye be judged",
+    "color": "#78868c"
   },
   {
     "title": "XXI-世界",
@@ -239,7 +260,8 @@
     "charge": null,
     "effect": "使用后，显示除超级隐藏房以外所有房间的位置和图标。",
     "offset": "-32px -32px",
-    "quoteEn": "Open your eyes and see"
+    "quoteEn": "Open your eyes and see",
+    "color": "#837a88"
   },
   {
     "title": "梅花2",
@@ -250,7 +272,8 @@
     "charge": null,
     "effect": "使用后，炸弹×2。",
     "offset": "-64px -32px",
-    "quoteEn": "Item multiplier"
+    "quoteEn": "Item multiplier",
+    "color": "#c3c3c3"
   },
   {
     "title": "方片2",
@@ -261,7 +284,8 @@
     "charge": null,
     "effect": "使用后，硬币×2。",
     "offset": "-96px -32px",
-    "quoteEn": "Item multiplier"
+    "quoteEn": "Item multiplier",
+    "color": "#d7c9c9"
   },
   {
     "title": "黑桃2",
@@ -272,7 +296,8 @@
     "charge": null,
     "effect": "使用后，钥匙×2。",
     "offset": "-128px -32px",
-    "quoteEn": "Item multiplier"
+    "quoteEn": "Item multiplier",
+    "color": "#c9c9c9"
   },
   {
     "title": "红桃2",
@@ -283,7 +308,8 @@
     "charge": null,
     "effect": "使用后，红心×2。",
     "offset": "-160px -32px",
-    "quoteEn": "Item multiplier"
+    "quoteEn": "Item multiplier",
+    "color": "#d7c9c9"
   },
   {
     "title": "梅花A",
@@ -294,7 +320,8 @@
     "charge": null,
     "effect": "使用后，将房间中的所有掉落物和怪物变为炸弹。",
     "offset": "-192px -32px",
-    "quoteEn": "Convert all"
+    "quoteEn": "Convert all",
+    "color": "#d0d0d0"
   },
   {
     "title": "方片A",
@@ -305,7 +332,8 @@
     "charge": null,
     "effect": "使用后，将房间中的所有掉落物和怪物变为硬币。",
     "offset": "-224px -32px",
-    "quoteEn": "Convert all"
+    "quoteEn": "Convert all",
+    "color": "#dad3d3"
   },
   {
     "title": "黑桃A",
@@ -316,7 +344,8 @@
     "charge": null,
     "effect": "使用后，将房间中的所有掉落物和怪物变为钥匙。",
     "offset": "-256px -32px",
-    "quoteEn": "Convert all"
+    "quoteEn": "Convert all",
+    "color": "#d3d3d3"
   },
   {
     "title": "红桃A",
@@ -327,7 +356,8 @@
     "charge": null,
     "effect": "使用后，将房间中的所有掉落物和怪物变为红心。",
     "offset": "-288px -32px",
-    "quoteEn": "Convert all"
+    "quoteEn": "Convert all",
+    "color": "#dad3d3"
   },
   {
     "title": "鬼牌",
@@ -338,7 +368,8 @@
     "charge": null,
     "effect": "使用后，传送到恶魔房或天使房。",
     "offset": "-320px -32px",
-    "quoteEn": "???"
+    "quoteEn": "???",
+    "color": "#bbbbbb"
   },
   {
     "title": "冰雹符文",
@@ -349,7 +380,8 @@
     "charge": null,
     "effect": "使用后，摧毁房间中的所有障碍物。",
     "offset": "0px 0px",
-    "quoteEn": "Destruction"
+    "quoteEn": "Destruction",
+    "color": "#66675f"
   },
   {
     "title": "收获符文",
@@ -360,7 +392,8 @@
     "charge": null,
     "effect": "使用后，复制所有掉落物。",
     "offset": "-32px 0px",
-    "quoteEn": "Abundance"
+    "quoteEn": "Abundance",
+    "color": "#938b7d"
   },
   {
     "title": "马骑符文",
@@ -371,7 +404,8 @@
     "charge": null,
     "effect": "使用后，生成1个活板门。",
     "offset": "-64px 0px",
-    "quoteEn": "Passage"
+    "quoteEn": "Passage",
+    "color": "#81727b"
   },
   {
     "title": "朝夕符文",
@@ -382,7 +416,8 @@
     "charge": null,
     "effect": "使用后，获得1个魂心，清除诅咒。",
     "offset": "-96px 0px",
-    "quoteEn": "Purity"
+    "quoteEn": "Purity",
+    "color": "#746261"
   },
   {
     "title": "诸神符文",
@@ -393,7 +428,8 @@
     "charge": null,
     "effect": "使用后，显示所有房间的位置和图标。",
     "offset": "-128px 0px",
-    "quoteEn": "Vision"
+    "quoteEn": "Vision",
+    "color": "#8a7b5e"
   },
   {
     "title": "签筒符文",
@@ -404,7 +440,8 @@
     "charge": null,
     "effect": "使用后，重置房间中的所有道具。",
     "offset": "-160px 0px",
-    "quoteEn": "Change"
+    "quoteEn": "Change",
+    "color": "#817e74"
   },
   {
     "title": "桦木符文",
@@ -415,7 +452,8 @@
     "charge": null,
     "effect": "使用后，蓝苍蝇+3，蓝蜘蛛+3。",
     "offset": "-192px 0px",
-    "quoteEn": "Companionship"
+    "quoteEn": "Companionship",
+    "color": "#946567"
   },
   {
     "title": "保护符文",
@@ -426,7 +464,8 @@
     "charge": null,
     "effect": "使用后，获得护盾，持续20秒。",
     "offset": "-224px 0px",
-    "quoteEn": "Resistance"
+    "quoteEn": "Resistance",
+    "color": "#857d5d"
   },
   {
     "title": "空白符文",
@@ -437,7 +476,8 @@
     "charge": null,
     "effect": "使用后，触发随机符文的效果，有概率生成1个空白符文。",
     "offset": "-608px -32px",
-    "quoteEn": "???"
+    "quoteEn": "???",
+    "color": "#5d536a"
   },
   {
     "title": "黑符文",
@@ -448,7 +488,8 @@
     "charge": null,
     "effect": "使用后，对所有敌人造成中等伤害，将房间中的所有物品变为属性加成或蓝苍蝇/蓝蜘蛛。",
     "offset": "0px -64px",
-    "quoteEn": "Void"
+    "quoteEn": "Void",
+    "color": "#474747"
   },
   {
     "title": "混沌卡",
@@ -459,7 +500,8 @@
     "charge": null,
     "effect": "使用后，丢出混沌卡，消灭碰到的敌人。",
     "offset": "-32px -64px",
-    "quoteEn": "???"
+    "quoteEn": "???",
+    "color": "#7b6f6b"
   },
   {
     "title": "信用卡",
@@ -470,7 +512,8 @@
     "charge": null,
     "effect": "使用后，当前房间中的所有物品免费。",
     "offset": "-64px -64px",
-    "quoteEn": "Charge it!"
+    "quoteEn": "Charge it!",
+    "color": "#4a7871"
   },
   {
     "title": "规则卡",
@@ -481,7 +524,8 @@
     "charge": null,
     "effect": "使用后，显示一条游戏规则。",
     "offset": "-96px -64px",
-    "quoteEn": "???"
+    "quoteEn": "???",
+    "color": "#c7c7c7"
   },
   {
     "title": "反人类卡",
@@ -492,7 +536,8 @@
     "charge": null,
     "effect": "使用后，整个房间充满大便。",
     "offset": "-128px -64px",
-    "quoteEn": "Something stinks..."
+    "quoteEn": "Something stinks...",
+    "color": "#4d4d4d"
   },
   {
     "title": "自杀之王",
@@ -503,7 +548,8 @@
     "charge": null,
     "effect": "使用后，角色死亡，随机生成10个物品。",
     "offset": "-160px -64px",
-    "quoteEn": "A true ending?"
+    "quoteEn": "A true ending?",
+    "color": "#bfb7b1"
   },
   {
     "title": "免费保释卡",
@@ -514,7 +560,8 @@
     "charge": null,
     "effect": "使用后，打开所有的门。",
     "offset": "-192px -64px",
-    "quoteEn": "Open Sesame"
+    "quoteEn": "Open Sesame",
+    "color": "#bc9c73"
   },
   {
     "title": "？卡",
@@ -525,7 +572,8 @@
     "charge": null,
     "effect": "使用后，触发主动道具的效果。",
     "offset": "-224px -64px",
-    "quoteEn": "Double active"
+    "quoteEn": "Double active",
+    "color": "#c2c2c2"
   },
   {
     "title": "骰子碎片",
@@ -536,7 +584,8 @@
     "charge": null,
     "effect": "使用后，重置当前房间中的所有道具与掉落物。",
     "offset": "-256px -64px",
-    "quoteEn": "D6 + D20"
+    "quoteEn": "D6 + D20",
+    "color": "#581a23"
   },
   {
     "title": "紧急联系电话",
@@ -547,7 +596,8 @@
     "charge": null,
     "effect": "使用后，随机使2个敌人被定身/消灭。",
     "offset": "-288px -64px",
-    "quoteEn": "Help from above"
+    "quoteEn": "Help from above",
+    "color": "#a78a65"
   },
   {
     "title": "神圣卡",
@@ -558,7 +608,8 @@
     "charge": null,
     "effect": "使用后，抵挡1次受到的伤害。",
     "offset": "-320px -64px",
-    "quoteEn": "You feel protected"
+    "quoteEn": "You feel protected",
+    "color": "#bac4c3"
   },
   {
     "title": "变巨术",
@@ -569,7 +620,8 @@
     "charge": null,
     "effect": "使用后，当前房间中角色能够摧毁障碍物，角色体型变大，伤害上升，射程上升。",
     "offset": "-352px -64px",
-    "quoteEn": "Become immense!"
+    "quoteEn": "Become immense!",
+    "color": "#595653"
   },
   {
     "title": "先祖召唤",
@@ -580,7 +632,8 @@
     "charge": null,
     "effect": "使用后，生成3个卡牌。",
     "offset": "-384px -64px",
-    "quoteEn": "Draw 3 cards"
+    "quoteEn": "Draw 3 cards",
+    "color": "#8493a1"
   },
   {
     "title": "时空漫步",
@@ -591,7 +644,8 @@
     "charge": null,
     "effect": "使用后，在当前房间中，移速上升，弹速下降，所有敌人减速。",
     "offset": "-416px -64px",
-    "quoteEn": "Savor the moment"
+    "quoteEn": "Savor the moment",
+    "color": "#747d96"
   },
   {
     "title": "符文碎片",
@@ -602,7 +656,8 @@
     "charge": null,
     "effect": "使用后，触发一个随机符文效果，比正常的稍弱。",
     "offset": "-448px -64px",
-    "quoteEn": "It still glows faintly"
+    "quoteEn": "It still glows faintly",
+    "color": "#56515d"
   },
   {
     "title": "0-愚者？",
@@ -613,7 +668,8 @@
     "charge": null,
     "effect": "使用后，角色丢失所有掉落物。",
     "offset": "-480px -64px",
-    "quoteEn": "Let go and move on"
+    "quoteEn": "Let go and move on",
+    "color": "#66675f"
   },
   {
     "title": "I-魔术师？",
@@ -624,7 +680,8 @@
     "charge": null,
     "effect": "使用后，阻挡靠近角色的泪弹。",
     "offset": "-512px -64px",
-    "quoteEn": "May no harm come to you"
+    "quoteEn": "May no harm come to you",
+    "color": "#938b7d"
   },
   {
     "title": "II-女祭司？",
@@ -635,7 +692,8 @@
     "charge": null,
     "effect": "使用后，暂时获得 铲子碎片的效果。",
     "offset": "-544px -64px",
-    "quoteEn": "Run"
+    "quoteEn": "Run",
+    "color": "#81727b"
   },
   {
     "title": "III-皇后？",
@@ -646,7 +704,8 @@
     "charge": null,
     "effect": "使用后，射速上升，获得2个临时心之容器。",
     "offset": "-576px -64px",
-    "quoteEn": "May your love bring protection"
+    "quoteEn": "May your love bring protection",
+    "color": "#746261"
   },
   {
     "title": "IV-皇帝？",
@@ -657,7 +716,8 @@
     "charge": null,
     "effect": "使用后，传送到额外头目房。",
     "offset": "-608px -64px",
-    "quoteEn": "May you find a worthy opponent"
+    "quoteEn": "May you find a worthy opponent",
+    "color": "#8a7b5e"
   },
   {
     "title": "V-教皇？",
@@ -668,7 +728,8 @@
     "charge": null,
     "effect": "使用后，生成2个骨心。",
     "offset": "0px -96px",
-    "quoteEn": "Two prayers for the forgotten"
+    "quoteEn": "Two prayers for the forgotten",
+    "color": "#817e74"
   },
   {
     "title": "VI-恋人？",
@@ -679,7 +740,8 @@
     "charge": null,
     "effect": "使用后，生成1个道具，失去1个心之容器或2个魂心，获得1个碎心。",
     "offset": "-32px -96px",
-    "quoteEn": "May your heart shatter to pieces"
+    "quoteEn": "May your heart shatter to pieces",
+    "color": "#946567"
   },
   {
     "title": "VII-战车？",
@@ -690,7 +752,8 @@
     "charge": null,
     "effect": "使用后，短暂无敌且不能移动，射速上升。",
     "offset": "-64px -96px",
-    "quoteEn": "May nothing walk past you"
+    "quoteEn": "May nothing walk past you",
+    "color": "#857d5d"
   },
   {
     "title": "VIII-正义？",
@@ -701,7 +764,8 @@
     "charge": null,
     "effect": "使用后，生成2~4个金宝箱。",
     "offset": "-96px -96px",
-    "quoteEn": "May your sins come back to torment you"
+    "quoteEn": "May your sins come back to torment you",
+    "color": "#8c7164"
   },
   {
     "title": "IX-隐者？",
@@ -712,7 +776,8 @@
     "charge": null,
     "effect": "使用后，消耗房间中的所有掉落物和道具，生成对应数量的硬币。",
     "offset": "-128px -96px",
-    "quoteEn": "May you see the value of all things in life"
+    "quoteEn": "May you see the value of all things in life",
+    "color": "#7f7d8f"
   },
   {
     "title": "X-命运之轮？",
@@ -723,7 +788,8 @@
     "charge": null,
     "effect": "使用后，触发随机骰子房效果。",
     "offset": "-160px -96px",
-    "quoteEn": "Throw the dice of fate"
+    "quoteEn": "Throw the dice of fate",
+    "color": "#95716f"
   },
   {
     "title": "XI-力量？",
@@ -734,7 +800,8 @@
     "charge": null,
     "effect": "使用后，削弱房间中的所有敌人。",
     "offset": "-192px -96px",
-    "quoteEn": "May you break their resolve"
+    "quoteEn": "May you break their resolve",
+    "color": "#998089"
   },
   {
     "title": "XII-倒吊人？",
@@ -745,7 +812,8 @@
     "charge": null,
     "effect": "使用后，暂时变为店主。",
     "offset": "-224px -96px",
-    "quoteEn": "May your greed know no bounds"
+    "quoteEn": "May your greed know no bounds",
+    "color": "#716e70"
   },
   {
     "title": "XIII-死亡？",
@@ -756,7 +824,8 @@
     "charge": null,
     "effect": "使用后，触发 亡者之书的效果。",
     "offset": "-256px -96px",
-    "quoteEn": "May life spring forth from the fallen"
+    "quoteEn": "May life spring forth from the fallen",
+    "color": "#7e7785"
   },
   {
     "title": "XIV-节制？",
@@ -767,7 +836,8 @@
     "charge": null,
     "effect": "使用后，触发5种随机胶囊的效果。",
     "offset": "-288px -96px",
-    "quoteEn": "May your hunger be satiated"
+    "quoteEn": "May your hunger be satiated",
+    "color": "#6c636c"
   },
   {
     "title": "XV-恶魔？",
@@ -778,7 +848,8 @@
     "charge": null,
     "effect": "使用后，触发 圣经的效果，暂时生成1个 撒拉弗。",
     "offset": "-320px -96px",
-    "quoteEn": "Bask in the light of your mercy"
+    "quoteEn": "Bask in the light of your mercy",
+    "color": "#623b3f"
   },
   {
     "title": "XVI-塔？",
@@ -789,7 +860,8 @@
     "charge": null,
     "effect": "使用后，生成6堆障碍物。",
     "offset": "-352px -96px",
-    "quoteEn": "Creation brings destruction"
+    "quoteEn": "Creation brings destruction",
+    "color": "#5e4f55"
   },
   {
     "title": "XVII-星星？",
@@ -800,7 +872,8 @@
     "charge": null,
     "effect": "使用后，移除1个被动道具，生成2个道具。",
     "offset": "-384px -96px",
-    "quoteEn": "May your loss bring fortune"
+    "quoteEn": "May your loss bring fortune",
+    "color": "#7b756f"
   },
   {
     "title": "XVIII-月亮？",
@@ -811,7 +884,8 @@
     "charge": null,
     "effect": "使用后，传送到究极隐藏房。",
     "offset": "-416px -96px",
-    "quoteEn": "May you remember lost memories"
+    "quoteEn": "May you remember lost memories",
+    "color": "#5e6188"
   },
   {
     "title": "XIX-太阳？",
@@ -822,7 +896,8 @@
     "charge": null,
     "effect": "使用后，获得 夜之幽魂的效果，伤害上升。",
     "offset": "-448px -96px",
-    "quoteEn": "May the darkness swallow all around you"
+    "quoteEn": "May the darkness swallow all around you",
+    "color": "#a69876"
   },
   {
     "title": "XX-审判？",
@@ -833,7 +908,8 @@
     "charge": null,
     "effect": "使用后，生成1个补货机。",
     "offset": "-480px -96px",
-    "quoteEn": "May you redeem those found wanting"
+    "quoteEn": "May you redeem those found wanting",
+    "color": "#78868c"
   },
   {
     "title": "XXI-世界？",
@@ -844,7 +920,8 @@
     "charge": null,
     "effect": "使用后，生成1个暗门。",
     "offset": "-512px -96px",
-    "quoteEn": "Step into the abyss"
+    "quoteEn": "Step into the abyss",
+    "color": "#837a88"
   },
   {
     "title": "红钥匙碎片",
@@ -855,7 +932,8 @@
     "charge": null,
     "effect": "使用后，触发 红钥匙的效果。",
     "offset": "-544px -96px",
-    "quoteEn": "???"
+    "quoteEn": "???",
+    "color": "#4c1212"
   },
   {
     "title": "红桃Q",
@@ -866,7 +944,8 @@
     "charge": null,
     "effect": "使用后，生成1~20个红心。",
     "offset": "-576px -96px",
-    "quoteEn": "<3"
+    "quoteEn": "<3",
+    "color": "#bab1b1"
   },
   {
     "title": "万用牌",
@@ -877,7 +956,8 @@
     "charge": null,
     "effect": "使用后，触发上一次使用的主动道具、卡牌或胶囊的效果。",
     "offset": "-608px -96px",
-    "quoteEn": "Again"
+    "quoteEn": "Again",
+    "color": "#9f938e"
   },
   {
     "title": "以撒的魂石",
@@ -888,7 +968,8 @@
     "charge": null,
     "effect": "使用后，房间中的所有道具各自在两个选项间循环。",
     "offset": "0px -128px",
-    "quoteEn": "Reroll... or not"
+    "quoteEn": "Reroll... or not",
+    "color": "#ad6e6e"
   },
   {
     "title": "抹大拉的魂石",
@@ -899,7 +980,8 @@
     "charge": null,
     "effect": "使用后，当前房间内消灭敌人会生成红心，2秒后消失。",
     "offset": "-32px -128px",
-    "quoteEn": "Give me your love!"
+    "quoteEn": "Give me your love!",
+    "color": "#aa565d"
   },
   {
     "title": "该隐的魂石",
@@ -910,7 +992,8 @@
     "charge": null,
     "effect": "使用后，对当前房间的每个出口触发 红钥匙效果。",
     "offset": "-64px -128px",
-    "quoteEn": "Opens the unopenable"
+    "quoteEn": "Opens the unopenable",
+    "color": "#98604a"
   },
   {
     "title": "犹大的魂石",
@@ -921,7 +1004,8 @@
     "charge": null,
     "effect": "使用后，触发 暗仪刺刀的效果。",
     "offset": "-96px -128px",
-    "quoteEn": "Right behind you"
+    "quoteEn": "Right behind you",
+    "color": "#974d66"
   },
   {
     "title": "???的魂石",
@@ -932,7 +1016,8 @@
     "charge": null,
     "effect": "使用后，生成8团有毒气体，放置7个 屁股炸弹。",
     "offset": "-128px -128px",
-    "quoteEn": "Chemical warfare"
+    "quoteEn": "Chemical warfare",
+    "color": "#50546c"
   },
   {
     "title": "夏娃的魂石",
@@ -943,7 +1028,8 @@
     "charge": null,
     "effect": "使用后，当前房间中生成14个 死鸟跟班。",
     "offset": "-160px -128px",
-    "quoteEn": "Your very own murder"
+    "quoteEn": "Your very own murder",
+    "color": "#4f4848"
   },
   {
     "title": "参孙的魂石",
@@ -954,7 +1040,8 @@
     "charge": null,
     "effect": "使用后，暂时变为狂暴状态的堕化参孙。",
     "offset": "-192px -128px",
-    "quoteEn": "Slay a thousand"
+    "quoteEn": "Slay a thousand",
+    "color": "#884a48"
   },
   {
     "title": "阿撒泻勒的魂石",
@@ -965,7 +1052,8 @@
     "charge": null,
     "effect": "使用后，触发 超级喷射的效果。",
     "offset": "-224px -128px",
-    "quoteEn": "Demon rage!"
+    "quoteEn": "Demon rage!",
+    "color": "#7d3f3f"
   },
   {
     "title": "拉撒路的魂石",
@@ -976,7 +1064,8 @@
     "charge": null,
     "effect": "使用后，角色死亡，以半颗心复活。会在受到致命伤时自动触发。",
     "offset": "-256px -128px",
-    "quoteEn": "Life after death"
+    "quoteEn": "Life after death",
+    "color": "#b66e56"
   },
   {
     "title": "伊甸的魂石",
@@ -987,7 +1076,8 @@
     "charge": null,
     "effect": "使用后，触发 六面骰和 二十面骰的效果，被重置后的道具从随机道具池中选择。",
     "offset": "-288px -128px",
-    "quoteEn": "Embrace chaos"
+    "quoteEn": "Embrace chaos",
+    "color": "#7a6e7e"
   },
   {
     "title": "游魂的魂石",
@@ -998,7 +1088,8 @@
     "charge": null,
     "effect": "使用后，暂时变为游魂。",
     "offset": "-320px -128px",
-    "quoteEn": "Leave your body behind"
+    "quoteEn": "Leave your body behind",
+    "color": "#979ea0"
   },
   {
     "title": "莉莉丝的魂石",
@@ -1009,7 +1100,8 @@
     "charge": null,
     "effect": "使用后，获得1个随机跟班。",
     "offset": "-352px -128px",
-    "quoteEn": "Motherhood"
+    "quoteEn": "Motherhood",
+    "color": "#84313b"
   },
   {
     "title": "店主的魂石",
@@ -1020,7 +1112,8 @@
     "charge": null,
     "effect": "使用后，生成1~25个硬币。",
     "offset": "-384px -128px",
-    "quoteEn": "$$$"
+    "quoteEn": "$$$",
+    "color": "#636060"
   },
   {
     "title": "亚玻伦的魂石",
@@ -1031,7 +1124,8 @@
     "charge": null,
     "effect": "使用后，生成15个随机蝗虫。",
     "offset": "-416px -128px",
-    "quoteEn": "Bringer of calamity"
+    "quoteEn": "Bringer of calamity",
+    "color": "#7d707c"
   },
   {
     "title": "遗骸的魂石",
@@ -1042,7 +1136,8 @@
     "charge": null,
     "effect": "使用后，生成遗骸作为临时副角色。",
     "offset": "-448px -128px",
-    "quoteEn": "Skeletal protector"
+    "quoteEn": "Skeletal protector",
+    "color": "#496e94"
   },
   {
     "title": "伯大尼的魂石",
@@ -1053,7 +1148,8 @@
     "charge": null,
     "effect": "使用后，生成6个 美德之书的随机火球。",
     "offset": "-480px -128px",
-    "quoteEn": "Friends from beyond"
+    "quoteEn": "Friends from beyond",
+    "color": "#687b98"
   },
   {
     "title": "雅各与以扫的魂石",
@@ -1064,6 +1160,7 @@
     "charge": null,
     "effect": "使用后，生成以扫作为临时副角色。",
     "offset": "-512px -128px",
-    "quoteEn": "Bound by blood"
+    "quoteEn": "Bound by blood",
+    "color": "#98595c"
   }
 ]

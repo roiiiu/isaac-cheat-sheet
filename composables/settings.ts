@@ -6,6 +6,7 @@ export type InputBarPos = 'bottom' | 'top'
 export const useSettingStore = defineStore('settings', () => {
   const sortMethod = ref<SortMethod>('id')
   const inputBarPos = ref<InputBarPos>('bottom')
+  const showBackToTop = ref<boolean>(true)
 
   function setSortMethod(method: SortMethod) {
     sortMethod.value = method
@@ -15,11 +16,17 @@ export const useSettingStore = defineStore('settings', () => {
     inputBarPos.value = pos
   }
 
+  function toggleShowBackToTop() {
+    showBackToTop.value = !showBackToTop.value
+  }
+
   return {
     sortMethod,
     inputBarPos,
     setSortMethod,
     setInputBarPos,
+    toggleShowBackToTop,
+    showBackToTop,
   }
 }, {
   persist: true,

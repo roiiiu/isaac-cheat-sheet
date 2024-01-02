@@ -18,7 +18,7 @@ watchDebounced(input, () => {
     <div
       translate-x="-1/2"
       left="1/2"
-      flex="~ items-center" bg="base" outline="~ 2 gray5/80" fixed bottom-0 z-2 mb-2 of-visible rounded-full pl-3 shadow="~ inner black"
+      flex="~ items-center" bg="base" outline="~ 2 gray5/80" fixed bottom-0 z-3 mb-2 of-visible rounded-full pl-3 shadow="~ inner black"
     >
       <div i-ph-magnifying-glass-duotone text="gray3/60" mr-2 />
       <input

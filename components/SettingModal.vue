@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const modelValue = defineModel<boolean>({ required: true })
-const sortMethods: SortMethod[] = ['id', 'title', 'titleEn']
+const sortMethods: SortMethod[] = ['id', 'title', 'titleEn', 'color']
 const inputPos: InputBarPos[] = ['bottom', 'top']
 const settingStore = useSettingStore()
 const elementRef = ref<HTMLDivElement | null>(null)
@@ -16,10 +16,10 @@ onClickOutside(elementRef, () => {
   <Transition>
     <div
       v-if="modelValue"
-      ref="elementRef" :class="settingStore.inputBarPos === 'bottom' ? 'w-full top--19 left-0' : 'bottom--16 right-4 w-60'"
+      ref="elementRef" :class="settingStore.inputBarPos === 'bottom' ? 'w-full top--26 left-0' : 'bottom--24 right-4 w-60'"
       border="2 gray5/80"
       transform-origin="bc"
-      absolute z-2 rounded-md bg-back p-2 space-y-2
+      absolute rounded-md bg-back p-2 space-y-2
     >
       <div flex="~ items-center justify-between">
         <span text="gray sm">排序</span>
@@ -27,11 +27,11 @@ onClickOutside(elementRef, () => {
           <button
             v-for="method in sortMethods"
             :key="method"
-            :disabled="method === 'color'"
             :class="settingStore.sortMethod === method ? 'text-white' : 'text-gray4/60'"
             px-2
             @click="() => {
               settingStore.setSortMethod(method)
+              modelValue = false
             }"
           >
             <div v-if="method === 'title'" i-icon-park-outline-chinese />
@@ -52,10 +52,26 @@ onClickOutside(elementRef, () => {
             px-2
             @click="() => {
               settingStore.setInputBarPos(pos)
+              modelValue = false
             }"
           >
             <div v-if="pos === 'bottom'" i-ph-align-bottom-simple />
             <div v-else-if="pos === 'top'" i-ph-align-top-simple />
+          </button>
+        </div>
+      </div>
+
+      <div flex="~ items-center justify-between">
+        <span text="gray sm">显示回顶按钮</span>
+        <div flex="~ items-center justify-end ">
+          <button
+            :class="settingStore.showBackToTop ? 'text-white' : 'text-gray4/60'"
+            px-2
+            @click="() => {
+              settingStore.toggleShowBackToTop()
+            }"
+          >
+            <div i-ph-eyeglasses />
           </button>
         </div>
       </div>
