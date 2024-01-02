@@ -77,7 +77,7 @@ watchDebounced(input, () => {
       v-if="y > 0 && settingStore.showBackToTop"
       class="back-to-top"
       drop-shadow="~ color-lightblue/50"
-      fixed bottom-16 right-6 z-2 scale-200 @click="y = 0"
+      fixed bottom-17 right-6 z-2 scale-200 @click="y = 0"
     />
   </Transition>
 
