@@ -109,7 +109,7 @@ watchDebounced(input, () => {
   <DetailsModal v-model="modalVisible">
     <div
       mb-2 scale-150
-      :class="selected?.type"
+      :class="selected?.type === '卡牌' && parseInt(selected.id) < 40 && 31 < parseInt(selected.id) ? 'runes' : selected?.type"
       :style="{
         backgroundPosition: selected?.offset,
       }"

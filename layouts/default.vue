@@ -32,4 +32,13 @@ useFavicon('/icon.webp')
   height: 32px;
   background-image: url('/Cards_sprite.png');
 }
+
+.符文,
+.runes {
+  image-rendering: pixelated;
+  width: 32px;
+  height: 32px;
+  background-image: url('/Runes_sprite.png');
+  background-size: 288px, 32px;
+}
 </style>

@@ -381,7 +381,7 @@
     "effect": "使用后，摧毁房间中的所有障碍物。",
     "offset": "0px 0px",
     "quoteEn": "Destruction",
-    "color": "#66675f"
+    "color": "#a993c7"
   },
   {
     "title": "收获符文",
@@ -393,7 +393,7 @@
     "effect": "使用后，复制所有掉落物。",
     "offset": "-32px 0px",
     "quoteEn": "Abundance",
-    "color": "#938b7d"
+    "color": "#b8a7ce"
   },
   {
     "title": "马骑符文",
@@ -405,7 +405,7 @@
     "effect": "使用后，生成1个活板门。",
     "offset": "-64px 0px",
     "quoteEn": "Passage",
-    "color": "#81727b"
+    "color": "#a891c6"
   },
   {
     "title": "朝夕符文",
@@ -417,7 +417,7 @@
     "effect": "使用后，获得1个魂心，清除诅咒。",
     "offset": "-96px 0px",
     "quoteEn": "Purity",
-    "color": "#746261"
+    "color": "#b5a4cd"
   },
   {
     "title": "诸神符文",
@@ -429,7 +429,7 @@
     "effect": "使用后，显示所有房间的位置和图标。",
     "offset": "-128px 0px",
     "quoteEn": "Vision",
-    "color": "#8a7b5e"
+    "color": "#aa94c7"
   },
   {
     "title": "签筒符文",
@@ -441,7 +441,7 @@
     "effect": "使用后，重置房间中的所有道具。",
     "offset": "-160px 0px",
     "quoteEn": "Change",
-    "color": "#817e74"
+    "color": "#a892c6"
   },
   {
     "title": "桦木符文",
@@ -453,7 +453,7 @@
     "effect": "使用后，蓝苍蝇+3，蓝蜘蛛+3。",
     "offset": "-192px 0px",
     "quoteEn": "Companionship",
-    "color": "#946567"
+    "color": "#b09ec9"
   },
   {
     "title": "保护符文",
@@ -465,7 +465,7 @@
     "effect": "使用后，获得护盾，持续20秒。",
     "offset": "-224px 0px",
     "quoteEn": "Resistance",
-    "color": "#857d5d"
+    "color": "#a48cc4"
   },
   {
     "title": "空白符文",

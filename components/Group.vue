@@ -41,7 +41,7 @@ const settingStore = useSettingStore()
         @click="$emit('active', item)"
       >
         <div
-          :class="title"
+          :class="item.type === '卡牌' && parseInt(item.id) < 40 && 31 < parseInt(item.id) ? 'runes' : title"
           m-3
           scale-200
           :style="{
