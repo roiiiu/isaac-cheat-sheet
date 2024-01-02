@@ -3,7 +3,7 @@ useFavicon('/icon.webp')
 </script>
 
 <template>
-  <main class="bg-base px-4 pb-12">
+  <main class="bg-base pb-12">
     <slot />
   </main>
 </template>

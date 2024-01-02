@@ -1,15 +1,25 @@
 import { acceptHMRUpdate, defineStore } from 'pinia'
 
-export const useSettingStore = defineStore('settings', () => {
-  const sortMethod = ref('id')
+export type SortMethod = 'id' | 'title' | 'titleEn' | 'color'
+export type InputBarPos = 'bottom' | 'top'
 
-  function setSortMethod(method: string) {
+export const useSettingStore = defineStore('settings', () => {
+  const sortMethod = ref<SortMethod>('id')
+  const inputBarPos = ref<InputBarPos>('bottom')
+
+  function setSortMethod(method: SortMethod) {
     sortMethod.value = method
+  }
+
+  function setInputBarPos(pos: InputBarPos) {
+    inputBarPos.value = pos
   }
 
   return {
     sortMethod,
+    inputBarPos,
     setSortMethod,
+    setInputBarPos,
   }
 }, {
   persist: true,

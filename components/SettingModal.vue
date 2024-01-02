@@ -1,6 +1,7 @@
 <script setup lang="ts">
 const modelValue = defineModel<boolean>({ required: true })
-const sortMethods = ['id', 'title', 'titleEn']
+const sortMethods: SortMethod[] = ['id', 'title', 'titleEn']
+const inputPos: InputBarPos[] = ['bottom', 'top']
 const settingStore = useSettingStore()
 const elementRef = ref<HTMLDivElement | null>(null)
 
@@ -14,10 +15,11 @@ onClickOutside(elementRef, () => {
 <template>
   <Transition>
     <div
-      v-if="modelValue" ref="elementRef"
+      v-if="modelValue"
+      ref="elementRef" :class="settingStore.inputBarPos === 'bottom' ? 'w-full top--19 left-0' : 'bottom--16 right-4 w-60'"
       border="2 gray5/80"
       transform-origin="bc"
-      absolute left-0 top--12 w-full max-w-screen-xl rounded-md bg-back p-2
+      absolute z-2 rounded-md bg-back p-2 space-y-2
     >
       <div flex="~ items-center justify-between">
         <span text="gray sm">排序</span>
@@ -39,6 +41,24 @@ onClickOutside(elementRef, () => {
           </button>
         </div>
       </div>
+
+      <div flex="~ items-center justify-between">
+        <span text="gray sm">搜索框</span>
+        <div flex="~ items-center justify-end ">
+          <button
+            v-for="pos in inputPos"
+            :key="pos"
+            :class="settingStore.inputBarPos === pos ? 'text-white' : 'text-gray4/60'"
+            px-2
+            @click="() => {
+              settingStore.setInputBarPos(pos)
+            }"
+          >
+            <div v-if="pos === 'bottom'" i-ph-align-bottom-simple />
+            <div v-else-if="pos === 'top'" i-ph-align-top-simple />
+          </button>
+        </div>
+      </div>
     </div>
   </Transition>
 </template>
@@ -52,6 +72,5 @@ onClickOutside(elementRef, () => {
 .v-enter-from,
 .v-leave-to {
   opacity: 0;
-  transform: translateY(50%);
 }
 </style>

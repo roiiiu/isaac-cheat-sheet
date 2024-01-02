@@ -24,7 +24,8 @@ watchDebounced(input, () => {
       <input
         ref="inputRef"
         v-model="input"
-        placeholder="中，英文名，描述"
+        type="text"
+        placeholder="中、英文名，描述"
         appearance-none bg-transparent py-2 text-white outline-none
         @keyup.enter="inputRef!.blur()"
       >

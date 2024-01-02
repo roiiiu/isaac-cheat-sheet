@@ -8,7 +8,9 @@ type Item = typeof data[0]
 const modalVisible = ref(false)
 const selected = ref<Item | null>(null)
 const query = ref('')
+const input = ref('')
 const settingStore = useSettingStore()
+const settingModalVisible = ref(false)
 
 const filteredCollectibles = computed(() => {
   return data.filter(filterFunc).sort(sortFunc)
@@ -45,9 +47,37 @@ function toggleDetailsModal(item: any) {
   modalVisible.value = true
   selected.value = item
 }
+
+watchDebounced(input, () => {
+  search(input.value)
+}, {
+  debounce: 300,
+})
 </script>
 
 <template>
+  <div
+    v-if="settingStore.inputBarPos === 'top'"
+    flex="~ items-center gap-2"
+    relative of-visible px-4
+    border="b wheat/8"
+  >
+    <div i-ph-magnifying-glass-duotone text="gray3/60" mr-2 />
+    <input
+      v-model="input"
+      type="text" placeholder="中、英文名，描述" flex-1 bg-transparent py-4 text-wheat outline-none
+    >
+    <button
+      id="settingBtn"
+      text=" gray3 op80 lg"
+      hover="text-op-100"
+      @click="settingModalVisible = !settingModalVisible"
+    >
+      <div i-ph-gear-duotone />
+    </button>
+    <SettingModal v-model="settingModalVisible" />
+  </div>
+
   <Group :data="filteredCollectibles" title="道具" @active="toggleDetailsModal" />
   <Group :data="filteredTrinkets" title="饰品" @active="toggleDetailsModal" />
   <Group :data="filteredCards" title="卡牌" @active="toggleDetailsModal" />
@@ -77,5 +107,5 @@ function toggleDetailsModal(item: any) {
     </span>
   </DetailsModal>
 
-  <InputBar @search="search" />
+  <InputBar v-if="settingStore.inputBarPos === 'bottom'" @search="search" />
 </template>
