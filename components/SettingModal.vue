@@ -31,7 +31,6 @@ onClickOutside(elementRef, () => {
             px-2
             @click="() => {
               settingStore.setSortMethod(method)
-              modelValue = false
             }"
           >
             <div v-if="method === 'title'" i-icon-park-outline-chinese />
