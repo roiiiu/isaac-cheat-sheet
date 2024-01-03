@@ -30,6 +30,13 @@ watchDebounced(input, () => {
         @keyup.enter="inputRef!.blur()"
       >
       <button
+        :disabled="!input"
+        :class="{ op0: !input }"
+        @click="input = ''"
+      >
+        <div i-ph-x-circle text="gray3 op60 " hover="text-op-100" />
+      </button>
+      <button
         id="settingBtn"
         text=" gray3 op80 lg"
         hover="text-op-100"

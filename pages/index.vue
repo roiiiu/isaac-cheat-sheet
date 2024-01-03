@@ -92,9 +92,17 @@ watchDebounced(input, () => {
       type="text" placeholder="中、英文名，描述" flex-1 bg-transparent py-4 text-wheat outline-none
     >
     <button
+      :disabled="!input"
+      :class="{ op0: !input }"
+      @click="input = ''"
+    >
+      <div i-ph-x-circle text="gray3 op60 " hover="text-op-100" />
+    </button>
+    <button
       id="settingBtn"
       text=" gray3 op80 lg"
       hover="text-op-100"
+      ml-2
       @click="settingModalVisible = !settingModalVisible"
     >
       <div i-ph-gear-duotone />
