@@ -29,21 +29,20 @@ const settingStore = useSettingStore()
     <div
       v-show="expanded"
       :class="[title === '道具' && settingStore.inputBarPos === 'top' ? 'pt-12' : '']"
-      of-auto px-2 pb-2
       grid="~  lg:cols-15 md:cols-10 cols-5"
+      of-auto of-hidden px-2 pb-2
     >
       <button
         v-for="item in data"
         :key="item.id"
         flex="~ items-center justify-center"
-        hover="scale-120"
+        hover="scale-130"
         transition-100
         @click="$emit('active', item)"
       >
         <div
           :class="item.type === '卡牌' && parseInt(item.id) < 40 && 31 < parseInt(item.id) ? 'runes' : title"
-          m-3
-          scale-200
+          m-3 scale-200
           :style="{
             backgroundPosition: item.offset,
           }"
