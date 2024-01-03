@@ -30,7 +30,7 @@ const settingStore = useSettingStore()
       v-show="expanded"
       :class="[title === '道具' && settingStore.inputBarPos === 'top' ? 'pt-12' : '']"
       grid="~  lg:cols-15 md:cols-10 cols-5"
-      of-auto of-hidden px-2 pb-2
+      px-2 pb-2
     >
       <button
         v-for="item in data"
