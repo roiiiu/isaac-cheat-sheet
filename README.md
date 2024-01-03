@@ -4,5 +4,9 @@
 
 ## Todo
 
-- [ ] 物品颜色排序
+- [x] 物品颜色排序
 - [ ] 更多详情信息
+
+## Screenshots
+
+![screenshot](./736119977.png)
