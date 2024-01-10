@@ -4,7 +4,7 @@ export type SortMethod = 'id' | 'title' | 'titleEn' | 'color'
 export type InputBarPos = 'bottom' | 'top'
 
 export const useSettingStore = defineStore('settings', () => {
-  const sortMethod = ref<SortMethod>('id')
+  const sortMethod = ref<SortMethod>('color')
   const inputBarPos = ref<InputBarPos>('bottom')
   const showBackToTop = ref<boolean>(true)
 
@@ -32,5 +32,5 @@ export const useSettingStore = defineStore('settings', () => {
   persist: true,
 })
 
-if (import.meta.hot)
-  import.meta.hot.accept(acceptHMRUpdate(useUserStore, import.meta.hot))
+// if (import.meta.hot)
+//   import.meta.hot.accept(acceptHMRUpdate(useUserStore, import.meta.hot))
