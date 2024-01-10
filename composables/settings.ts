@@ -29,7 +29,9 @@ export const useSettingStore = defineStore('settings', () => {
     showBackToTop,
   }
 }, {
-  persist: true,
+  persist: {
+    storage: persistedState.localStorage,
+  },
 })
 
 // if (import.meta.hot)
